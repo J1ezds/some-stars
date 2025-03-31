@@ -1,25 +1,40 @@
 <div align="center">
 
-# Some Stars
+# ✨ Some Stars
 
-⭐ 我的star列表，每天自动更新 ⭐
+🌟 我的 star 列表 | 每日自动更新 🌟
 
-<div style="width:auto;margin: 0 auto;">
-  <a href="https://rsshub.app/github/starred_repos/J1ezds  target="_blank" title="基于rsshub的订阅">RSS订阅</a>
+[![RSS 订阅](https://img.shields.io/badge/RSS-订阅-FFA500?style=flat-square&logo=rss)](https://rsshub.app/github/starred_repos/J1ezds "基于 RSSHub 的订阅")
+
+<hr style="border: 1px solid #ececec; margin: 2em auto; width: 80%;">
+
 </div>
 
+## 📑 目录导航
 
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800"  height="3">
-</div><br>
-
-
-## Table of Contents
-
-<% for(let [language, repositories] of stars) { %>
-## <%= language %>
-  <% for(let repo of repositories) { %>
-- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description %>
-  <% } %>
+<% for(let [language] of stars) { %>
+- [<%= language %>](#<%= language.toLowerCase().replace(/\s+/g, '-') %>)
 <% } %>
 
-- By [rcy1314/some-starts](https://github.com/rcy1314/some-stars)
+<hr style="border: 1px solid #ececec; margin: 2em auto; width: 80%;">
+
+<% for(let [language, repositories] of stars) { %>
+<div id="<%= language.toLowerCase().replace(/\s+/g, '-') %>" style="margin: 2em 0; padding: 1.5em; background: #f8f9fa; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+
+### 🗃️ <%= language %>
+
+<% for(let repo of repositories) { %>
+<div style="margin: 1em 0; padding: 1em; background: white; border-radius: 6px; border-left: 4px solid #2188ff;">
+**🔗 [<%= repo.full_name %>](<%= repo.html_url %>)**  
+<%= repo.description || '*暂无描述*' %>  
+<small>⭐ <%= repo.stargazers_count %> | 🍴 <%= repo.forks_count %> | 📅 <%= new Date(repo.updated_at).toLocaleDateString() %></small>
+</div>
+<% } %>
+
+</div>
+<% } %>
+
+<div align="center" style="margin-top: 3em; color: #666; font-size: 0.9em;">
+<hr style="border: 1px solid #ececec; margin: 2em auto; width: 50%;">
+由 [rcy1314/some-stars](https://github.com/rcy1314/some-stars) 驱动更新
+</div>
