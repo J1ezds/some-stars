@@ -1,34 +1,89 @@
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f9;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        .rss-subscription {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .rss-subscription a {
+            display: inline-block;
+            background-color: #3498db;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        .rss-subscription a:hover {
+            background-color: #2980b9;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background-color: #ecf0f1;
+            margin-bottom: 10px;
+            padding: 15px;
+            border-radius: 5px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        li a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        li a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            color: #7f8c8d;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Some Stars</h1>
+        <p style="text-align: center;">⭐ 我的star列表，每天自动更新 ⭐</p>
 
-# Some Stars ✨
+        <% for(let [language, repositories] of stars) { %>
+        <h2><%= language %></h2>
+        <ul>
+            <% for(let repo of repositories) { %>
+            <li>
+                <a href="<%= repo.html_url %>"><%= repo.full_name %></a>
+                <span><%= repo.description %></span>
+            </li>
+            <% } %>
+        </ul>
+        <% } %>
 
-⭐ 我收藏的仓库列表，每天自动更新 ⭐
-
-<a href="https://rsshub.app/github/starred_repos/J1ezds" target="_blank" title="通过 RSS 订阅更新">
-  <img src="https://img.shields.io/badge/RSS-订阅更新-orange?style=flat-square" alt="RSS 订阅"/>
-</a>
-
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" style="max-width: 800px; width: 100%; height: 5px; margin-top: 15px; margin-bottom: 15px;" alt="divider">
-
-</div>
-
-<% if (stars && stars.size > 0) { %>
-  <% for(let [language, repositories] of stars) { %>
-## 💻 <%= language %>
-    <% for(let repo of repositories) { %>
-- **[<%= repo.full_name %>](<%= repo.html_url %>)** <%= repo.description ? `- ${repo.description}` : '- 暂无描述' %> <br>
-  <sup>⭐ <%= repo.stargazers_count || 0 %> | 🍴 <%= repo.forks_count || 0 %></sup>
-    <% } %>
-  <% } %>
-<% } else { %>
-## 🤔 列表是空的...
-看起来你还没有 Star 任何仓库，或者脚本出错了？
-<% } %>
-
-<br>
-<div align="center">
-  <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" style="max-width: 800px; width: 100%; height: 5px; margin-top: 15px; margin-bottom: 10px;" alt="divider">
-  <p>
-    <small>由 <a href="https://github.com/rcy1314/some-stars">rcy1314/some-stars</a> 自动生成</small>
-  </p>
-</div>
+        <footer>- By <a href="https://github.com/rcy1314/some-stars">rcy1314/some-stars</a></footer>
+    </div>
+</body>
+</html>
