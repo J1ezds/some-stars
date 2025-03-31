@@ -26,8 +26,8 @@
 <% for(let repo of repositories) { %>
 <div style="margin: 1em 0; padding: 1em; background: white; border-radius: 6px; border-left: 4px solid #2188ff;">
 **🔗 [<%= repo.full_name %>](<%= repo.html_url %>)**  
-<%= repo.description || '*暂无描述*' %>  
-<small>⭐ <%= repo.stargazers_count %> | 🍴 <%= repo.forks_count %> | 📅 <%= new Date(repo.updated_at).toLocaleDateString() %></small>
+<%= (repo.description || '*暂无描述*').replace(/\n/g, ' ') %>  
+<small>⭐ <%= repo.stargazers_count.toLocaleString() %> | 🍴 <%= repo.forks_count.toLocaleString() %> | 📅 <%= new Date(repo.updated_at).toLocaleDateString('zh-CN', { year: 'numeric', month: '2-digit', day: '2-digit' }) %></small>
 </div>
 <% } %>
 
@@ -36,5 +36,4 @@
 
 <div align="center" style="margin-top: 3em; color: #666; font-size: 0.9em;">
 <hr style="border: 1px solid #ececec; margin: 2em auto; width: 50%;">
-由 [rcy1314/some-stars](https://github.com/rcy1314/some-stars) 驱动更新
-</div>
+由 [
