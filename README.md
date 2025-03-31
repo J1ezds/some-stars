@@ -6,7 +6,58 @@
 
 </div><br>
 
-## ✨ 目录导航
+## Table of Contents
+
+*   [miscellaneous](#miscellaneous)
+*   [C++](#c)
+*   [Python](#python)
+*   [Swift](#swift)
+*   [Java](#java)
+*   [EJS](#ejs)
+*   [Shell](#shell)
+*   [JavaScript](#javascript)
+*   [Dockerfile](#dockerfile)
+*   [PHP](#php)
+*   [HTML](#html)
+*   [NSIS](#nsis)
+*   [Go](#go)
+*   [TypeScript](#typescript)
+*   [C#](#c-1)
+*   [CodeQL](#codeql)
+*   [Rust](#rust)
+*   [Assembly](#assembly)
+*   [CSS](#css)
+*   [C](#c-2)
+*   [PowerShell](#powershell)
+*   [Kotlin](#kotlin)
+*   [Objective-C](#objective-c)
+*   [Batchfile](#batchfile)
+*   [Visual Basic .NET](#visual-basic-net)
+*   [Pascal](#pascal)
+*   [Vue](#vue)
+*   [Ruby](#ruby)
+*   [Smali](#smali)
+*   [LLVM](#llvm)
+*   [VBScript](#vbscript)
+*   [Jinja](#jinja)
+*   [Roff](#roff)
+*   [Mermaid](#mermaid)
+*   [SCSS](#scss)
+*   [Markdown](#markdown)
+*   [ASP.NET](#aspnet)
+*   [Objective-C++](#objective-c-1)
+*   [Smarty](#smarty)
+*   [Rich Text Format](#rich-text-format)
+*   [XSLT](#xslt)
+*   [Lua](#lua)
+*   [Inno Setup](#inno-setup)
+*   [Classic ASP](#classic-asp)
+*   [Meson](#meson)
+*   [Jupyter Notebook](#jupyter-notebook)
+*   [Stylus](#stylus)
+*   [Perl](#perl)
+*   [YARA](#yara)
+*   [AutoIt](#autoit)
 
 ## miscellaneous
 
@@ -3108,4 +3159,4 @@
 
 *   [cnjackchen/my-chrome](https://github.com/cnjackchen/my-chrome) - MyChrome -- Make Google Chrome portable yourself
 
-*   源于 [rcy1314/some-stars](https://github.com/rcy1314/some-stars)
+源于 [rcy1314/some-stars](https://github.com/rcy1314/some-stars)
