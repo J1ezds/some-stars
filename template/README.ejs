@@ -1,89 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            background-color: #f4f4f9;
-            padding: 20px;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            text-align: center;
-            color: #2c3e50;
-        }
-        .rss-subscription {
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        .rss-subscription a {
-            display: inline-block;
-            background-color: #3498db;
-            color: #fff;
-            padding: 10px 20px;
-            text-decoration: none;
-            border-radius: 5px;
-            transition: background-color 0.3s ease;
-        }
-        .rss-subscription a:hover {
-            background-color: #2980b9;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            background-color: #ecf0f1;
-            margin-bottom: 10px;
-            padding: 15px;
-            border-radius: 5px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-        li a {
-            color: #3498db;
-            text-decoration: none;
-        }
-        li a:hover {
-            text-decoration: underline;
-        }
-        footer {
-            text-align: center;
-            margin-top: 20px;
-            color: #7f8c8d;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Some Stars</h1>
-        <p style="text-align: center;">⭐ 我的star列表，每天自动更新 ⭐</p>
+<div align="center">
 
-        <% for(let [language, repositories] of stars) { %>
-        <h2><%= language %></h2>
-        <ul>
-            <% for(let repo of repositories) { %>
-            <li>
-                <a href="<%= repo.html_url %>"><%= repo.full_name %></a>
-                <span><%= repo.description %></span>
-            </li>
-            <% } %>
-        </ul>
-        <% } %>
+# ✨ Some Stars
 
-        <footer>- By <a href="https://github.com/rcy1314/some-stars">rcy1314/some-stars</a></footer>
-    </div>
-</body>
-</html>
+🌟 我的 star 列表 | 每日自动更新 🌟
+
+
+## 📑 目录导航
+
+<% for(let [language, repositories] of stars) { %>
+### 🗃️ <%= language %>
+  <% for(let repo of repositories) { %>
+- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description %>
+  <% } %>
+<% } %>
+
+- 源于 [rcy1314/some-stars](https://github.com/rcy1314/some-stars)
