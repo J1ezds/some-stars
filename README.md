@@ -4,60 +4,11 @@
 
 🌟 我的 star 列表 | 每日自动更新 🌟
 
-## Table of Contents
+</div><br>
 
-*   [miscellaneous](#miscellaneous)
-*   [C++](#c)
-*   [Python](#python)
-*   [Swift](#swift)
-*   [Java](#java)
-*   [EJS](#ejs)
-*   [Shell](#shell)
-*   [JavaScript](#javascript)
-*   [Dockerfile](#dockerfile)
-*   [PHP](#php)
-*   [HTML](#html)
-*   [NSIS](#nsis)
-*   [Go](#go)
-*   [TypeScript](#typescript)
-*   [C#](#c-1)
-*   [CodeQL](#codeql)
-*   [Rust](#rust)
-*   [Assembly](#assembly)
-*   [CSS](#css)
-*   [C](#c-2)
-*   [PowerShell](#powershell)
-*   [Kotlin](#kotlin)
-*   [Objective-C](#objective-c)
-*   [Batchfile](#batchfile)
-*   [Visual Basic .NET](#visual-basic-net)
-*   [Pascal](#pascal)
-*   [Vue](#vue)
-*   [Ruby](#ruby)
-*   [Smali](#smali)
-*   [LLVM](#llvm)
-*   [VBScript](#vbscript)
-*   [Jinja](#jinja)
-*   [Roff](#roff)
-*   [Mermaid](#mermaid)
-*   [SCSS](#scss)
-*   [Markdown](#markdown)
-*   [ASP.NET](#aspnet)
-*   [Objective-C++](#objective-c-1)
-*   [Smarty](#smarty)
-*   [Rich Text Format](#rich-text-format)
-*   [XSLT](#xslt)
-*   [Lua](#lua)
-*   [Inno Setup](#inno-setup)
-*   [Classic ASP](#classic-asp)
-*   [Meson](#meson)
-*   [Jupyter Notebook](#jupyter-notebook)
-*   [Stylus](#stylus)
-*   [Perl](#perl)
-*   [YARA](#yara)
-*   [AutoIt](#autoit)
+## ✨ 目录导航
 
-## miscellaneous
+## ✨ miscellaneous
 
 *   [abc123info/Struts2VulsScanTools](https://github.com/abc123info/Struts2VulsScanTools) - 1、点击“检测漏洞”，会自动检测该URL是否存在S2-001、S2-005、S2-009、S2-013、S2-016、S2-019、S2-020/021、S2-032、S2-037、DevMode、S2-045/046、S2-052、S2-048、S2-053、S2-057、S2-061、S2相关log4j2十余种漏洞。  2、“批量验证”，（为防止批量geshell，此功能已经删除，并不再开发）。  3、S2-020、S2-021仅提供漏洞扫描功能，因漏洞利用exp很大几率造成网站访问异常，本程序暂不提供。  4、对于需要登录的页面，请勾选“设置全局Cookie值”，并填好相应的Cookie，程序每次发包都会带上Cookie。  5、作者对不同的struts2漏洞测试语句做了大量修改，执行
 
@@ -669,7 +620,7 @@
 
 *   [pandasec888/taowu-cobalt\_strike](https://github.com/pandasec888/taowu-cobalt_strike) -
 
-## C++
+## ✨ C++
 
 *   [kimci86/bkcrack](https://github.com/kimci86/bkcrack) - Crack legacy zip encryption with Biham and Kocher's known plaintext attack.
 
@@ -789,7 +740,7 @@
 
 *   [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 
-## Python
+## ✨ Python
 
 *   [JasmineAura/bkcrackGUI](https://github.com/JasmineAura/bkcrackGUI) - 基于 bkcrack 的可视化压缩包明文攻击工具
 
@@ -1423,7 +1374,7 @@
 
 *   [broken5/WebAliveScan](https://github.com/broken5/WebAliveScan) - 对目标域名进行快速的存活扫描、简单的指纹识别、目录扫描
 
-## Swift
+## ✨ Swift
 
 *   [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
 
@@ -1441,7 +1392,7 @@
 
 *   [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
 
-## Java
+## ✨ Java
 
 *   [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - HyperOS enhancement module - Make HyperOS Great Again!
 
@@ -1827,11 +1778,11 @@
 
 *   [frohoff/ysoserial](https://github.com/frohoff/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
 
-## EJS
+## ✨ EJS
 
 *   [sothx/mipad-magic-window](https://github.com/sothx/mipad-magic-window) - Hyper OS For Pad/Fold 完美横屏应用计划
 
-## Shell
+## ✨ Shell
 
 *   [hanreev/root-bluestacks-air](https://github.com/hanreev/root-bluestacks-air) - Root BlueStacks Air macOS
 
@@ -1921,7 +1872,7 @@
 
 *   [xiaoZ-hc/redtool](https://github.com/xiaoZ-hc/redtool) - 日常积累的一些红队工具及自己写的脚本，更偏向于一些diy的好用的工具，并不是一些比较常用的msf/awvs/xray这种
 
-## JavaScript
+## ✨ JavaScript
 
 *   [arounyf/headscale-Admin](https://github.com/arounyf/headscale-Admin) - 支持多用户管理的一款headscale后台控制中心
 
@@ -2047,7 +1998,7 @@
 
 *   [AntSwordProject/AwesomeEncoder](https://github.com/AntSwordProject/AwesomeEncoder) - AntSword 自定义编(解)码器分享
 
-## Dockerfile
+## ✨ Dockerfile
 
 *   [yangchuansheng/ip\_derper](https://github.com/yangchuansheng/ip_derper) - 无需域名的 derper
 
@@ -2065,7 +2016,7 @@
 
 *   [AntSwordProject/AntSword-Labs](https://github.com/AntSwordProject/AntSword-Labs) - Awesome environment for antsword tests
 
-## PHP
+## ✨ PHP
 
 *   [pk-fr/yakpro-po](https://github.com/pk-fr/yakpro-po) - YAK Pro - Php Obfuscator
 
@@ -2141,7 +2092,7 @@
 
 *   [tennc/webshell](https://github.com/tennc/webshell) - This is a webshell open source project
 
-## HTML
+## ✨ HTML
 
 *   [ybdt/exp-hub](https://github.com/ybdt/exp-hub) - 漏洞复现
 
@@ -2219,11 +2170,11 @@
 
 *   [Wh0ale/SRC-experience](https://github.com/Wh0ale/SRC-experience) - 工欲善其事，必先利其器
 
-## NSIS
+## ✨ NSIS
 
 *   [BKLockly/ShadowMeld](https://github.com/BKLockly/ShadowMeld) - 🕶️ 隐蔽Shellcode嵌入与反检测免杀加载器生成框架 / Stealthy Payload Delivery Framework with Anti-EDR Capabilities
 
-## Go
+## ✨ Go
 
 *   [CRlife/Rscan](https://github.com/CRlife/Rscan) - 自动化扫描利器，指纹识别更精准，漏洞扫描更全面
 
@@ -2585,7 +2536,7 @@
 
 *   [tomnomnom/httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working HTTP and HTTPS servers
 
-## TypeScript
+## ✨ TypeScript
 
 *   [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 
@@ -2637,7 +2588,7 @@
 
 *   [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 
-## C\#
+## ✨ C\#
 
 *   [GZTimeWalker/GZCTF](https://github.com/GZTimeWalker/GZCTF) - The GZ::CTF project, an open source CTF platform.
 
@@ -2775,11 +2726,11 @@
 
 *   [RayWangQvQ/BiliBiliTool](https://github.com/RayWangQvQ/BiliBiliTool) - 基于 .Net 5 的B站（哔哩哔哩）任务工具，实现每日自动运行任务：如每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6；如定时自动领取大会员权益、月底自动为自己充电；如天选时刻抽奖等功能。
 
-## CodeQL
+## ✨ CodeQL
 
 *   [webraybtl/CodeQLpy](https://github.com/webraybtl/CodeQLpy) - CodeQLpy是一款基于CodeQL实现的半自动化代码审计工具，目前仅支持java语言。实现从源码反编译，数据库生成，脆弱性发现的全过程，可以辅助代码审计人员快速定位源码可能存在的漏洞。
 
-## Rust
+## ✨ Rust
 
 *   [86maid/ddddocr](https://github.com/86maid/ddddocr) - ddddocr rust 版本，ocr\_api\_server rust 版本，二进制版本，验证码识别，不依赖 opencv 库，跨平台运行，a simple OCR API server, very easy to deploy。
 
@@ -2819,13 +2770,13 @@
 
 *   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
-## Assembly
+## ✨ Assembly
 
 *   [Symph0nia/Golconde](https://github.com/Symph0nia/Golconde) - 汇编HTTP请求发送/Assembly Http Request
 
 *   [klezVirus/inceptor](https://github.com/klezVirus/inceptor) - Template-Driven AV/EDR Evasion Framework
 
-## CSS
+## ✨ CSS
 
 *   [qianxiao996/ctf-knife](https://github.com/qianxiao996/ctf-knife) - 编码解码工具
 
@@ -2843,7 +2794,7 @@
 
 *   [admin360bug/PHP](https://github.com/admin360bug/PHP) - PHP训练靶场
 
-## C
+## ✨ C
 
 *   [topotam/PetitPotam](https://github.com/topotam/PetitPotam) - PoC tool to coerce Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw or other functions.
 
@@ -2945,7 +2896,7 @@
 
 *   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 
-## PowerShell
+## ✨ PowerShell
 
 *   [arch3rPro/PST-Bucket](https://github.com/arch3rPro/PST-Bucket) - Scoop-Buket for Penetration Suite Toolkit  -  Windows渗透测试工具仓库For Scoop
 
@@ -2977,7 +2928,7 @@
 
 *   [lintstar/LSTAR](https://github.com/lintstar/LSTAR) - LSTAR - CobaltStrike 综合后渗透插件
 
-## Kotlin
+## ✨ Kotlin
 
 *   [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
 
@@ -2999,7 +2950,7 @@
 
 *   [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 
-## Objective-C
+## ✨ Objective-C
 
 *   [ToBeDefined/TLocationPlugin](https://github.com/ToBeDefined/TLocationPlugin) - 企业微信打卡等软件虚拟定位
 
@@ -3015,17 +2966,17 @@
 
 *   [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower) - MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
 
-## Batchfile
+## ✨ Batchfile
 
 *   [lesuixin/Hearthstone-Hearthbuddy](https://github.com/lesuixin/Hearthstone-Hearthbuddy) - Hearthstone 炉石传说 Hearthbuddy 炉石兄弟
 
 *   [kkkgo/LTSC-Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) - Add Windows Store for LTSC
 
-## Visual Basic .NET
+## ✨ Visual Basic .NET
 
 *   [DosX-dev/UPX-Patcher](https://github.com/DosX-dev/UPX-Patcher) - Make "upx -d" unpacking impossible!
 
-## Pascal
+## ✨ Pascal
 
 *   [stascorp/rdpwrap](https://github.com/stascorp/rdpwrap) - RDP Wrapper Library
 
@@ -3033,7 +2984,7 @@
 
 *   [royqh1979/Dev-CPP](https://github.com/royqh1979/Dev-CPP) - A greatly improved Dev-Cpp
 
-## Vue
+## ✨ Vue
 
 *   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 
@@ -3041,7 +2992,7 @@
 
 *   [fofapro/vulfocus](https://github.com/fofapro/vulfocus) - 🚀Vulfocus 是一个漏洞集成平台，将漏洞环境 docker 镜像，放入即可使用，开箱即用。
 
-## Ruby
+## ✨ Ruby
 
 *   [buo/homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade) - A command line tool for upgrading every outdated app installed by Homebrew Cask
 
@@ -3057,103 +3008,103 @@
 
 *   [Telefonica/Eternalblue-Doublepulsar-Metasploit](https://github.com/Telefonica/Eternalblue-Doublepulsar-Metasploit) - Module of Metasploit to exploit the vulnerability Eternalblue-Doublepulsar.
 
-## Smali
+## ✨ Smali
 
 *   [sslab-gatech/avpass](https://github.com/sslab-gatech/avpass) - Tool for leaking and bypassing Android malware detection system
 
-## LLVM
+## ✨ LLVM
 
 *   [KomiMoe/Arkari](https://github.com/KomiMoe/Arkari) - Yet another llvm based obfuscator based on goron.
 
-## VBScript
+## ✨ VBScript
 
 *   [rootclay/WMIHACKER](https://github.com/rootclay/WMIHACKER) - A Bypass Anti-virus Software Lateral Movement Command Execution Tool
 
 *   [z1un/Z1-AggressorScripts](https://github.com/z1un/Z1-AggressorScripts) - 适用于Cobalt Strike的插件
 
-## Jinja
+## ✨ Jinja
 
 *   [Dido1960/random\_c2\_profile](https://github.com/Dido1960/random_c2_profile) - Cobalt Strike random C2 Profile 修改版（适配腾讯云函数，亚马逊云函数和CrossC2自定义protocol）
 
-## Roff
+## ✨ Roff
 
 *   [shellfeel/Ant-AntV](https://github.com/shellfeel/Ant-AntV) - 一个经过实战考验的免杀程序生成器
 
-## Mermaid
+## ✨ Mermaid
 
 *   [v2fly/v2ray-examples](https://github.com/v2fly/v2ray-examples) - v2ray-core 的模板们
 
-## SCSS
+## ✨ SCSS
 
 *   [olOwOlo/hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even) - 🚀 A super concise theme for Hugo https://hugo-theme-even.netlify.app
 
 *   [nickboucher/trojan-source](https://github.com/nickboucher/trojan-source) - Trojan Source: Invisible Vulnerabilities
 
-## Markdown
+## ✨ Markdown
 
 *   [highlightink/sqlmap-wiki-zhcn](https://github.com/highlightink/sqlmap-wiki-zhcn) - 可能是最完整的 sqlmap 中文文档。
 
 *   [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
-## ASP.NET
+## ✨ ASP.NET
 
 *   [sectest2024/leakinfo\_finder](https://github.com/sectest2024/leakinfo_finder) -
 
-## Objective-C++
+## ✨ Objective-C++
 
 *   [fjh658/IDA7.0\_SP](https://github.com/fjh658/IDA7.0_SP) - IDA7.0\_SP is ida's bugfix
 
-## Smarty
+## ✨ Smarty
 
 *   [chvancooten/follina.py](https://github.com/chvancooten/follina.py) - POC to replicate the full 'Follina' Office RCE vulnerability for testing purposes
 
 *   [rubyhan1314/Golang-100-Days](https://github.com/rubyhan1314/Golang-100-Days) - Golang - 100天从新手到大师
 
-## Rich Text Format
+## ✨ Rich Text Format
 
 *   [doocop/CVE-2022-30190](https://github.com/doocop/CVE-2022-30190) - Microsoft Office Word Rce 复现(CVE-2022-30190)
 
-## XSLT
+## ✨ XSLT
 
 *   [LOLBAS-Project/LOLBAS](https://github.com/LOLBAS-Project/LOLBAS) - Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)
 
 *   [TideSec/BypassAntiVirus](https://github.com/TideSec/BypassAntiVirus) - 远控免杀系列文章及配套工具，汇总测试了互联网上的几十种免杀工具、113种白名单免杀方式、8种代码编译免杀、若干免杀实战技术，并对免杀效果进行了一一测试，为远控的免杀和杀软对抗免杀提供参考。
 
-## Lua
+## ✨ Lua
 
 *   [whickey-r7/grab\_beacon\_config](https://github.com/whickey-r7/grab_beacon_config) -
 
-## Inno Setup
+## ✨ Inno Setup
 
 *   [mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit) - Reverse Engineer's Toolkit
 
-## Classic ASP
+## ✨ Classic ASP
 
 *   [LandGrey/webshell-detect-bypass](https://github.com/LandGrey/webshell-detect-bypass) - 绕过专业工具检测的Webshell研究文章和免杀的Webshell
 
-## Meson
+## ✨ Meson
 
 *   [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 
-## Jupyter Notebook
+## ✨ Jupyter Notebook
 
 *   [LubyRuffy/cheatsheet](https://github.com/LubyRuffy/cheatsheet) - 华顺信安技术羊皮卷
 
-## Stylus
+## ✨ Stylus
 
 *   [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
 
-## Perl
+## ✨ Perl
 
 *   [jondonas/linux-exploit-suggester-2](https://github.com/jondonas/linux-exploit-suggester-2) - Next-Generation Linux Kernel Exploit Suggester
 
 *   [InteliSecureLabs/Linux\_Exploit\_Suggester](https://github.com/InteliSecureLabs/Linux_Exploit_Suggester) - Linux Exploit Suggester; based on operating system release number
 
-## YARA
+## ✨ YARA
 
 *   [wgpsec/whohk](https://github.com/wgpsec/whohk) - whohk，linux下一款强大的应急响应工具  在linux下的应急响应往往需要通过繁琐的命令行来查看各个点的情况，有的时候还需要做一些格式处理，这对于linux下命令不是很熟悉的人比较不友好。本工具将linux下应急响应中常用的一些操作给集合了起来，并处理成了较为友好的格式，只需要通过一个参数就能代替繁琐复杂的命令来实现对各个点的检查。
 
-## AutoIt
+## ✨ AutoIt
 
 *   [cnjackchen/my-chrome](https://github.com/cnjackchen/my-chrome) - MyChrome -- Make Google Chrome portable yourself
 
