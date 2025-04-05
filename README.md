@@ -317,8 +317,6 @@
 
 *   [f0ng/poc2jar](https://github.com/f0ng/poc2jar) - Java编写，Python作为辅助依赖的漏洞验证、利用工具，添加了进程查找模块、编码模块、命令模块、常见漏洞利用GUI模块、shiro rememberMe解密模块，加快测试效率
 
-*   [chisaato/de-ag](https://github.com/chisaato/de-ag) - 用来对dbeaver做羞羞的事情
-
 *   [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
 
 *   [java-deobfuscator/deobfuscator](https://github.com/java-deobfuscator/deobfuscator) - The real deal
@@ -431,8 +429,6 @@
 
 *   [SafeGroceryStore/MDUT](https://github.com/SafeGroceryStore/MDUT) - MDUT - Multiple Database Utilization Tools
 
-*   [Twi1ight/CSAgent](https://github.com/Twi1ight/CSAgent) - CobaltStrike 4.x通用白嫖及汉化加载器
-
 *   [safe6Sec/ThinkPHPLogScan](https://github.com/safe6Sec/ThinkPHPLogScan) - tp日志泄露扫描工具
 
 *   [0Chencc/CTFCrackTools](https://github.com/0Chencc/CTFCrackTools) - China's first CTFTools framework.中国国内首个CTF工具框架,旨在帮助CTFer快速攻克难关
@@ -444,6 +440,10 @@
 *   [c0ny1/chunked-coding-converter](https://github.com/c0ny1/chunked-coding-converter) - Burp suite 分块传输辅助插件
 
 *   [1n7erface/PocList](https://github.com/1n7erface/PocList) - Alibaba-Nacos-Unauthorized/ApacheDruid-RCE\_CVE-2021-25646/MS-Exchange-SSRF-CVE-2021-26885/Oracle-WebLogic-CVE-2021-2109\_RCE/RG-CNVD-2021-14536/RJ-SSL-VPN-UltraVires/Redis-Unauthorized-RCE/TDOA-V11.7-GetOnlineCookie/VMware-vCenter-GetAnyFile/yongyou-GRP-U8-XXE/Oracle-WebLogic-CVE-2020-14883/Oracle-WebLogic-CVE-2020-14882/Apache-Solr-GetAnyFile/F5-BIG-IP-CVE-2021-22986/Sonicwall-SSL-VPN-RCE/GitLab-Graphql-CNVD-2021-14193/D-Link-DCS-CVE-2020-25078/WLAN-AP-WEA453e-RCE/360TianQing-Unauthorized/360TianQing-SQLinjection/FanWeiOA-V8-SQLinjection/QiZhiBaoLeiJi-AnyUserLogin/QiAnXin-WangKangFirewall-RCE/金山-V8-终端安全系统/NCCloud-SQLinjection/ShowDoc-RCE
+
+*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
+
+*   [frohoff/ysoserial](https://github.com/frohoff/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
 
 ## miscellaneous
 
@@ -831,11 +831,7 @@
 
 *   [yzddmr6/webshell-venom](https://github.com/yzddmr6/webshell-venom) - 免杀webshell无限生成工具
 
-*   [x-Ai/BurpSuite](https://github.com/x-Ai/BurpSuite) - Burp Suite loader version --> ∞
-
 *   [Vu1nT0tal/IDA-Pro-tips](https://github.com/Vu1nT0tal/IDA-Pro-tips) - IDA Pro每周小技巧
-
-*   [lovechoudoufu/cobaltstrike4.5\_cdf](https://github.com/lovechoudoufu/cobaltstrike4.5_cdf) - cobaltstrike4.5版本破/解、去除checksum8特征、bypass BeaconEye、修复错误路径泄漏stage、增加totp双因子验证、修复CVE-2022-39197等
 
 *   [solikethis/SSTap-backup](https://github.com/solikethis/SSTap-backup) - 收藏各版本SSTap程序以备不时之需
 
@@ -896,8 +892,6 @@
 *   [angels520/rebeyond-Mode](https://github.com/angels520/rebeyond-Mode) - 修改版rebeyond
 
 *   [r0eXpeR/supplier](https://github.com/r0eXpeR/supplier) - 主流供应商的一些攻击性漏洞汇总
-
-*   [lovechoudoufu/cobaltstrike4.4\_cdf](https://github.com/lovechoudoufu/cobaltstrike4.4_cdf) - cobaltstrike4.x版本破解、去除checksum8特征、bypass BeaconEye、修复错误路径泄漏stage、增加totp双因子认证
 
 *   [boy-hack/go-strip](https://github.com/boy-hack/go-strip) - 清除Go编译时自带的信息
 
@@ -1041,8 +1035,6 @@
 
 *   [sv3nbeast/weblogic-framework](https://github.com/sv3nbeast/weblogic-framework) - weblogic-framework
 
-*   [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
-
 *   [test502git/TTScan](https://github.com/test502git/TTScan) -
 
 *   [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
@@ -1062,6 +1054,16 @@
 *   [hb79866472/BurpSuiteCn](https://github.com/hb79866472/BurpSuiteCn) - Burp Suite  汉化 中文
 
 *   [martyr-deepin/deepin-usermanual](https://github.com/martyr-deepin/deepin-usermanual) - deepin 用户手册
+
+*   [doubleee/WebFuzzing](https://github.com/doubleee/WebFuzzing) - 自用字典，收集实战中遇到的奇特目录名、后门文件名等。不定期更新！
+
+*   [pandasec888/taowu-cobalt\_strike](https://github.com/pandasec888/taowu-cobalt_strike) -
+
+*   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
+
+*   [Smi1eSEC/Web-Security-Note](https://github.com/Smi1eSEC/Web-Security-Note) - Record some common Web security sites
+
+*   [rebeyond/Behinder](https://github.com/rebeyond/Behinder) - “冰蝎”动态二进制加密网站管理客户端
 
 ## PowerShell
 
@@ -1123,13 +1125,9 @@
 
 *   [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
 
-*   [743859910/Typora\_Unlocker](https://github.com/743859910/Typora_Unlocker) - Typora 解锁 序列号 激活码 激活补丁，支持：Linux系统/Windows系统，Typora\_Unlocker支持的版本：1.0.0 - 1.9.5
-
 *   [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
 
 *   [Z-Siqi/Clash-for-Windows\_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
-
-*   [QiuChenlyOpenSource/91QiuChen](https://github.com/QiuChenlyOpenSource/91QiuChen) - 91 Sex asm code asian cosplay hexinhex porn big dick 花Q
 
 *   [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
 
@@ -1318,8 +1316,6 @@
 *   [ryuuz4k1/Nuclei-GUI](https://github.com/ryuuz4k1/Nuclei-GUI) - 自用nuclei图形化界面工具
 
 *   [yj94/BinarySpy](https://github.com/yj94/BinarySpy) - 一个手动或自动patch shellcode到二进制文件的免杀工具/A tool for manual or automatic patch shellcode into binary file oder to bypass AV.
-
-*   [20142995/nuclei-templates](https://github.com/20142995/nuclei-templates) - nuclei-templates  校验 + 去重
 
 *   [AabyssZG/FindEverything](https://github.com/AabyssZG/FindEverything) - 内网渗透过程中搜寻指定文件内容，从而找到突破口的一个小工具
 
@@ -1751,8 +1747,6 @@
 
 *   [DawnFlame/POChouse](https://github.com/DawnFlame/POChouse) - POC\&EXP仓库、hvv弹药库、Nday、1day
 
-*   [Mas0nShi/typoraCracker](https://github.com/Mas0nShi/typoraCracker) - A extract & decryption and pack & encryption tools for typora.
-
 *   [ghealer/GUI\_Tools](https://github.com/ghealer/GUI_Tools) - 一个由各种图形化渗透工具组成的工具集
 
 *   [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
@@ -1852,6 +1846,14 @@
 *   [a76yyyy/ipdata](https://github.com/a76yyyy/ipdata) - 纯真IP数据库镜像 / ZXinc\_IPv6数据库镜像及MySQL脚本同步更新 for Python3
 
 *   [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
+
+*   [lijiejie/GitHack](https://github.com/lijiejie/GitHack) - A `.git` folder disclosure exploit
+
+*   [L-codes/Neo-reGeorg](https://github.com/L-codes/Neo-reGeorg) - Neo-reGeorg is a project that seeks to aggressively refactor reGeorg
+
+*   [sensepost/reGeorg](https://github.com/sensepost/reGeorg) - The successor to reDuh, pwn a bastion webserver and create SOCKS proxies through the DMZ. Pivot and pwn.
+
+*   [broken5/WebAliveScan](https://github.com/broken5/WebAliveScan) - 对目标域名进行快速的存活扫描、简单的指纹识别、目录扫描
 
 ## Rust
 
@@ -2013,6 +2015,10 @@
 
 *   [huoji120/DuckMemoryScan](https://github.com/huoji120/DuckMemoryScan) - 检测绝大部分所谓的内存免杀马
 
+*   [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
+
+*   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
+
 ## Swift
 
 *   [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
@@ -2024,8 +2030,6 @@
 *   [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
 
 *   [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
-
-*   [MikeWang000000/PD-Runner-Revived](https://github.com/MikeWang000000/PD-Runner-Revived) - PD-Runner (Parallels Desktop) 补档
 
 *   [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 
@@ -2061,8 +2065,6 @@
 
 *   [haiibo/OpenWrt](https://github.com/haiibo/OpenWrt) - 基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5C、R5S、香橙派 R1 Plus、树莓派3B、树莓派4B、R66S、R68S、M68S、H28K、H66K、H68K、H88K、H69K、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等
 
-*   [QiuChenlyOpenSource/InjectLib](https://github.com/QiuChenlyOpenSource/InjectLib) - 基于Ruby编写的命令行注入版本
-
 *   [the0demiurge/CharlesScripts](https://github.com/the0demiurge/CharlesScripts) - My awesome scripts for Arch Linux or Ubuntu Gnome latest LTS or MacBook.
 
 *   [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IPv4/IPv6地址库-每日更新
@@ -2074,8 +2076,6 @@
 *   [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
 
 *   [paulirish/github-email](https://github.com/paulirish/github-email) - Get a GitHub user's email. :sunglasses: Use this responsibly.
-
-*   [QiuChenlyOpenSource/MyMacsAppCrack](https://github.com/QiuChenlyOpenSource/MyMacsAppCrack) - MacBook 自用软件破解（macOS Intel）
 
 *   [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 
@@ -2295,6 +2295,8 @@
 
 *   [aeverj/weblive](https://github.com/aeverj/weblive) - 批量获取网站基本信息
 
+*   [Wh0ale/SRC-experience](https://github.com/Wh0ale/SRC-experience) - 工欲善其事，必先利其器
+
 ## NSIS
 
 *   [BKLockly/ShadowMeld](https://github.com/BKLockly/ShadowMeld) - 🕶️ 隐蔽Shellcode嵌入与反检测免杀加载器生成框架 / Stealthy Payload Delivery Framework with Anti-EDR Capabilities
@@ -2406,8 +2408,6 @@
 *   [wux1an/wxapkg](https://github.com/wux1an/wxapkg) - 微信小程序反编译工具，.wxapkg 文件扫描 + 解密 + 解包工具
 
 *   [BlackTrace/pc\_wxapkg\_decrypt](https://github.com/BlackTrace/pc_wxapkg_decrypt) - windows pc端wxpkg文件解密（非解包）
-
-*   [20142995/Goby](https://github.com/20142995/Goby) -
 
 *   [alwaystest18/hbit](https://github.com/alwaystest18/hbit) - 一款用于安全测试中信息收集的自动化工具
 
@@ -2851,8 +2851,6 @@
 
 *   [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon大型内网渗透扫描器，PowerShell、Cobalt Strike插件、内存加载、无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。网络资产探测32种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SSH\HTTP\HTTPS\Exchange\mssql\FTP\RDP)或方法快速获取目标网络存活主机IP、计算机名、工作组、共享资源、网卡地址、操作系统版本、网站、子域名、中间件、开放服务、路由器、交换机、数据库、打印机等，大量高危漏洞检测模块MS17010、Zimbra、Exchange
 
-*   [RayWangQvQ/BiliBiliTool](https://github.com/RayWangQvQ/BiliBiliTool) - 基于 .Net 5 的B站（哔哩哔哩）任务工具，实现每日自动运行任务：如每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6；如定时自动领取大会员权益、月底自动为自己充电；如天选时刻抽奖等功能。
-
 ## CodeQL
 
 *   [webraybtl/CodeQLpy](https://github.com/webraybtl/CodeQLpy) - CodeQLpy是一款基于CodeQL实现的半自动化代码审计工具，目前仅支持java语言。实现从源码反编译，数据库生成，脆弱性发现的全过程，可以辅助代码审计人员快速定位源码可能存在的漏洞。
@@ -2981,6 +2979,8 @@
 
 *   [mai1zhi2/ShellCodeFramework](https://github.com/mai1zhi2/ShellCodeFramework) - 绕3环的shellcode免杀框架
 
+*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
 ## Kotlin
 
 *   [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
@@ -3007,8 +3007,6 @@
 
 *   [ToBeDefined/TLocationPlugin](https://github.com/ToBeDefined/TLocationPlugin) - 企业微信打卡等软件虚拟定位
 
-*   [QiuChenlyOpenSource/macOS-InjectPluginCode](https://github.com/QiuChenlyOpenSource/macOS-InjectPluginCode) - libInlineInjectPlugin.dylib 开源项目 基于rd\_route的Hook技术以及OC运行时Hook技术
-
 *   [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - A plugin for Mac WeChat
 
 *   [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
@@ -3022,6 +3020,8 @@
 ## Batchfile
 
 *   [lesuixin/Hearthstone-Hearthbuddy](https://github.com/lesuixin/Hearthstone-Hearthbuddy) - Hearthstone 炉石传说 Hearthbuddy 炉石兄弟
+
+*   [kkkgo/LTSC-Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) - Add Windows Store for LTSC
 
 ## Visual Basic .NET
 
