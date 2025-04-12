@@ -1247,7 +1247,7 @@
 
 *   [P1-Team/AlliN](https://github.com/P1-Team/AlliN) - A flexible scanner
 
-*   [Threekiii/Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 一个攻防知识仓库 Red Teaming and Offensive Security
+*   [Threekiii/Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 一个攻防知识库。A knowledge base for red teaming and offensive security.
 
 *   [mgeeky/RedWarden](https://github.com/mgeeky/RedWarden) - Cobalt Strike C2 Reverse proxy that fends off Blue Teams, AVs, EDRs, scanners through packet inspection and malleable profile correlation
 
@@ -1599,7 +1599,7 @@
 
 *   [Lerist/FakeLocation](https://github.com/Lerist/FakeLocation) - Fake Location
 
-*   [Threekiii/Vulnerability-Wiki](https://github.com/Threekiii/Vulnerability-Wiki) - 基于 docsify 快速部署 Awesome-POC 中的漏洞文档
+*   [Threekiii/Vulnerability-Wiki](https://github.com/Threekiii/Vulnerability-Wiki) - 一个基于 docsify 快速部署 Awesome-POC 漏洞文档的项目。Deploying the Awesome-POC repository via docsify.
 
 *   [Ed1s0nZ/cool](https://github.com/Ed1s0nZ/cool) - Golang-Gin 框架写的免杀平台，内置分离、捆绑等多种BypassAV方式。
 
@@ -1835,7 +1835,7 @@
 
 *   [optiv/ScareCrow](https://github.com/optiv/ScareCrow) - ScareCrow - Payload creation framework designed around EDR bypass.
 
-*   [zema1/watchvuln](https://github.com/zema1/watchvuln) - 一个高价值漏洞采集与推送服务 | collect valueable vulnerability and push it
+*   [zema1/watchvuln](https://github.com/zema1/watchvuln) - 一个高价值漏洞采集与推送服务 | Collect valueable vulnerabilities and push them to various services
 
 *   [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 
@@ -2647,7 +2647,7 @@
 
 *   [hiifeng/V2ray-for-Doprax](https://github.com/hiifeng/V2ray-for-Doprax) - The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.
 
-*   [Threekiii/Awesome-POC](https://github.com/Threekiii/Awesome-POC) - 一个漏洞POC知识库 目前数量 1000+
+*   [Threekiii/Awesome-POC](https://github.com/Threekiii/Awesome-POC) - 一个漏洞 PoC 知识库。A knowledge base for vulnerability PoCs(Proof of Concept),  with 1k+ vulnerabilities.
 
 *   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
