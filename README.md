@@ -1173,7 +1173,7 @@
 
 *   [rsmudge/Malleable-C2-Profiles](https://github.com/rsmudge/Malleable-C2-Profiles) - Malleable C2 is a domain specific language to redefine indicators in Beacon's communication. This repository is a collection of Malleable C2 profiles that you may use. These profiles work with Cobalt Strike 3.x.
 
-*   [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - A Unified Platform for Adversary Emulation and Red Team Operations
+*   [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - Adversary simulation and Red teaming platform with AI
 
 *   [snoopysecurity/awesome-burp-extensions](https://github.com/snoopysecurity/awesome-burp-extensions) - A curated list of amazingly awesome Burp Extensions
 
