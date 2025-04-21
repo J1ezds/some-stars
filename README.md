@@ -1541,6 +1541,8 @@
 
 *   [rsmudge/Malleable-C2-Profiles](https://github.com/rsmudge/Malleable-C2-Profiles) - Malleable C2 is a domain specific language to redefine indicators in Beacon's communication. This repository is a collection of Malleable C2 profiles that you may use. These profiles work with Cobalt Strike 3.x.
 
+*   [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - Adversary simulation and Red teaming platform with AI
+
 *   [snoopysecurity/awesome-burp-extensions](https://github.com/snoopysecurity/awesome-burp-extensions) - A curated list of amazingly awesome Burp Extensions
 
 *   [Prodject/BurpSuite-collections](https://github.com/Prodject/BurpSuite-collections) - BurpSuite收集：包括不限于 Burp 文章、破解版、插件(非BApp Store)、汉化等相关教程，欢迎添砖加瓦---burpsuite-pro burpsuite-extender burpsuite cracked-version hackbar hacktools fuzzing fuzz-testing burp-plugin burp-extensions bapp-store brute-force-attacks brute-force-passwords waf sqlmap jar
@@ -1871,7 +1873,7 @@
 
 *   [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 
-*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 
 *   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
@@ -3020,8 +3022,6 @@
 ## Batchfile
 
 *   [lesuixin/Hearthstone-Hearthbuddy](https://github.com/lesuixin/Hearthstone-Hearthbuddy) - Hearthstone 炉石传说 Hearthbuddy 炉石兄弟
-
-*   [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - Adversary simulation and Red teaming platform with AI
 
 ## Visual Basic .NET
 
