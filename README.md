@@ -127,8 +127,6 @@
 
 *   [JKme/cube](https://github.com/JKme/cube) - 内网渗透测试工具，弱密码爆破、信息收集和漏洞扫描
 
-*   [EvilBytecode/GoDefender](https://github.com/EvilBytecode/GoDefender) - Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package. Windows ONLY.
-
 *   [adeljck/HikInfoGet](https://github.com/adeljck/HikInfoGet) - 海康威视iSecure后渗透
 
 *   [Pizz33/GoThief](https://github.com/Pizz33/GoThief) - 集成了截图 键盘记录 剪贴版功能，用于网络限制场景下的信息搜集
@@ -2378,6 +2376,8 @@
 *   [gh0stkey/Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box) - Web Fuzzing Box - Web 模糊测试字典与一些Payloads
 
 *   [aeverj/weblive](https://github.com/aeverj/weblive) - 批量获取网站基本信息
+
+*   [Wh0ale/SRC-experience](https://github.com/Wh0ale/SRC-experience) - 工欲善其事，必先利其器
 
 ## PowerShell
 
