@@ -127,6 +127,8 @@
 
 *   [JKme/cube](https://github.com/JKme/cube) - 内网渗透测试工具，弱密码爆破、信息收集和漏洞扫描
 
+*   [EvilBytecode/GoDefender](https://github.com/EvilBytecode/GoDefender) - Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package. Windows ONLY.
+
 *   [adeljck/HikInfoGet](https://github.com/adeljck/HikInfoGet) - 海康威视iSecure后渗透
 
 *   [Pizz33/GoThief](https://github.com/Pizz33/GoThief) - 集成了截图 键盘记录 剪贴版功能，用于网络限制场景下的信息搜集
@@ -1229,7 +1231,7 @@
 
 *   [EdgeSecurityTeam/Eeyes](https://github.com/EdgeSecurityTeam/Eeyes) - Eeyes(棱眼)-快速筛选真实IP并整理为C段
 
-*   [arch3rPro/Pentest-Windows](https://github.com/arch3rPro/Pentest-Windows) - Windows11 Penetration Suite Toolkit 一个开箱即用的windows渗透测试环境
+*   [arch3rPro/Pentest-Windows](https://github.com/arch3rPro/Pentest-Windows) - 矛·盾 武器库 - Windows11 Penetration Suite Toolkit 一个开箱即用的windows渗透测试环境
 
 *   [aleenzz/Cobalt\_Strike\_wiki](https://github.com/aleenzz/Cobalt_Strike_wiki) - Cobalt Strike系列
 
@@ -2377,8 +2379,6 @@
 
 *   [aeverj/weblive](https://github.com/aeverj/weblive) - 批量获取网站基本信息
 
-*   [Wh0ale/SRC-experience](https://github.com/Wh0ale/SRC-experience) - 工欲善其事，必先利其器
-
 ## PowerShell
 
 *   [D13Xian/CobaltStrike-KunKun](https://github.com/D13Xian/CobaltStrike-KunKun) - 坤坤CS 基于CobaltStrike cat 4.5二开项目 添加反沙箱、反测绘。集成常用后渗透插件，开箱即用
@@ -2581,7 +2581,7 @@
 
 *   [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IPv4/IPv6地址库-每日更新
 
-*   [yhan219/navicat\_reset\_mac](https://github.com/yhan219/navicat_reset_mac) - navicat16/17 mac版无限重置试用期脚本
+*   [yhan219/navicat\_reset\_mac](https://github.com/yhan219/navicat_reset_mac) - navicat mac版无限重置试用期脚本 Navicat Mac Version Unlimited Trial Reset Script
 
 *   [insightglacier/Dictionary-Of-Pentesting](https://github.com/insightglacier/Dictionary-Of-Pentesting) - Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。
 
