@@ -1760,8 +1760,6 @@
 
 *   [wjl110/CVE-Master](https://github.com/wjl110/CVE-Master) - 收集本人自接触渗透测试用于漏洞验证的所有热门CVE、POC、CNVD攻击有效载荷+测试工具+FUZZ,一个仓库满足许多攻击测试场景,开箱即用.
 
-*   [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
-
 *   [1in9e/gosint](https://github.com/1in9e/gosint) - Gosint is a distributed asset information collection and vulnerability scanning platform
 
 *   [b0bac/ApolloScanner](https://github.com/b0bac/ApolloScanner) - 自动化巡航扫描框架（可用于红队打点评估）
@@ -1778,7 +1776,7 @@
 
 *   [Ghr07h/Heimdallr](https://github.com/Ghr07h/Heimdallr) - 一款完全被动监听的谷歌插件，用于高危指纹识别、蜜罐特征告警和拦截、机器特征对抗
 
-*   [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本。这里有板子、螺丝刀、老虎钳、热风枪、示波器、钛合金撬棍、八合一电动螺丝刀、自动化生成hook脚本、内存漫游探测activity和service、frida版JustTrustMe、boringssl unpinning
+*   [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本。这里有板子、螺丝刀、老虎钳、热风枪、示波器、钛合金撬棍、八合一电动螺丝刀、自动化生成hook脚本、内存漫游探测activity和service、frida版JustTrustMe、boringssl unpinning全网APP通杀
 
 *   [lijiejie/EasyPen](https://github.com/lijiejie/EasyPen) - EasyPen is a GUI program which helps pentesters do target discovery, vulnerability scan and exploitation
 
@@ -2643,6 +2641,8 @@
 *   [jiaocoll/BeeScan-web](https://github.com/jiaocoll/BeeScan-web) - 网络空间资产探测、网络测绘、Go语言、分布式、扫描、资产探测、资产测绘、红队、SRC | Cyberspace Asset Detection, Network Mapping, Go Language, Distributed, Scanning, Asset Detection, Asset Mapping, Red Team, SRC
 
 *   [Qihoo360/WatchAD2.0](https://github.com/Qihoo360/WatchAD2.0) - WatchAD2.0是一款针对域威胁的日志分析与监控系统
+
+*   [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 
 *   [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
 
