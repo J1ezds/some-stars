@@ -824,11 +824,11 @@
 
 *   [birdy02-com/secAPI-python](https://github.com/birdy02-com/secAPI-python) - 这是一个为个人工作开发的协助平台，有分析网页、分析ip、分析域名的功能
 
-*   [ZEERDEER/Termius-Crack](https://github.com/ZEERDEER/Termius-Crack) -
+*   [ZEERDEER/TermiusTool](https://github.com/ZEERDEER/TermiusTool) -
 
 *   [ArcSurge/Termius-Pro-zh\_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) - Termius汉化
 
-*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
 *   [evilc0deooo/SwaggerHound](https://github.com/evilc0deooo/SwaggerHound) - 自动化检测 Swagger API 接口未授权访问漏洞工具
 
