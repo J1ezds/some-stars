@@ -474,7 +474,7 @@
 
 *   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 
-*   [kkbo8005/mitan](https://github.com/kkbo8005/mitan) - 密探渗透测试工具包含资产信息收集，子域名爆破，搜索语法，资产测绘（FOFA，Hunter，quake, ZoomEye），指纹识别，敏感信息采集，文件扫描、端口扫描、批量信息权重查询、密码字典等功能
+*   [kkbo8005/mitan](https://github.com/kkbo8005/mitan) - 密探渗透测试工具包含资产信息收集，子域名爆破，搜索语法，资产测绘（FOFA，Hunter，quake, ZoomEye），指纹识别，敏感信息采集，文件扫描、端口扫描、弱口令破解、jwt密钥爆破、sesionkey加解密、批量信息权重查询、密码字典等功能
 
 *   [SpringKill-team/CodeAuditAssistant](https://github.com/SpringKill-team/CodeAuditAssistant) - 🔍 CodeAuditAssistant - IDEA代码审计插件（公测中） ⚡ 精准追踪复杂调用链 | 🚀 毫秒级方法搜索 | 🔥 内置高危漏洞检测 原生集成 | 反编译/路径分析 | 内存优化 | 安全审计利器                      🔍 CodeAuditAssistant - JetBrains Code Audit Plugin (Beta)   ⚡ Deep Call-Chain Tracking | 🚀 Method/Class Search | 🔥 Prebuilt Vuln Sinks   Native Integration | Decompiler/Path Finder | Memory Optimized
 
