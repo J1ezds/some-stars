@@ -50,6 +50,7 @@
 *   [Smarty](#smarty)
 *   [Rich Text Format](#rich-text-format)
 *   [XSLT](#xslt)
+*   [Hack](#hack)
 *   [Lua](#lua)
 *   [Inno Setup](#inno-setup)
 *   [Classic ASP](#classic-asp)
@@ -836,7 +837,7 @@
 
 *   [jan-bar/EncryptionFile](https://github.com/jan-bar/EncryptionFile) - 一种安全加密数据的方式，数据可以实现自校验，防止数据损坏和篡改（A way to securely encrypt data, the data can be self-verified to prevent data damage and tampering）
 
-*   [Amzza0x00/go-impacket](https://github.com/Amzza0x00/go-impacket) - 基于golang实现的impacket
+*   [Yv1ren/go-impacket](https://github.com/Yv1ren/go-impacket) - 基于golang实现的impacket
 
 *   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 
@@ -2966,8 +2967,6 @@
 
 *   [wofeiwo/webcgi-exploits](https://github.com/wofeiwo/webcgi-exploits) - Multi-language web CGI interfaces exploits.
 
-*   [orwagodfather/WordList](https://github.com/orwagodfather/WordList) -
-
 *   [le31ei/ctf\_challenges](https://github.com/le31ei/ctf_challenges) - 适用于一线安服的ctf培训题目，全docker环境一键启动
 
 *   [yzmcms/yzmcms](https://github.com/yzmcms/yzmcms) - YzmCMS是一款基于YZMPHP开发的一套轻量级开源内容管理系统，YzmCMS简洁、安全、开源、实用，可运行在Linux、Windows、MacOSX、Solaris等各种平台上，专注为公司企业、个人站长快速建站提供解决方案。
@@ -3123,6 +3122,10 @@
 ## XSLT
 
 *   [LOLBAS-Project/LOLBAS](https://github.com/LOLBAS-Project/LOLBAS) - Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)
+
+## Hack
+
+*   [orwagodfather/WordList](https://github.com/orwagodfather/WordList) -
 
 ## Lua
 
