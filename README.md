@@ -65,7 +65,7 @@
 
 *   [0xHJK/dumpall](https://github.com/0xHJK/dumpall) - 一款信息泄漏利用工具，适用于.git/.svn/.DS\_Store泄漏和目录列出
 
-*   [EEEEhex/RevokeHook](https://github.com/EEEEhex/RevokeHook) - 微信4.0防撤回劫持dll + 字符串解密脚本
+*   [EEEEhex/RevokeHook](https://github.com/EEEEhex/RevokeHook) - 微信4.0防撤回hook + 字符串解密脚本
 
 *   [zetaloop/BetterWX](https://github.com/zetaloop/BetterWX) - 微信 PC 4.0 防撤回/多开补丁工具
 
@@ -130,8 +130,6 @@
 *   [lxflxfcl/DTGO](https://github.com/lxflxfcl/DTGO) - DTGO (灯塔狩猎者) 是一个用于批量管理和监控资产灯塔系统任务的图形化工具。它能够自动发现灯塔系统、批量提交任务、监控任务状态，并支持导出任务结果。
 
 *   [0x727/ChkApi\_0x727](https://github.com/0x727/ChkApi_0x727) - 辅助甲方安全人员巡检网站资产，发现并分析API安全问题
-
-*   [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 
 *   [abatchy17/WindowsExploits](https://github.com/abatchy17/WindowsExploits) - Windows exploits, mostly precompiled. Not being updated. Check https://github.com/SecWiki/windows-kernel-exploits instead.
 
@@ -2637,6 +2635,8 @@
 
 *   [A-Normal-User/Pretend\_HideVirtualMemory](https://github.com/A-Normal-User/Pretend_HideVirtualMemory) - 利用物理内存映射，实现虚拟内存的伪隐藏
 
+*   [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
+
 *   [horsicq/DIE-engine](https://github.com/horsicq/DIE-engine) - DIE engine
 
 *   [qigpig/Ghosting-BOF](https://github.com/qigpig/Ghosting-BOF) - 主要用于隐藏进程真实路径，进程带windows真签名
@@ -2698,8 +2698,6 @@
 *   [mohuihui/DingTalk\_Assistant](https://github.com/mohuihui/DingTalk_Assistant) - 钉钉助手，主要功能包括：聊天消息防撤回、程序多开、屏蔽频繁升级等。
 
 *   [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - 微信HOOK、微信机器人   wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK
-
-*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 
 *   [Youlor/unpacker](https://github.com/Youlor/unpacker) - 基于ART主动调用的脱壳机
 
@@ -3018,6 +3016,8 @@
 *   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 
 *   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
+
+*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 
 *   [Leon406/ToolsFx](https://github.com/Leon406/ToolsFx) - 跨平台密码学工具箱。包含编解码，编码转换，加解密， 哈希，MAC，签名，大数运算，压缩，二维码功能，CTF等功能。
 
