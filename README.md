@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Objective-C](#objective-c)
@@ -16,12 +17,11 @@
 *   [Java](#java)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [CMake](#cmake)
 *   [PowerShell](#powershell)
-*   [C](#c-1)
+*   [C](#c-2)
 *   [Rust](#rust)
-*   [C++](#c-2)
 *   [CSS](#css)
 *   [TypeScript](#typescript)
 *   [HTML](#html)
@@ -60,6 +60,132 @@
 *   [Perl](#perl)
 *   [YARA](#yara)
 *   [AutoIt](#autoit)
+
+## C++
+
+*   [Rvn0xsy/BadCode](https://github.com/Rvn0xsy/BadCode) - 恶意代码逃逸源代码 http://payloads.online
+
+*   [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) -
+
+*   [Meckazin/ChromeKatz](https://github.com/Meckazin/ChromeKatz) - Dump cookies and credentials directly from Chrome/Edge process memory
+
+*   [SickleSec/GhostWolf](https://github.com/SickleSec/GhostWolf) - 从内存中提取浏览器和Todesk用户凭证
+
+*   [kimci86/bkcrack](https://github.com/kimci86/bkcrack) - Crack legacy zip encryption with Biham and Kocher's known plaintext attack.
+
+*   [midisec/BypassAnti-Virus](https://github.com/midisec/BypassAnti-Virus) - 免杀姿势学习、记录、复现。
+
+*   [yinsel/BypassAV](https://github.com/yinsel/BypassAV) - 一款基于PE Patch技术的后渗透免杀工具，主要支持x64
+
+*   [ImCoriander/ZeroEye](https://github.com/ImCoriander/ZeroEye) - 自动化找白文件，用于扫描 EXE 文件的导入表，列出导入的DLL文件，并筛选出非系统DLL，符合条件的文件将被复制到特定的 X64 或 X86 文件夹
+
+*   [A-Normal-User/Pretend\_HideVirtualMemory](https://github.com/A-Normal-User/Pretend_HideVirtualMemory) - 利用物理内存映射，实现虚拟内存的伪隐藏
+
+*   [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
+
+*   [horsicq/DIE-engine](https://github.com/horsicq/DIE-engine) - DIE engine
+
+*   [qigpig/Ghosting-BOF](https://github.com/qigpig/Ghosting-BOF) - 主要用于隐藏进程真实路径，进程带windows真签名
+
+*   [juruo-wankli/InjectTools](https://github.com/juruo-wankli/InjectTools) - 一款集成了DLL-Session0注入，APC注入，映射注入，线程劫持，函数踩踏，提权的工具(支持BIN加解密)
+
+*   [a1phaboy/bypassAVNote](https://github.com/a1phaboy/bypassAVNote) - 免杀死亡笔记
+
+*   [surya-dev-singh/AmsiBypass-OpenSession](https://github.com/surya-dev-singh/AmsiBypass-OpenSession) - This code bypass AMSI by setting JE instruction to JNE in assembly of amsi.dll file
+
+*   [wanttobeno/FuckCertVerifyTime](https://github.com/wanttobeno/FuckCertVerifyTime) - 一些使用过期或者注销证书的技术
+
+*   [minhangxiaohui/AvoidRandomKill](https://github.com/minhangxiaohui/AvoidRandomKill) - 一次免杀实践（bypass 360、huorong、windows defender、kaspersky、）
+
+*   [Neo-Maoku/SearchAvailableExe](https://github.com/Neo-Maoku/SearchAvailableExe) - 寻找可利用的白文件
+
+*   [yutianqaq/x1Ldr](https://github.com/yutianqaq/x1Ldr) - XOR 加密 分离免杀
+
+*   [SaadAhla/TakeMyRDP](https://github.com/SaadAhla/TakeMyRDP) - A keystroke logger targeting the Remote Desktop Protocol (RDP) related processes, It utilizes a low-level keyboard input hook, allowing it to record keystrokes in certain contexts (like in mstsc.exe and CredentialUIBroker.exe)
+
+*   [Yeuoly/0xUBypass](https://github.com/Yeuoly/0xUBypass) - AntiAV shellcode loader
+
+*   [efchatz/pandora](https://github.com/efchatz/pandora) - A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.
+
+*   [SurrealSky/byPassAVMake](https://github.com/SurrealSky/byPassAVMake) - 过木马免杀制作器
+
+*   [myzxcg/RealBlindingEDR](https://github.com/myzxcg/RealBlindingEDR) - Remove AV/EDR Kernel ObRegisterCallbacks、CmRegisterCallback、MiniFilter Callback、PsSetCreateProcessNotifyRoutine Callback、PsSetCreateThreadNotifyRoutine Callback、PsSetLoadImageNotifyRoutine Callback...
+
+*   [antonioCoco/SspiUacBypass](https://github.com/antonioCoco/SspiUacBypass) - Bypassing UAC with SSPI Datagram Contexts
+
+*   [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
+
+*   [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
+
+*   [snnxyss/In-Swor](https://github.com/snnxyss/In-Swor) - 永久免杀加载器移步另一个项目https://github.com/snnxyss/new\_in\_swor 一个简单内网渗透工具免杀 目前免杀fscan,mimikatz,frp,elevationstation,bypassuac, 一键killAV 。请使用In-Swor(x64版本)360报毒qvm20请更换exe图标资源。
+
+*   [SecurityAnalysts01/ShellcodeLoader](https://github.com/SecurityAnalysts01/ShellcodeLoader) - Windows通用免杀shellcode生成器，能够绕过Microsoft Defender、360、火绒、Panda等杀软的查杀。
+
+*   [zha0gongz1/iscsicpl\_bypassUAC](https://github.com/zha0gongz1/iscsicpl_bypassUAC) - UAC bypass for x64 Windows 7 - 11（无弹窗版）
+
+*   [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
+
+*   [ttttupup/wxhelper](https://github.com/ttttupup/wxhelper) - Hook  WeChat  / 微信逆向
+
+*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
+
+*   [SaadAhla/FilelessPELoader](https://github.com/SaadAhla/FilelessPELoader) - Loading Remote AES Encrypted PE in memory , Decrypted it and run it
+
+*   [baiyies/CppWeixinHunter](https://github.com/baiyies/CppWeixinHunter) - 微信解密 c++实现。可获取自己电脑上已登录微信的微信号，wxid，手机号，sqlite解密密钥。Search information of Wechat from memory.
+
+*   [yanghaoi/ridhijack](https://github.com/yanghaoi/ridhijack) - 通过C/C++实现的 Windows RID Hijacking persistence technique (RID劫持 影子账户 账户克隆).
+
+*   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
+
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+
+*   [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) - 新一代SKRoot，挑战全网root检测手段，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，实现真正的SELinux 0%触碰，通用性强，通杀所有内核，不需要内核源码，直接patch内核，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。
+
+*   [mohuihui/DingTalk\_Assistant](https://github.com/mohuihui/DingTalk_Assistant) - 钉钉助手，主要功能包括：聊天消息防撤回、程序多开、屏蔽频繁升级等。
+
+*   [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - 微信HOOK、微信机器人   wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK
+
+*   [Youlor/unpacker](https://github.com/Youlor/unpacker) - 基于ART主动调用的脱壳机
+
+*   [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
+
+*   [ez8-co/yapi](https://github.com/ez8-co/yapi) - 💉 全能进程注入器 \[Yet Another Process Injector] that reduce differences between x64, wow64 and x86 processes.
+
+*   [wecooperate/iMonitor](https://github.com/wecooperate/iMonitor) - iMonitor（冰镜 - 终端行为分析系统）
+
+*   [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
+
+*   [Gality369/CS-Loader](https://github.com/Gality369/CS-Loader) - CSLoader is a general purpose obfuscation and anti-virus tool based on a reimplementation of the llvm project obfuscator(https://github.com/obfuscator-llvm/obfuscator).
+
+*   [crisprss/BypassUserAdd](https://github.com/crisprss/BypassUserAdd) - 通过反射DLL注入、Win API、C#、以及底层实现NetUserAdd方式实现BypassAV进行增加用户的功能,实现Cobalt Strike插件化
+
+*   [paolo-projects/auto-unlocker](https://github.com/paolo-projects/auto-unlocker) - Unlocker for VMWare macOS
+
+*   [pwn1sher/KillDefender](https://github.com/pwn1sher/KillDefender) - A small POC to make defender useless by removing its token privileges and lowering the token integrity
+
+*   [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
+
+*   [Gality369/Process-Injection](https://github.com/Gality369/Process-Injection) - 汇总了目前可以找到的所有的进程注入的方式，完成了x86/x64下的测试，不断更新中
+
+*   [amitschendel/venom-rootkit](https://github.com/amitschendel/venom-rootkit) - A simple Windows kernel rootkit.
+
+*   [Yyyyshen/HackTechLearning](https://github.com/Yyyyshen/HackTechLearning) - 有需求做攻防对抗，买本书学习下常见技术，例子敲一敲
+
+*   [dr0op/CrossNet-Beta](https://github.com/dr0op/CrossNet-Beta) - 红队行动中利用白利用、免杀、自动判断网络环境生成钓鱼可执行文件。
+
+*   [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
+
+*   [bitcookies/winrar-keygen](https://github.com/bitcookies/winrar-keygen) - Principle of WinRAR key generation.
+
+*   [ffffffff0x/1earn](https://github.com/ffffffff0x/1earn) - ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup
+
+*   [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
+
+*   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
+
+*   [huoji120/CobaltStrikeDetected](https://github.com/huoji120/CobaltStrikeDetected) - 40行代码检测到大部分CobaltStrike的shellcode
+
+*   [huoji120/DuckMemoryScan](https://github.com/huoji120/DuckMemoryScan) - 检测绝大部分所谓的内存免杀马
 
 ## Python
 
@@ -1325,7 +1451,7 @@
 
 *   [AlphabugX/Alphalog](https://github.com/AlphabugX/Alphalog) - DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。
 
-*   [qiwentaidi/Slack](https://github.com/qiwentaidi/Slack) - 安全服务集成化工具平台，希望能帮助你少开几个应用测试
+*   [qiwentaidi/Slack](https://github.com/qiwentaidi/Slack) - 安全服务集成化工具集
 
 *   [cmluZw/WxDump](https://github.com/cmluZw/WxDump) - GO语言写的微信全版本聊天记录导出，红队工具，用于在cs上线后无需交互的导出微信聊天记录，进行更进一步的信息收集
 
@@ -2397,8 +2523,6 @@
 
 *   [shmilylty/SharpHostInfo](https://github.com/shmilylty/SharpHostInfo) - SharpHostInfo是一款快速探测内网主机信息工具（深信服深蓝实验室天威战队强力驱动）
 
-*   [F3eev/SharkExec](https://github.com/F3eev/SharkExec) - 内网渗透|红队工具|C#内存加载|cobaltstrike
-
 *   [GhostPack/Rubeus](https://github.com/GhostPack/Rubeus) - Trying to tame the three-headed dog.
 
 *   [RowTeam/SharpDecryptPwd](https://github.com/RowTeam/SharpDecryptPwd) - SharpDecryptPwd source, To Decrypt Navicat,Xmanager,Filezilla,Foxmail,WinSCP,etc
@@ -2477,7 +2601,7 @@
 
 ## C
 
-*   [xaitax/Chrome-App-Bound-Encryption-Decryption](https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption) - Decrypt App-Bound encrypted keys in Chrome 127+, using the IElevator COM interface bypassing path validation and encryption protections.
+*   [xaitax/Chrome-App-Bound-Encryption-Decryption](https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption) - Fully decrypt App-Bound Encrypted (ABE) cookies, passwords & payment methods from Chromium-based browsers (Chrome, Brave, Edge) - all in user mode, no admin rights required.
 
 *   [topotam/PetitPotam](https://github.com/topotam/PetitPotam) - PoC tool to coerce Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw or other functions.
 
@@ -2616,130 +2740,6 @@
 *   [0x727/FingerprintHub](https://github.com/0x727/FingerprintHub) - 侦查守卫(ObserverWard)的指纹库
 
 *   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-## C++
-
-*   [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) -
-
-*   [Meckazin/ChromeKatz](https://github.com/Meckazin/ChromeKatz) - Dump cookies and credentials directly from Chrome/Edge process memory
-
-*   [SickleSec/GhostWolf](https://github.com/SickleSec/GhostWolf) - 从内存中提取浏览器和Todesk用户凭证
-
-*   [kimci86/bkcrack](https://github.com/kimci86/bkcrack) - Crack legacy zip encryption with Biham and Kocher's known plaintext attack.
-
-*   [midisec/BypassAnti-Virus](https://github.com/midisec/BypassAnti-Virus) - 免杀姿势学习、记录、复现。
-
-*   [yinsel/BypassAV](https://github.com/yinsel/BypassAV) - 一款基于PE Patch技术的后渗透免杀工具，主要支持x64
-
-*   [ImCoriander/ZeroEye](https://github.com/ImCoriander/ZeroEye) - 自动化找白文件，用于扫描 EXE 文件的导入表，列出导入的DLL文件，并筛选出非系统DLL，符合条件的文件将被复制到特定的 X64 或 X86 文件夹
-
-*   [A-Normal-User/Pretend\_HideVirtualMemory](https://github.com/A-Normal-User/Pretend_HideVirtualMemory) - 利用物理内存映射，实现虚拟内存的伪隐藏
-
-*   [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
-
-*   [horsicq/DIE-engine](https://github.com/horsicq/DIE-engine) - DIE engine
-
-*   [qigpig/Ghosting-BOF](https://github.com/qigpig/Ghosting-BOF) - 主要用于隐藏进程真实路径，进程带windows真签名
-
-*   [juruo-wankli/InjectTools](https://github.com/juruo-wankli/InjectTools) - 一款集成了DLL-Session0注入，APC注入，映射注入，线程劫持，函数踩踏，提权的工具(支持BIN加解密)
-
-*   [a1phaboy/bypassAVNote](https://github.com/a1phaboy/bypassAVNote) - 免杀死亡笔记
-
-*   [surya-dev-singh/AmsiBypass-OpenSession](https://github.com/surya-dev-singh/AmsiBypass-OpenSession) - This code bypass AMSI by setting JE instruction to JNE in assembly of amsi.dll file
-
-*   [wanttobeno/FuckCertVerifyTime](https://github.com/wanttobeno/FuckCertVerifyTime) - 一些使用过期或者注销证书的技术
-
-*   [minhangxiaohui/AvoidRandomKill](https://github.com/minhangxiaohui/AvoidRandomKill) - 一次免杀实践（bypass 360、huorong、windows defender、kaspersky、）
-
-*   [Neo-Maoku/SearchAvailableExe](https://github.com/Neo-Maoku/SearchAvailableExe) - 寻找可利用的白文件
-
-*   [yutianqaq/x1Ldr](https://github.com/yutianqaq/x1Ldr) - XOR 加密 分离免杀
-
-*   [SaadAhla/TakeMyRDP](https://github.com/SaadAhla/TakeMyRDP) - A keystroke logger targeting the Remote Desktop Protocol (RDP) related processes, It utilizes a low-level keyboard input hook, allowing it to record keystrokes in certain contexts (like in mstsc.exe and CredentialUIBroker.exe)
-
-*   [Yeuoly/0xUBypass](https://github.com/Yeuoly/0xUBypass) - AntiAV shellcode loader
-
-*   [efchatz/pandora](https://github.com/efchatz/pandora) - A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.
-
-*   [SurrealSky/byPassAVMake](https://github.com/SurrealSky/byPassAVMake) - 过木马免杀制作器
-
-*   [myzxcg/RealBlindingEDR](https://github.com/myzxcg/RealBlindingEDR) - Remove AV/EDR Kernel ObRegisterCallbacks、CmRegisterCallback、MiniFilter Callback、PsSetCreateProcessNotifyRoutine Callback、PsSetCreateThreadNotifyRoutine Callback、PsSetLoadImageNotifyRoutine Callback...
-
-*   [antonioCoco/SspiUacBypass](https://github.com/antonioCoco/SspiUacBypass) - Bypassing UAC with SSPI Datagram Contexts
-
-*   [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
-
-*   [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
-
-*   [snnxyss/In-Swor](https://github.com/snnxyss/In-Swor) - 永久免杀加载器移步另一个项目https://github.com/snnxyss/new\_in\_swor 一个简单内网渗透工具免杀 目前免杀fscan,mimikatz,frp,elevationstation,bypassuac, 一键killAV 。请使用In-Swor(x64版本)360报毒qvm20请更换exe图标资源。
-
-*   [SecurityAnalysts01/ShellcodeLoader](https://github.com/SecurityAnalysts01/ShellcodeLoader) - Windows通用免杀shellcode生成器，能够绕过Microsoft Defender、360、火绒、Panda等杀软的查杀。
-
-*   [zha0gongz1/iscsicpl\_bypassUAC](https://github.com/zha0gongz1/iscsicpl_bypassUAC) - UAC bypass for x64 Windows 7 - 11（无弹窗版）
-
-*   [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
-
-*   [ttttupup/wxhelper](https://github.com/ttttupup/wxhelper) - Hook  WeChat  / 微信逆向
-
-*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
-
-*   [SaadAhla/FilelessPELoader](https://github.com/SaadAhla/FilelessPELoader) - Loading Remote AES Encrypted PE in memory , Decrypted it and run it
-
-*   [baiyies/CppWeixinHunter](https://github.com/baiyies/CppWeixinHunter) - 微信解密 c++实现。可获取自己电脑上已登录微信的微信号，wxid，手机号，sqlite解密密钥。Search information of Wechat from memory.
-
-*   [yanghaoi/ridhijack](https://github.com/yanghaoi/ridhijack) - 通过C/C++实现的 Windows RID Hijacking persistence technique (RID劫持 影子账户 账户克隆).
-
-*   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
-
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-
-*   [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) - 新一代SKRoot，挑战全网root检测手段，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，实现真正的SELinux 0%触碰，通用性强，通杀所有内核，不需要内核源码，直接patch内核，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。
-
-*   [mohuihui/DingTalk\_Assistant](https://github.com/mohuihui/DingTalk_Assistant) - 钉钉助手，主要功能包括：聊天消息防撤回、程序多开、屏蔽频繁升级等。
-
-*   [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - 微信HOOK、微信机器人   wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK
-
-*   [Youlor/unpacker](https://github.com/Youlor/unpacker) - 基于ART主动调用的脱壳机
-
-*   [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
-
-*   [ez8-co/yapi](https://github.com/ez8-co/yapi) - 💉 全能进程注入器 \[Yet Another Process Injector] that reduce differences between x64, wow64 and x86 processes.
-
-*   [wecooperate/iMonitor](https://github.com/wecooperate/iMonitor) - iMonitor（冰镜 - 终端行为分析系统）
-
-*   [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
-
-*   [Gality369/CS-Loader](https://github.com/Gality369/CS-Loader) - CSLoader is a general purpose obfuscation and anti-virus tool based on a reimplementation of the llvm project obfuscator(https://github.com/obfuscator-llvm/obfuscator).
-
-*   [crisprss/BypassUserAdd](https://github.com/crisprss/BypassUserAdd) - 通过反射DLL注入、Win API、C#、以及底层实现NetUserAdd方式实现BypassAV进行增加用户的功能,实现Cobalt Strike插件化
-
-*   [paolo-projects/auto-unlocker](https://github.com/paolo-projects/auto-unlocker) - Unlocker for VMWare macOS
-
-*   [pwn1sher/KillDefender](https://github.com/pwn1sher/KillDefender) - A small POC to make defender useless by removing its token privileges and lowering the token integrity
-
-*   [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
-
-*   [Gality369/Process-Injection](https://github.com/Gality369/Process-Injection) - 汇总了目前可以找到的所有的进程注入的方式，完成了x86/x64下的测试，不断更新中
-
-*   [amitschendel/venom-rootkit](https://github.com/amitschendel/venom-rootkit) - A simple Windows kernel rootkit.
-
-*   [Yyyyshen/HackTechLearning](https://github.com/Yyyyshen/HackTechLearning) - 有需求做攻防对抗，买本书学习下常见技术，例子敲一敲
-
-*   [dr0op/CrossNet-Beta](https://github.com/dr0op/CrossNet-Beta) - 红队行动中利用白利用、免杀、自动判断网络环境生成钓鱼可执行文件。
-
-*   [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
-
-*   [bitcookies/winrar-keygen](https://github.com/bitcookies/winrar-keygen) - Principle of WinRAR key generation.
-
-*   [ffffffff0x/1earn](https://github.com/ffffffff0x/1earn) - ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup
-
-*   [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
-
-*   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
-
-*   [huoji120/CobaltStrikeDetected](https://github.com/huoji120/CobaltStrikeDetected) - 40行代码检测到大部分CobaltStrike的shellcode
-
-*   [huoji120/DuckMemoryScan](https://github.com/huoji120/DuckMemoryScan) - 检测绝大部分所谓的内存免杀马
 
 ## CSS
 
