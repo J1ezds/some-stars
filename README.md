@@ -1735,6 +1735,8 @@
 
 *   [xaitax/Chrome-App-Bound-Encryption-Decryption](https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption) - Fully decrypt App-Bound Encrypted (ABE) cookies, passwords & payment methods from Chromium-based browsers (Chrome, Brave, Edge) - all in user mode, no admin rights required.
 
+*   [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) -
+
 *   [topotam/PetitPotam](https://github.com/topotam/PetitPotam) - PoC tool to coerce Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw or other functions.
 
 *   [MzHmO/Exploit-Street](https://github.com/MzHmO/Exploit-Street) - Complete list of LPE exploits for Windows (starting from 2023)
@@ -1872,8 +1874,6 @@
 *   [carlospolop/Auto\_Wordlists](https://github.com/carlospolop/Auto_Wordlists) -
 
 *   [birdy02-com/secAPI-python](https://github.com/birdy02-com/secAPI-python) - 这是一个为个人工作开发的协助平台，有分析网页、分析ip、分析域名的功能
-
-*   [ZEERDEER/TermiusTool](https://github.com/ZEERDEER/TermiusTool) -
 
 *   [ArcSurge/Termius-Pro-zh\_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) - Termius汉化
 
@@ -2507,6 +2507,8 @@
 
 *   [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 
+*   [TheKingOfDuck/fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts) - You Know, For WEB Fuzzing ! 日站用的字典。
+
 ## TypeScript
 
 *   [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 驱动的开源知识库搭建系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力，让你快速拥有智能化的 产品文档、FAQ、博客系统。
@@ -2572,8 +2574,6 @@
 ## C++
 
 *   [Rvn0xsy/BadCode](https://github.com/Rvn0xsy/BadCode) - 恶意代码逃逸源代码 http://payloads.online
-
-*   [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) -
 
 *   [Meckazin/ChromeKatz](https://github.com/Meckazin/ChromeKatz) - Dump cookies and credentials directly from Chrome/Edge process memory
 
