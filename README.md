@@ -22,9 +22,9 @@
 *   [Swift](#swift)
 *   [Shell](#shell)
 *   [C#](#c-2)
+*   [Rust](#rust)
 *   [CMake](#cmake)
 *   [PowerShell](#powershell)
-*   [Rust](#rust)
 *   [CSS](#css)
 *   [EJS](#ejs)
 *   [Dockerfile](#dockerfile)
@@ -549,7 +549,7 @@
 
 *   [crow821/vulntarget](https://github.com/crow821/vulntarget) - vulntarget靶场系列
 
-*   [makoto56/penetration-suite-toolkit](https://github.com/makoto56/penetration-suite-toolkit) - 本项目制作的初衷是帮助渗透新手快速搭建工作环境，工欲善其事，必先利其器。
+*   [makoto56/penetration-suite-toolkit](https://github.com/makoto56/penetration-suite-toolkit) - 本项目制作的初衷是帮助师傅们快速搭建工作环境，工欲善其事，必先利其器。
 
 *   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
@@ -737,8 +737,6 @@
 
 *   [GhostTroops/ksubdomain](https://github.com/GhostTroops/ksubdomain) - 子域名爆破，增加了智能爬虫功能
 
-*   [hahwul/jwt-hack](https://github.com/hahwul/jwt-hack) - JSON Web Token Hack Toolkit
-
 *   [FalconOpsLLC/goexec](https://github.com/FalconOpsLLC/goexec) - Windows remote execution multitool
 
 *   [chainreactors/malice-network](https://github.com/chainreactors/malice-network) - Next Generation C2 Framework
@@ -803,7 +801,7 @@
 
 *   [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
 
-*   [chainreactors/spray](https://github.com/chainreactors/spray) - 最好用最智能最可控的目录爆破工具 | The most powerful, user-friendly, intelligent, and precise HTTP buster.
+*   [chainreactors/spray](https://github.com/chainreactors/spray) - 最好用最智能最可控的目录Fuzz工具 | The most powerful, user-friendly, intelligent, and precise HTTP Fuzzer.
 
 *   [chainreactors/fingers](https://github.com/chainreactors/fingers) - ALLINONE framework and technology detect lib
 
@@ -2981,49 +2979,9 @@
 
 *   [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon大型内网渗透扫描器，PowerShell、Cobalt Strike插件、内存加载、无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。网络资产探测32种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SSH\HTTP\HTTPS\Exchange\mssql\FTP\RDP)或方法快速获取目标网络存活主机IP、计算机名、工作组、共享资源、网卡地址、操作系统版本、网站、子域名、中间件、开放服务、路由器、交换机、数据库、打印机等，大量高危漏洞检测模块MS17010、Zimbra、Exchange
 
-## CMake
-
-*   [Sndav/mac-capture-x](https://github.com/Sndav/mac-capture-x) - MacOS 超级屏幕录制，支持排除特定应用进行屏幕录制
-
-## PowerShell
-
-*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
-
-*   [D13Xian/CobaltStrike-KunKun](https://github.com/D13Xian/CobaltStrike-KunKun) - 坤坤CS 基于CobaltStrike cat 4.5二开项目 添加反沙箱、反测绘。集成常用后渗透插件，开箱即用
-
-*   [arch3rPro/PST-Bucket](https://github.com/arch3rPro/PST-Bucket) - Scoop-Buket for Penetration Suite Toolkit  -  Windows渗透测试工具仓库For Scoop
-
-*   [V-i-x-x/AMSI-WRITE-RAID-BYPASS](https://github.com/V-i-x-x/AMSI-WRITE-RAID-BYPASS) - "AMSI WRITE RAID" Vulnerability that leads to an effective AMSI BYPASS
-
-*   [yanghaoi/CobaltStrike\_CNA](https://github.com/yanghaoi/CobaltStrike_CNA) - 使用多种WinAPI进行权限维持的CobaltStrike脚本，包含API设置系统服务，设置计划任务，管理用户等。
-
-*   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
-
-*   [senzee1984/Amsi\_Bypass\_In\_2023](https://github.com/senzee1984/Amsi_Bypass_In_2023) - Amsi Bypass payload that works on Windwos 11
-
-*   [Lucifer1993/PLtools](https://github.com/Lucifer1993/PLtools) - 整理一些内网常用渗透小工具
-
-*   [x0xr00t/Automated-MUlti-UAC-Bypass](https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass) - Automated Multi UAC BYPASS for win10|win11|win12-pre-release|ws2019|ws2022
-
-*   [9bie/Slacker](https://github.com/9bie/Slacker) - 懒鬼插件/审计过的后的渗透插件/我凭本事打的SESSION凭什么还要我自己动手后渗透？
-
-*   [k8gege/K8tools](https://github.com/k8gege/K8tools) - K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)
-
-*   [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) - Six Degrees of Domain Admin
-
-*   [QAX-A-Team/EventLogMaster](https://github.com/QAX-A-Team/EventLogMaster) - Cobalt Strike插件 - RDP日志取证&清除
-
-*   [rsmudge/ElevateKit](https://github.com/rsmudge/ElevateKit) - The Elevate Kit demonstrates how to use third-party privilege escalation attacks with Cobalt Strike's Beacon payload.
-
-*   [dafthack/DomainPasswordSpray](https://github.com/dafthack/DomainPasswordSpray) - DomainPasswordSpray is a tool written in PowerShell to perform a password spray attack against users of a domain. By default it will automatically generate the userlist from the domain. BE VERY CAREFUL NOT TO LOCKOUT ACCOUNTS!
-
-*   [QAX-A-Team/CobaltStrike-Toolset](https://github.com/QAX-A-Team/CobaltStrike-Toolset) - Aggressor Script, Kits, Malleable C2 Profiles, External C2 and so on
-
-*   [lintstar/LSTAR](https://github.com/lintstar/LSTAR) - LSTAR - CobaltStrike 综合后渗透插件
-
-*   [tide-emergency/yingji](https://github.com/tide-emergency/yingji) - 应急相关内容积累
-
 ## Rust
+
+*   [hahwul/jwt-hack](https://github.com/hahwul/jwt-hack) - JSON Web Token Hack Toolkit
 
 *   [editso/fuso](https://github.com/editso/fuso) - 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, and transmission encryption)
 
@@ -3068,6 +3026,48 @@
 *   [0x727/FingerprintHub](https://github.com/0x727/FingerprintHub) - 侦查守卫(ObserverWard)的指纹库
 
 *   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+## CMake
+
+*   [Sndav/mac-capture-x](https://github.com/Sndav/mac-capture-x) - MacOS 超级屏幕录制，支持排除特定应用进行屏幕录制
+
+## PowerShell
+
+*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+
+*   [D13Xian/CobaltStrike-KunKun](https://github.com/D13Xian/CobaltStrike-KunKun) - 坤坤CS 基于CobaltStrike cat 4.5二开项目 添加反沙箱、反测绘。集成常用后渗透插件，开箱即用
+
+*   [arch3rPro/PST-Bucket](https://github.com/arch3rPro/PST-Bucket) - Scoop-Buket for Penetration Suite Toolkit  -  Windows渗透测试工具仓库For Scoop
+
+*   [V-i-x-x/AMSI-WRITE-RAID-BYPASS](https://github.com/V-i-x-x/AMSI-WRITE-RAID-BYPASS) - "AMSI WRITE RAID" Vulnerability that leads to an effective AMSI BYPASS
+
+*   [yanghaoi/CobaltStrike\_CNA](https://github.com/yanghaoi/CobaltStrike_CNA) - 使用多种WinAPI进行权限维持的CobaltStrike脚本，包含API设置系统服务，设置计划任务，管理用户等。
+
+*   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
+
+*   [senzee1984/Amsi\_Bypass\_In\_2023](https://github.com/senzee1984/Amsi_Bypass_In_2023) - Amsi Bypass payload that works on Windwos 11
+
+*   [Lucifer1993/PLtools](https://github.com/Lucifer1993/PLtools) - 整理一些内网常用渗透小工具
+
+*   [x0xr00t/Automated-MUlti-UAC-Bypass](https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass) - Automated Multi UAC BYPASS for win10|win11|win12-pre-release|ws2019|ws2022
+
+*   [9bie/Slacker](https://github.com/9bie/Slacker) - 懒鬼插件/审计过的后的渗透插件/我凭本事打的SESSION凭什么还要我自己动手后渗透？
+
+*   [k8gege/K8tools](https://github.com/k8gege/K8tools) - K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)
+
+*   [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) - Six Degrees of Domain Admin
+
+*   [QAX-A-Team/EventLogMaster](https://github.com/QAX-A-Team/EventLogMaster) - Cobalt Strike插件 - RDP日志取证&清除
+
+*   [rsmudge/ElevateKit](https://github.com/rsmudge/ElevateKit) - The Elevate Kit demonstrates how to use third-party privilege escalation attacks with Cobalt Strike's Beacon payload.
+
+*   [dafthack/DomainPasswordSpray](https://github.com/dafthack/DomainPasswordSpray) - DomainPasswordSpray is a tool written in PowerShell to perform a password spray attack against users of a domain. By default it will automatically generate the userlist from the domain. BE VERY CAREFUL NOT TO LOCKOUT ACCOUNTS!
+
+*   [QAX-A-Team/CobaltStrike-Toolset](https://github.com/QAX-A-Team/CobaltStrike-Toolset) - Aggressor Script, Kits, Malleable C2 Profiles, External C2 and so on
+
+*   [lintstar/LSTAR](https://github.com/lintstar/LSTAR) - LSTAR - CobaltStrike 综合后渗透插件
+
+*   [tide-emergency/yingji](https://github.com/tide-emergency/yingji) - 应急相关内容积累
 
 ## CSS
 
