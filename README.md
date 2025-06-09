@@ -1707,7 +1707,7 @@
 
 *   [lemono0/FastJsonParty](https://github.com/lemono0/FastJsonParty) - FastJson全版本Docker漏洞环境(涵盖1.2.47/1.2.68/1.2.80等版本)，主要包括JNDI注入及高版本绕过、waf绕过、文件读写、原生反序列化、利用链探测绕过、不出网利用等。从黑盒的角度覆盖FastJson深入利用
 
-*   [CRONUS-Develop/memory-image-auto-analyzer](https://github.com/CRONUS-Develop/memory-image-auto-analyzer) - 一个雏形，一个基于Volatility进行可视化、自动化内存镜像分析的工具
+*   [CRONUS-Security/memory-image-auto-analyzer](https://github.com/CRONUS-Security/memory-image-auto-analyzer) - 一个雏形，一个基于Volatility进行可视化、自动化内存镜像分析的工具
 
 *   [tongchengbin/ocean\_ctf](https://github.com/tongchengbin/ocean_ctf) - CTF平台 支持docker 动态部署题目、分数统计、作弊检测，静态题目，漏洞复现,ctf platform,
 
