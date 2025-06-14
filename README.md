@@ -8,9 +8,9 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [PHP](#php)
 *   [JavaScript](#javascript)
-*   [Go](#go)
 *   [Python](#python)
 *   [C#](#c)
 *   [miscellaneous](#miscellaneous)
@@ -61,223 +61,9 @@
 *   [YARA](#yara)
 *   [AutoIt](#autoit)
 
-## PHP
-
-*   [Southseast/Zend\_Decode](https://github.com/Southseast/Zend_Decode) - 一个缝合的Zend批量解密脚本。
-
-*   [pk-fr/yakpro-po](https://github.com/pk-fr/yakpro-po) - YAK Pro - Php Obfuscator
-
-*   [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
-
-*   [MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) - A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
-
-*   [mstxq17/SeCDictionary](https://github.com/mstxq17/SeCDictionary) - 少而精的常用字典，积累各种场景实现字典进化，只追求更简单更有效，不建议star，但建议pr。
-
-*   [misaka19008/PerlinPuzzle-Webshell-PHP](https://github.com/misaka19008/PerlinPuzzle-Webshell-PHP) - 使用分支对抗技术制作的PHP Webshell，截止2024年1月18日，共数十个查杀引擎免杀
-
-*   [0xs1riu5/vulawdhub](https://github.com/0xs1riu5/vulawdhub) - 该项目是利用docker技术创建的有漏洞的cms环境集合，可以进行练习
-
-*   [TideSec/WDScanner](https://github.com/TideSec/WDScanner) - WDScanner平台目前实现了如下功能：分布式web漏洞扫描、客户管理、漏洞定期扫描、子域名枚举、端口扫描、网站爬虫、暗链检测、坏链检测、网站指纹搜集、专项漏洞检测、代理搜集及部署等功能。
-
-*   [Macr0phag3/webshell-bypassed-human](https://github.com/Macr0phag3/webshell-bypassed-human) - 过人 webshell 的生成工具
-
-*   [ProbiusOfficial/PHPSerialize-labs](https://github.com/ProbiusOfficial/PHPSerialize-labs) - 【Hello-CTF labs】PHPSerialize-labs是一个使用php语言编写的，用于学习CTF中PHP反序列化的入门靶场。旨在帮助大家对PHP的序列化和反序列化有一个全面的了解。
-
-*   [ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF) - 【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！
-
-*   [iqiqiya/iqiqiya-API](https://github.com/iqiqiya/iqiqiya-API) - API接口大全不断更新中~欢迎Fork和Star(✎ 1.一言(古诗句版)api  ✎ 2.必应每日一图api  ✎ 3.在线ip查询  ✎ 4.m3u8视频在线解析api  ✎ 5.随机生成二次元图片api  ✎ 6.快递查询api-支持国内百家快递  ✎ 7.flv视频在线解析api ✎ 8.抖音视频无水印解析api✎ 9.一句话随机图片api✎ 10.QQ用户信息获取api✎11.哔哩哔哩封面图获取api✎12.千图网58pic无水印解析下载api✎13.喜马拉雅主播FM数据采集api✎14.网易云音乐api✎15.CCTV央视网视频解析api✎16.微信运动刷步数api✎17.皮皮搞笑APP短视频无水印解析api✎18.皮皮虾短视频去水印解析✎19.蓝奏云直链解析✎20.千库网无水印解析✎21.17素材网免VIP解析✎22.快手短视频去水印解析✎23.微视短视频去水印解析)
-
-*   [evilc0deooo/PentesterSpecialDict](https://github.com/evilc0deooo/PentesterSpecialDict) - 构建优化高效的渗透 fuzz 字典合集
-
-*   [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
-
-*   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
-
-*   [changbin1997/Facile](https://github.com/changbin1997/Facile) - 一个简洁的 Typecho 博客主题
-
-*   [solstice23/argon-theme](https://github.com/solstice23/argon-theme) - 📖 Argon - 一个轻盈、简洁的 WordPress 主题
-
-*   [kalcaddle/kodbox](https://github.com/kalcaddle/kodbox) - kodbox is a file manager for web. It is a newly designed product based on kodexplorer. It is also a web code editor, which allows you to develop websites directly within the web browser.You can run kodbox either online or locally,on Linux, Windows or Mac based platforms
-
-*   [kalcaddle/KodExplorer](https://github.com/kalcaddle/KodExplorer) - A web based file manager,web IDE / browser based code editor
-
-*   [jas502n/PHPStudy-Backdoor](https://github.com/jas502n/PHPStudy-Backdoor) - phpstudy dll backdoor for v2016 and v2018
-
-*   [Junehck/FastSqli](https://github.com/Junehck/FastSqli) - 单页mysql注入环境自带数据仅需填账号密码无需其他复杂配置开箱即用。 自定义过滤/拦截规则进行bypass等测试，支持报错/联合/延时/布尔/时间/堆叠 的数值或字符注入
-
-*   [sqlsec/ssrf-vuls](https://github.com/sqlsec/ssrf-vuls) - 国光的手把手带你用 SSRF 打穿内网靶场源码
-
-*   [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
-
-*   [Basyaact/DVWA-Chinese](https://github.com/Basyaact/DVWA-Chinese) - DVWA全汉化版本
-
-*   [zhuifengshaonianhanlu/pikachu](https://github.com/zhuifengshaonianhanlu/pikachu) - 一个好玩的Web安全-漏洞测试平台
-
-*   [wofeiwo/webcgi-exploits](https://github.com/wofeiwo/webcgi-exploits) - Multi-language web CGI interfaces exploits.
-
-*   [le31ei/ctf\_challenges](https://github.com/le31ei/ctf_challenges) - 适用于一线安服的ctf培训题目，全docker环境一键启动
-
-*   [yzmcms/yzmcms](https://github.com/yzmcms/yzmcms) - YzmCMS是一款基于YZMPHP开发的一套轻量级开源内容管理系统，YzmCMS简洁、安全、开源、实用，可运行在Linux、Windows、MacOSX、Solaris等各种平台上，专注为公司企业、个人站长快速建站提供解决方案。
-
-*   [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
-
-*   [l3m0n/Bypass\_Disable\_functions\_Shell](https://github.com/l3m0n/Bypass_Disable_functions_Shell) - 一个各种方式突破Disable\_functions达到命令执行的shell
-
-*   [78778443/QingScan](https://github.com/78778443/QingScan) - 一个漏洞扫描器粘合剂,添加目标后30款工具自动调用；支持 web扫描、系统扫描、子域名收集、目录扫描、主机扫描、主机发现、组件识别、URL爬虫、XRAY扫描、AWVS自动扫描、POC批量验证，SSH批量测试、vulmap。
-
-*   [bowu678/php\_bugs](https://github.com/bowu678/php_bugs) - PHP代码审计分段讲解
-
-*   [susers/Writeups](https://github.com/susers/Writeups) - 国内各大CTF赛题及writeup整理
-
-*   [hlmd/Postman-cn](https://github.com/hlmd/Postman-cn) - Postman汉化中文版
-
-*   [hongriSec/PHP-Audit-Labs](https://github.com/hongriSec/PHP-Audit-Labs) - 一个关于PHP的代码审计项目
-
-*   [hanc00l/wooyun\_public](https://github.com/hanc00l/wooyun_public) - This repo is archived. Thanks for wooyun!  乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops
-
-*   [tennc/webshell](https://github.com/tennc/webshell) - This is a webshell open source project
-
-*   [SecWiki/CMS-Hunter](https://github.com/SecWiki/CMS-Hunter) - CMS漏洞测试用例集合
-
-## JavaScript
-
-*   [Rabb1tQ/wiki](https://github.com/Rabb1tQ/wiki) - 由于收集了一堆文档，文档数量及附件过多，现有的免费的系统不满足我的需求，所以自己弄个~
-
-*   [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
-
-*   [xh321/LiteLoaderQQNT-Anti-Recall](https://github.com/xh321/LiteLoaderQQNT-Anti-Recall) - LiteLoaderQQNT 插件 - QQNT 简易防撤回
-
-*   [kenny67/AndroidReverseEngineering](https://github.com/kenny67/AndroidReverseEngineering) - 安卓逆向工程 ELFRead、Frida、FridaDump、DexDump、SoDump、Ghidra、Jadx、Xpose...
-
-*   [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
-
-*   [LinBeiPolaris/PolarisScan](https://github.com/LinBeiPolaris/PolarisScan) - 一款Google信息收集插件，包含域名，map，js等文件提取
-
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-
-*   [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
-
-*   [arounyf/headscale-Admin](https://github.com/arounyf/headscale-Admin) - 支持多用户管理的一款headscale后台控制中心
-
-*   [StrayMeteor3337/WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你
-
-*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
-
-*   [whgojp/JavaSecLab](https://github.com/whgojp/JavaSecLab) - JavaSecLab is a comprehensive Java vulnerability platform｜​ JavaSecLab是一款综合型Java漏洞平台，提供相关漏洞缺陷代码、修复代码、漏洞场景、审计SINK点、安全编码规范，覆盖多种漏洞场景，友好用户交互UI……
-
-*   [lazy-luo/smarGate](https://github.com/lazy-luo/smarGate) - 内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！
-
-*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-
-*   [mindskip/xzs-mysql](https://github.com/mindskip/xzs-mysql) - 学之思开源考试系统是一款 java + vue 的前后端分离的考试系统。主要优点是开发、部署简单快捷、界面设计友好、代码结构清晰。支持web端和微信小程序，能覆盖到pc机和手机等设备。 支持多种部署方式：集成部署、前后端分离部署、docker部署。
-
-*   [l3yx/Java-RASP-Research-Env](https://github.com/l3yx/Java-RASP-Research-Env) - 之前方便自己研究RASP原理和绕过时顺手写的，用于快速启动和重置RASP环境
-
-*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
-
-*   [metowolf/iplist](https://github.com/metowolf/iplist) - IP CIDRs List / IP 地址列表
-
-*   [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
-
-*   [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
-
-*   [Z-Siqi/Clash-for-Windows\_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
-
-*   [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
-
-*   [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
-
-*   [beishanxueyuan/domain\_scan](https://github.com/beishanxueyuan/domain_scan) -
-
-*   [knownsec/KCon](https://github.com/knownsec/KCon) - KCon is a famous Hacker Con powered by Knownsec Team.
-
-*   [TongchengOpenSource/AppScan](https://github.com/TongchengOpenSource/AppScan) - 安全隐私卫士（AppScan）一款免费的企业级自动化App隐私合规检测工具。
-
-*   [Gerrit0/old-github-feed](https://github.com/Gerrit0/old-github-feed) - Brings back GitHub's old feed
-
-*   [phith0n/vueinfo](https://github.com/phith0n/vueinfo) - Extract website information from Vue
-
-*   [0x727/Space\_view](https://github.com/0x727/Space_view) - Space\_view 是一款Hunter(鹰图平台)或者FOFA平台 资产展示的浏览器油猴插件
-
-*   [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
-
-*   [momosecurity/FindSomething](https://github.com/momosecurity/FindSomething) - 基于chrome、firefox插件的被动式信息泄漏检测工具
-
-*   [wjl110/CVE-Master](https://github.com/wjl110/CVE-Master) - 收集本人自接触渗透测试用于漏洞验证的所有热门CVE、POC、CNVD攻击有效载荷+测试工具+FUZZ,一个仓库满足许多攻击测试场景,开箱即用.
-
-*   [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
-
-*   [1in9e/gosint](https://github.com/1in9e/gosint) - Gosint is a distributed asset information collection and vulnerability scanning platform
-
-*   [b0bac/ApolloScanner](https://github.com/b0bac/ApolloScanner) - 自动化巡航扫描框架（可用于红队打点评估）
-
-*   [hanc00l/nemo\_go](https://github.com/hanc00l/nemo_go) - Nemo是用来进行自动化信息收集的一个简单平台，通过集成常用的信息收集工具和技术，实现对内网及互联网资产信息的自动收集，提高隐患排查和渗透测试的工作效率。
-
-*   [system-cpu/wxappUnpacker](https://github.com/system-cpu/wxappUnpacker) - 基于node反编译小程序 已经配置完成
-
-*   [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
-
-*   [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
-
-*   [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
-
-*   [Ghr07h/Heimdallr](https://github.com/Ghr07h/Heimdallr) - 一款完全被动监听的谷歌插件，用于高危指纹识别、蜜罐特征告警和拦截、机器特征对抗
-
-*   [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥 hooker is a Frida-based reverse engineering toolkit for Android. It offers a user-friendly CLI, universal scripts, auto hook generation, memory roaming to detect activities/services, one-click SOCKS5 proxy setup, Frida JustTrustMe, and BoringSSL unpinning for all apps.
-
-*   [lijiejie/EasyPen](https://github.com/lijiejie/EasyPen) - EasyPen is a GUI program which helps pentesters do target discovery, vulnerability scan and exploitation
-
-*   [yzddmr6/as\_webshell\_venom](https://github.com/yzddmr6/as_webshell_venom) - 免杀webshell无限生成工具蚁剑版
-
-*   [whitescent/KFC-Crazy-Thursday](https://github.com/whitescent/KFC-Crazy-Thursday) - 肯德基疯狂星期四段子收录
-
-*   [aliyun/oss-browser](https://github.com/aliyun/oss-browser) - OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
-
-*   [r00tSe7en/GoogleHackingTool](https://github.com/r00tSe7en/GoogleHackingTool) - 在线Google Hacking 小工具
-
-*   [SiJiDo/H](https://github.com/SiJiDo/H) - H是一款强大的资产收集管理平台
-
-*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-
-*   [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
-
-*   [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager \[GUI client], compatible with Linux, Windows, Mac.
-
-*   [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
-
-*   [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
-
-*   [liuze0109/Royal\_TSX\_Chinese\_Language\_Pack](https://github.com/liuze0109/Royal_TSX_Chinese_Language_Pack) - Royal\_TSX的简体中文汉化包
-
-*   [tsycnh/WeChatExporter](https://github.com/tsycnh/WeChatExporter) - 一个可以快速导出、查看你的微信聊天记录的工具
-
-*   [phith0n/xray-poc-generation](https://github.com/phith0n/xray-poc-generation) - 🧬 辅助生成 XRay YAML POC
-
-*   [Mustard404/Savior](https://github.com/Mustard404/Savior) - 渗透测试报告自动生成工具！
-
-*   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-
-*   [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)
-
-*   [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-
-*   [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) -  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
-
-*   [guyoung/CaptfEncoder](https://github.com/guyoung/CaptfEncoder) - Captfencoder is opensource a rapid cross platform network security tool suite, providing network security related code conversion, classical cryptography, cryptography, asymmetric encryption, miscellaneous tools, and aggregating all kinds of online tools.
-
-*   [Gu-f/CTFd\_chinese\_CN](https://github.com/Gu-f/CTFd_chinese_CN) - 对CTFd平台各版本的汉化记录。key:中文、汉化、翻译、chinese、CN、CTFd
-
-*   [gh0stkey/avList](https://github.com/gh0stkey/avList) - avList - 杀软进程对应杀软名称
-
-*   [yzddmr6/As-Exploits](https://github.com/yzddmr6/As-Exploits) - 中国蚁剑后渗透框架
-
-*   [AntSwordProject/AwesomeEncoder](https://github.com/AntSwordProject/AwesomeEncoder) - AntSword 自定义编(解)码器分享
-
-*   [AntSwordProject/antSword](https://github.com/AntSwordProject/antSword) - 中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.
-
-*   [lanyulei/ferry](https://github.com/lanyulei/ferry) - 本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提升工作效率与工作质量，减少不必要的工作量与人为出错率。
-
 ## Go
+
+*   [Adminisme/ServerScan](https://github.com/Adminisme/ServerScan) - ServerScan一款使用Golang开发的高并发网络扫描、服务探测工具。
 
 *   [netuseradministrator/CVE-2024-36401](https://github.com/netuseradministrator/CVE-2024-36401) - geoserver图形化漏洞利用工具
 
@@ -541,7 +327,7 @@
 
 *   [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework
 
-*   [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
+*   [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 
 *   [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
 
@@ -666,6 +452,222 @@
 *   [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 
 *   [tomnomnom/httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working HTTP and HTTPS servers
+
+## PHP
+
+*   [Southseast/Zend\_Decode](https://github.com/Southseast/Zend_Decode) - 一个缝合的Zend批量解密脚本。
+
+*   [pk-fr/yakpro-po](https://github.com/pk-fr/yakpro-po) - YAK Pro - Php Obfuscator
+
+*   [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
+
+*   [MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) - A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
+
+*   [mstxq17/SeCDictionary](https://github.com/mstxq17/SeCDictionary) - 少而精的常用字典，积累各种场景实现字典进化，只追求更简单更有效，不建议star，但建议pr。
+
+*   [misaka19008/PerlinPuzzle-Webshell-PHP](https://github.com/misaka19008/PerlinPuzzle-Webshell-PHP) - 使用分支对抗技术制作的PHP Webshell，截止2024年1月18日，共数十个查杀引擎免杀
+
+*   [0xs1riu5/vulawdhub](https://github.com/0xs1riu5/vulawdhub) - 该项目是利用docker技术创建的有漏洞的cms环境集合，可以进行练习
+
+*   [TideSec/WDScanner](https://github.com/TideSec/WDScanner) - WDScanner平台目前实现了如下功能：分布式web漏洞扫描、客户管理、漏洞定期扫描、子域名枚举、端口扫描、网站爬虫、暗链检测、坏链检测、网站指纹搜集、专项漏洞检测、代理搜集及部署等功能。
+
+*   [Macr0phag3/webshell-bypassed-human](https://github.com/Macr0phag3/webshell-bypassed-human) - 过人 webshell 的生成工具
+
+*   [ProbiusOfficial/PHPSerialize-labs](https://github.com/ProbiusOfficial/PHPSerialize-labs) - 【Hello-CTF labs】PHPSerialize-labs是一个使用php语言编写的，用于学习CTF中PHP反序列化的入门靶场。旨在帮助大家对PHP的序列化和反序列化有一个全面的了解。
+
+*   [ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF) - 【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！
+
+*   [iqiqiya/iqiqiya-API](https://github.com/iqiqiya/iqiqiya-API) - API接口大全不断更新中~欢迎Fork和Star(✎ 1.一言(古诗句版)api  ✎ 2.必应每日一图api  ✎ 3.在线ip查询  ✎ 4.m3u8视频在线解析api  ✎ 5.随机生成二次元图片api  ✎ 6.快递查询api-支持国内百家快递  ✎ 7.flv视频在线解析api ✎ 8.抖音视频无水印解析api✎ 9.一句话随机图片api✎ 10.QQ用户信息获取api✎11.哔哩哔哩封面图获取api✎12.千图网58pic无水印解析下载api✎13.喜马拉雅主播FM数据采集api✎14.网易云音乐api✎15.CCTV央视网视频解析api✎16.微信运动刷步数api✎17.皮皮搞笑APP短视频无水印解析api✎18.皮皮虾短视频去水印解析✎19.蓝奏云直链解析✎20.千库网无水印解析✎21.17素材网免VIP解析✎22.快手短视频去水印解析✎23.微视短视频去水印解析)
+
+*   [evilc0deooo/PentesterSpecialDict](https://github.com/evilc0deooo/PentesterSpecialDict) - 构建优化高效的渗透 fuzz 字典合集
+
+*   [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
+
+*   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
+
+*   [changbin1997/Facile](https://github.com/changbin1997/Facile) - 一个简洁的 Typecho 博客主题
+
+*   [solstice23/argon-theme](https://github.com/solstice23/argon-theme) - 📖 Argon - 一个轻盈、简洁的 WordPress 主题
+
+*   [kalcaddle/kodbox](https://github.com/kalcaddle/kodbox) - kodbox is a file manager for web. It is a newly designed product based on kodexplorer. It is also a web code editor, which allows you to develop websites directly within the web browser.You can run kodbox either online or locally,on Linux, Windows or Mac based platforms
+
+*   [kalcaddle/KodExplorer](https://github.com/kalcaddle/KodExplorer) - A web based file manager,web IDE / browser based code editor
+
+*   [jas502n/PHPStudy-Backdoor](https://github.com/jas502n/PHPStudy-Backdoor) - phpstudy dll backdoor for v2016 and v2018
+
+*   [Junehck/FastSqli](https://github.com/Junehck/FastSqli) - 单页mysql注入环境自带数据仅需填账号密码无需其他复杂配置开箱即用。 自定义过滤/拦截规则进行bypass等测试，支持报错/联合/延时/布尔/时间/堆叠 的数值或字符注入
+
+*   [sqlsec/ssrf-vuls](https://github.com/sqlsec/ssrf-vuls) - 国光的手把手带你用 SSRF 打穿内网靶场源码
+
+*   [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
+
+*   [Basyaact/DVWA-Chinese](https://github.com/Basyaact/DVWA-Chinese) - DVWA全汉化版本
+
+*   [zhuifengshaonianhanlu/pikachu](https://github.com/zhuifengshaonianhanlu/pikachu) - 一个好玩的Web安全-漏洞测试平台
+
+*   [wofeiwo/webcgi-exploits](https://github.com/wofeiwo/webcgi-exploits) - Multi-language web CGI interfaces exploits.
+
+*   [le31ei/ctf\_challenges](https://github.com/le31ei/ctf_challenges) - 适用于一线安服的ctf培训题目，全docker环境一键启动
+
+*   [yzmcms/yzmcms](https://github.com/yzmcms/yzmcms) - YzmCMS是一款基于YZMPHP开发的一套轻量级开源内容管理系统，YzmCMS简洁、安全、开源、实用，可运行在Linux、Windows、MacOSX、Solaris等各种平台上，专注为公司企业、个人站长快速建站提供解决方案。
+
+*   [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+
+*   [l3m0n/Bypass\_Disable\_functions\_Shell](https://github.com/l3m0n/Bypass_Disable_functions_Shell) - 一个各种方式突破Disable\_functions达到命令执行的shell
+
+*   [78778443/QingScan](https://github.com/78778443/QingScan) - 一个漏洞扫描器粘合剂,添加目标后30款工具自动调用；支持 web扫描、系统扫描、子域名收集、目录扫描、主机扫描、主机发现、组件识别、URL爬虫、XRAY扫描、AWVS自动扫描、POC批量验证，SSH批量测试、vulmap。
+
+*   [bowu678/php\_bugs](https://github.com/bowu678/php_bugs) - PHP代码审计分段讲解
+
+*   [susers/Writeups](https://github.com/susers/Writeups) - 国内各大CTF赛题及writeup整理
+
+*   [hlmd/Postman-cn](https://github.com/hlmd/Postman-cn) - Postman汉化中文版
+
+*   [hongriSec/PHP-Audit-Labs](https://github.com/hongriSec/PHP-Audit-Labs) - 一个关于PHP的代码审计项目
+
+*   [hanc00l/wooyun\_public](https://github.com/hanc00l/wooyun_public) - This repo is archived. Thanks for wooyun!  乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops
+
+*   [tennc/webshell](https://github.com/tennc/webshell) - This is a webshell open source project
+
+*   [SecWiki/CMS-Hunter](https://github.com/SecWiki/CMS-Hunter) - CMS漏洞测试用例集合
+
+## JavaScript
+
+*   [Rabb1tQ/wiki](https://github.com/Rabb1tQ/wiki) - 由于收集了一堆文档，文档数量及附件过多，现有的免费的系统不满足我的需求，所以自己弄个~
+
+*   [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
+
+*   [xh321/LiteLoaderQQNT-Anti-Recall](https://github.com/xh321/LiteLoaderQQNT-Anti-Recall) - LiteLoaderQQNT 插件 - QQNT 简易防撤回
+
+*   [kenny67/AndroidReverseEngineering](https://github.com/kenny67/AndroidReverseEngineering) - 安卓逆向工程 ELFRead、Frida、FridaDump、DexDump、SoDump、Ghidra、Jadx、Xpose...
+
+*   [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
+
+*   [LinBeiPolaris/PolarisScan](https://github.com/LinBeiPolaris/PolarisScan) - 一款Google信息收集插件，包含域名，map，js等文件提取
+
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+
+*   [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
+
+*   [arounyf/headscale-Admin](https://github.com/arounyf/headscale-Admin) - 支持多用户管理的一款headscale后台控制中心
+
+*   [StrayMeteor3337/WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你
+
+*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
+
+*   [whgojp/JavaSecLab](https://github.com/whgojp/JavaSecLab) - JavaSecLab is a comprehensive Java vulnerability platform｜​ JavaSecLab是一款综合型Java漏洞平台，提供相关漏洞缺陷代码、修复代码、漏洞场景、审计SINK点、安全编码规范，覆盖多种漏洞场景，友好用户交互UI……
+
+*   [lazy-luo/smarGate](https://github.com/lazy-luo/smarGate) - 内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！
+
+*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+
+*   [mindskip/xzs-mysql](https://github.com/mindskip/xzs-mysql) - 学之思开源考试系统是一款 java + vue 的前后端分离的考试系统。主要优点是开发、部署简单快捷、界面设计友好、代码结构清晰。支持web端和微信小程序，能覆盖到pc机和手机等设备。 支持多种部署方式：集成部署、前后端分离部署、docker部署。
+
+*   [l3yx/Java-RASP-Research-Env](https://github.com/l3yx/Java-RASP-Research-Env) - 之前方便自己研究RASP原理和绕过时顺手写的，用于快速启动和重置RASP环境
+
+*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
+
+*   [metowolf/iplist](https://github.com/metowolf/iplist) - IP CIDRs List / IP 地址列表
+
+*   [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
+
+*   [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
+
+*   [Z-Siqi/Clash-for-Windows\_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
+
+*   [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
+
+*   [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
+
+*   [beishanxueyuan/domain\_scan](https://github.com/beishanxueyuan/domain_scan) -
+
+*   [knownsec/KCon](https://github.com/knownsec/KCon) - KCon is a famous Hacker Con powered by Knownsec Team.
+
+*   [TongchengOpenSource/AppScan](https://github.com/TongchengOpenSource/AppScan) - 安全隐私卫士（AppScan）一款免费的企业级自动化App隐私合规检测工具。
+
+*   [Gerrit0/old-github-feed](https://github.com/Gerrit0/old-github-feed) - Brings back GitHub's old feed
+
+*   [phith0n/vueinfo](https://github.com/phith0n/vueinfo) - Extract website information from Vue
+
+*   [0x727/Space\_view](https://github.com/0x727/Space_view) - Space\_view 是一款Hunter(鹰图平台)或者FOFA平台 资产展示的浏览器油猴插件
+
+*   [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
+
+*   [momosecurity/FindSomething](https://github.com/momosecurity/FindSomething) - 基于chrome、firefox插件的被动式信息泄漏检测工具
+
+*   [wjl110/CVE-Master](https://github.com/wjl110/CVE-Master) - 收集本人自接触渗透测试用于漏洞验证的所有热门CVE、POC、CNVD攻击有效载荷+测试工具+FUZZ,一个仓库满足许多攻击测试场景,开箱即用.
+
+*   [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
+
+*   [1in9e/gosint](https://github.com/1in9e/gosint) - Gosint is a distributed asset information collection and vulnerability scanning platform
+
+*   [b0bac/ApolloScanner](https://github.com/b0bac/ApolloScanner) - 自动化巡航扫描框架（可用于红队打点评估）
+
+*   [hanc00l/nemo\_go](https://github.com/hanc00l/nemo_go) - Nemo是用来进行自动化信息收集的一个简单平台，通过集成常用的信息收集工具和技术，实现对内网及互联网资产信息的自动收集，提高隐患排查和渗透测试的工作效率。
+
+*   [system-cpu/wxappUnpacker](https://github.com/system-cpu/wxappUnpacker) - 基于node反编译小程序 已经配置完成
+
+*   [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
+
+*   [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
+
+*   [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
+
+*   [Ghr07h/Heimdallr](https://github.com/Ghr07h/Heimdallr) - 一款完全被动监听的谷歌插件，用于高危指纹识别、蜜罐特征告警和拦截、机器特征对抗
+
+*   [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥 hooker is a Frida-based reverse engineering toolkit for Android. It offers a user-friendly CLI, universal scripts, auto hook generation, memory roaming to detect activities/services, one-click SOCKS5 proxy setup, Frida JustTrustMe, and BoringSSL unpinning for all apps.
+
+*   [lijiejie/EasyPen](https://github.com/lijiejie/EasyPen) - EasyPen is a GUI program which helps pentesters do target discovery, vulnerability scan and exploitation
+
+*   [yzddmr6/as\_webshell\_venom](https://github.com/yzddmr6/as_webshell_venom) - 免杀webshell无限生成工具蚁剑版
+
+*   [whitescent/KFC-Crazy-Thursday](https://github.com/whitescent/KFC-Crazy-Thursday) - 肯德基疯狂星期四段子收录
+
+*   [aliyun/oss-browser](https://github.com/aliyun/oss-browser) - OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
+
+*   [r00tSe7en/GoogleHackingTool](https://github.com/r00tSe7en/GoogleHackingTool) - 在线Google Hacking 小工具
+
+*   [SiJiDo/H](https://github.com/SiJiDo/H) - H是一款强大的资产收集管理平台
+
+*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+
+*   [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
+
+*   [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager \[GUI client], compatible with Linux, Windows, Mac.
+
+*   [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
+
+*   [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
+
+*   [liuze0109/Royal\_TSX\_Chinese\_Language\_Pack](https://github.com/liuze0109/Royal_TSX_Chinese_Language_Pack) - Royal\_TSX的简体中文汉化包
+
+*   [tsycnh/WeChatExporter](https://github.com/tsycnh/WeChatExporter) - 一个可以快速导出、查看你的微信聊天记录的工具
+
+*   [phith0n/xray-poc-generation](https://github.com/phith0n/xray-poc-generation) - 🧬 辅助生成 XRay YAML POC
+
+*   [Mustard404/Savior](https://github.com/Mustard404/Savior) - 渗透测试报告自动生成工具！
+
+*   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+
+*   [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)
+
+*   [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
+
+*   [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) -  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
+
+*   [guyoung/CaptfEncoder](https://github.com/guyoung/CaptfEncoder) - Captfencoder is opensource a rapid cross platform network security tool suite, providing network security related code conversion, classical cryptography, cryptography, asymmetric encryption, miscellaneous tools, and aggregating all kinds of online tools.
+
+*   [Gu-f/CTFd\_chinese\_CN](https://github.com/Gu-f/CTFd_chinese_CN) - 对CTFd平台各版本的汉化记录。key:中文、汉化、翻译、chinese、CN、CTFd
+
+*   [gh0stkey/avList](https://github.com/gh0stkey/avList) - avList - 杀软进程对应杀软名称
+
+*   [yzddmr6/As-Exploits](https://github.com/yzddmr6/As-Exploits) - 中国蚁剑后渗透框架
+
+*   [AntSwordProject/AwesomeEncoder](https://github.com/AntSwordProject/AwesomeEncoder) - AntSword 自定义编(解)码器分享
+
+*   [AntSwordProject/antSword](https://github.com/AntSwordProject/antSword) - 中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.
+
+*   [lanyulei/ferry](https://github.com/lanyulei/ferry) - 本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提升工作效率与工作质量，减少不必要的工作量与人为出错率。
 
 ## Python
 
@@ -2642,8 +2644,6 @@
 *   [Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub) - :palm\_tree:Linux、macOS、Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (提权漏洞合集)
 
 *   [SecWiki/linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits) - linux-kernel-exploits Linux平台提权漏洞集合
-
-*   [SecWiki/windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits) - windows-kernel-exploits   Windows平台提权漏洞集合
 
 ## Vue
 
