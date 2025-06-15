@@ -1665,7 +1665,7 @@
 
 *   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) -
 
-*   [vaardan/wireguard-macos-app](https://github.com/vaardan/wireguard-macos-app) - Wireguard UI Universal Apple application
+*   [zakosaba/wireguard-macos-app](https://github.com/zakosaba/wireguard-macos-app) - Wireguard UI Universal Apple application
 
 *   [Awrrays/Frame-DefaultPass](https://github.com/Awrrays/Frame-DefaultPass) - 所有碰到过的默认口令
 
