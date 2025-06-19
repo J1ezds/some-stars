@@ -1175,6 +1175,8 @@
 
 *   [LinBeiPolaris/PolarisScan](https://github.com/LinBeiPolaris/PolarisScan) - 一款Google信息收集插件，包含域名，map，js等文件提取
 
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+
 *   [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
 
 *   [arounyf/headscale-Admin](https://github.com/arounyf/headscale-Admin) - 支持多用户管理的一款headscale后台控制中心
@@ -1959,7 +1961,7 @@
 
 *   [gobysec/Weblogic](https://github.com/gobysec/Weblogic) - WebLogic vulnerability exploration from beginner to expert.
 
-*   [x364e3ab6/DudeSuite](https://github.com/x364e3ab6/DudeSuite) - Dude Suite Web Security Tools
+*   [x364e3ab6/DudeSuite](https://github.com/x364e3ab6/DudeSuite) - DudeSuite Web Security Tools
 
 *   [EdgeSecurityTeam/Eeyes](https://github.com/EdgeSecurityTeam/Eeyes) - Eeyes(棱眼)-快速筛选真实IP并整理为C段
 
@@ -2032,8 +2034,6 @@
 *   [rebeyond/JNDInjector](https://github.com/rebeyond/JNDInjector) - 一个高度可定制化的JNDI和Java反序列化利用工具
 
 *   [Tas9er/ByPassBehinder](https://github.com/Tas9er/ByPassBehinder) - ByPassBehinder / 冰蝎WebShell免杀生成 / Code By:Tas9er
-
-*   [TryGOTry/CobaltStrike\_Cat\_4.5](https://github.com/TryGOTry/CobaltStrike_Cat_4.5) - 猫猫Cs:基于Cobalt Strike\[4.5]二开 (原dogcs二开移植)
 
 *   [guchangan1/All-Defense-Tool](https://github.com/guchangan1/All-Defense-Tool) - 本项目集成了全网优秀的攻防武器工具项目，包含自动化利用，子域名、目录扫描、端口扫描等信息收集工具，各大中间件、cms、OA漏洞利用工具，爆破工具、内网横向、免杀、社工钓鱼以及应急响应、甲方安全资料等其他安全攻防资料。
 
@@ -2899,8 +2899,6 @@
 
 *   [g1an123/FscanViz](https://github.com/g1an123/FscanViz) - FscanViz 是一款专为安全工程师打造的可视化工具，用于解析和展示 fscan 扫描结果。通过直观的网络拓扑图和交互式漏洞报告，帮助您快速识别网络中的安全风险点。
 
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-
 *   [xcanwin/CVE-2023-4357-Chrome-XXE](https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE) - \[漏洞复现] 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.
 
 *   [ybdt/exp-hub](https://github.com/ybdt/exp-hub) - 漏洞复现
@@ -3144,6 +3142,8 @@
 *   [QAX-A-Team/CobaltStrike-Toolset](https://github.com/QAX-A-Team/CobaltStrike-Toolset) - Aggressor Script, Kits, Malleable C2 Profiles, External C2 and so on
 
 *   [lintstar/LSTAR](https://github.com/lintstar/LSTAR) - LSTAR - CobaltStrike 综合后渗透插件
+
+*   [tide-emergency/yingji](https://github.com/tide-emergency/yingji) - 应急相关内容积累
 
 ## CSS
 
