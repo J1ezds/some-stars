@@ -147,8 +147,6 @@
 
 *   [f1tz/cnseay](https://github.com/f1tz/cnseay) - Seay源代码审计系统
 
-*   [JaveleyQAQ/SQL-Injection-Scout](https://github.com/JaveleyQAQ/SQL-Injection-Scout) - SQL Injection Scout 是一个用于 Burp Suite 的扩展，专为帮助安全研究人员和开发人员检测和分析 SQL 注入漏洞而设计。该扩展提供了丰富的配置选项和直观的用户界面，便于用户自定义扫描和分析过程。
-
 *   [Fheidt12/Windows\_Log](https://github.com/Fheidt12/Windows_Log) - 基于Go编写的windows日志分析工具
 
 *   [bananakid/amd-radeon-pro-5600m-boot-camp](https://github.com/bananakid/amd-radeon-pro-5600m-boot-camp) - Boot Camp drivers and software for AMD Radeon Pro 5600M featured in 2020 16-inch MacBook Pro (MacBookPro16,4)
@@ -1986,6 +1984,8 @@
 ## Kotlin
 
 *   [Leon406/ToolsFx](https://github.com/Leon406/ToolsFx) - 跨平台密码学工具箱。包含编解码，编码转换，加解密， 哈希，MAC，签名，大数运算，压缩，二维码功能，CTF等功能。
+
+*   [JaveleyQAQ/SQL-Injection-Scout](https://github.com/JaveleyQAQ/SQL-Injection-Scout) - SQL Injection Scout 是一个用于 Burp Suite 的扩展，专为帮助安全研究人员和开发人员检测和分析 SQL 注入漏洞而设计。该扩展提供了丰富的配置选项和直观的用户界面，便于用户自定义扫描和分析过程。
 
 *   [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
 
