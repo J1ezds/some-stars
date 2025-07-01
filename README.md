@@ -543,9 +543,9 @@
 
 *   [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 
-*   [ZimoLoveShuang/auto-attendance](https://github.com/ZimoLoveShuang/auto-attendance) - 今日校园自动提交查寝，通用
+*   [zimo0o0omiz/auto-attendance](https://github.com/zimo0o0omiz/auto-attendance) - 今日校园自动提交查寝，通用
 
-*   [ZimoLoveShuang/auto-submit](https://github.com/ZimoLoveShuang/auto-submit) - 今日校园自动提交疫情上报，通用
+*   [zimo0o0omiz/auto-submit](https://github.com/zimo0o0omiz/auto-submit) - 今日校园自动提交疫情上报，通用
 
 *   [CarltonHere/auto-cpdaily](https://github.com/CarltonHere/auto-cpdaily) - 今日校园自动化是一个基于Python的爬虫项目，主要实现今日校园签到、信息收集、查寝等循环表单的自动化任务
 
