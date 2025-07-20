@@ -2557,7 +2557,7 @@
 
 *   [0neAtSec/SharpDomainInfo](https://github.com/0neAtSec/SharpDomainInfo) - 根据攻防以及域信息收集经验dump快而有用的域信息
 
-*   [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main) - 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵 禅道RCE 瑞友天翼应用虚拟化系统sql注入导致RCE大华智慧园区上传,金蝶云星空漏洞等等.
+*   [peiqiF4ck/WebFrameworkTools-5.5](https://github.com/peiqiF4ck/WebFrameworkTools-5.5) - 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵 禅道RCE 瑞友天翼应用虚拟化系统sql注入导致RCE大华智慧园区上传,金蝶云星空漏洞等等.
 
 *   [wh0amitz/S4UTomato](https://github.com/wh0amitz/S4UTomato) - Escalate Service Account To LocalSystem via Kerberos
 
