@@ -871,7 +871,7 @@
 
 *   [K-7H7l/Jeecg\_Tools](https://github.com/K-7H7l/Jeecg_Tools) - 本工具为jeecg框架漏洞利用工具非jeecg-boot！
 
-*   [X1r0z/JNDIMap](https://github.com/X1r0z/JNDIMap) - JNDI 注入利用工具, 支持 RMI, LDAP 和 LDAPS 协议, 包含多种高版本 JDK 绕过方式 | A JNDI injection exploit tool that supports RMI, LDAP and LDAPS protocols, including a variety of methods to bypass higher-version JDK
+*   [X1r0z/JNDIMap](https://github.com/X1r0z/JNDIMap) - A powerful JNDI injection exploitation framework that supports RMI, LDAP and LDAPS protocols, including various bypass methods for high-version JDK restrictions
 
 *   [outlaws-bai/Galaxy](https://github.com/outlaws-bai/Galaxy) - 一个想让你测试加密流量像测试明文一样简单高效的 Burp 插件。 A Burp plugin that makes testing encrypted traffic as simple and efficient as testing plaintext.
 
@@ -1165,7 +1165,7 @@
 
 ## TypeScript
 
-*   [zgsm-ai/costrict](https://github.com/zgsm-ai/costrict) - Intelligent, Practical, and Open-Source Programming Assistant
+*   [zgsm-ai/costrict](https://github.com/zgsm-ai/costrict) - Costrict - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion.
 
 *   [Cloxl/CursorPool\_Client](https://github.com/Cloxl/CursorPool_Client) - CursorPool客户端，支持windows系统和mac，支持cursor一键换号、重置机器码、禁用Cursor自动更新
 
