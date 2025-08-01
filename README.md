@@ -1919,8 +1919,6 @@
 
 *   [lijiejie/eyes.sh](https://github.com/lijiejie/eyes.sh) - Optimized DNS/HTTP Log Tool for pentesters, faster and easy to use.
 
-*   [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
-
 *   [wangchucheng/hugo-eureka](https://github.com/wangchucheng/hugo-eureka) - Eureka is a feature-rich and highly customizable Hugo theme.
 
 *   [FeeiCN/Security-PPT](https://github.com/FeeiCN/Security-PPT) - Security-related Slide Presentation & Security Research Report（大安全各领域各公司各会议分享的PPT以及各类安全研究报告）
@@ -2105,7 +2103,7 @@
 
 *   [yhy0/Jie](https://github.com/yhy0/Jie) - Jie stands out as a comprehensive security assessment and exploitation tool meticulously crafted for web applications. Its robust suite of features encompasses vulnerability scanning, information gathering, and exploitation, elevating it to an indispensable toolkit for both security professionals and penetration testers. 挖洞辅助工具(漏洞扫描、信息收集)
 
-*   [moyuwa/ApkCheckPack](https://github.com/moyuwa/ApkCheckPack) - apk文件加固特征检查工具，汇总收集已知特征和手动收集大家提交的app加固特征，目前总计约170条特征，支持40个厂商的加固检测，欢迎大家提交无法识别的app
+*   [moyuwa/ApkCheckPack](https://github.com/moyuwa/ApkCheckPack) - apk加固特征检查工具，汇总收集已知特征和手动收集大家提交的app加固特征，全网最全开源加固特征，支持40个厂商的加固检测，欢迎大家提交无法识别的app
 
 *   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 
@@ -3300,6 +3298,8 @@
 ## SCSS
 
 *   [olOwOlo/hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even) - 🚀 A super concise theme for Hugo https://hugo-theme-even.netlify.app
+
+*   [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 
 *   [nickboucher/trojan-source](https://github.com/nickboucher/trojan-source) - Trojan Source: Invisible Vulnerabilities
 
