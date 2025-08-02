@@ -19,10 +19,9 @@
 *   [C#](#c)
 *   [C++](#c-1)
 *   [Rust](#rust)
-*   [Smarty](#smarty)
+*   [Shell](#shell)
 *   [JavaScript](#javascript)
 *   [YARA](#yara)
-*   [Shell](#shell)
 *   [Kotlin](#kotlin)
 *   [PHP](#php)
 *   [C](#c-2)
@@ -49,6 +48,7 @@
 *   [Markdown](#markdown)
 *   [ASP.NET](#aspnet)
 *   [Objective-C++](#objective-c-1)
+*   [Smarty](#smarty)
 *   [Rich Text Format](#rich-text-format)
 *   [XSLT](#xslt)
 *   [Hack](#hack)
@@ -765,7 +765,7 @@
 
 *   [youki992/YonYouNCPocTool](https://github.com/youki992/YonYouNCPocTool) - 用友NC漏洞批量检测工具，支持POC显示、单一检测、批量检测、结果导出、AI交互等
 
-*   [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2025年7月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
+*   [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2025年8月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
 
 *   [for-A1kaid/CodeAudit](https://github.com/for-A1kaid/CodeAudit) - 记录一些代码审计过的源码
 
@@ -1863,8 +1863,6 @@
 
 *   [Ed1s0nZ/AIMergeBot](https://github.com/Ed1s0nZ/AIMergeBot) - AIMergeBot：基于AI的自动化代码安全审查工具，智能分析合并请求（MR/PR），助力高效发现和防控安全风险。
 
-*   [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 基于Go的自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。单域名实现所有功能，支持仓库审计。流式转发，无缓存。
-
 *   [g1an123/FscanViz](https://github.com/g1an123/FscanViz) - FscanViz 是一款专为安全工程师打造的可视化工具，用于解析和展示 fscan 扫描结果。通过直观的网络拓扑图和交互式漏洞报告，帮助您快速识别网络中的安全风险点。
 
 *   [xcanwin/CVE-2023-4357-Chrome-XXE](https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE) - \[漏洞复现] 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.
@@ -1982,6 +1980,8 @@
 *   [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds
 
 *   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+
+*   [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 基于Go的自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。单域名实现所有功能，支持仓库审计。流式转发，无缓存。
 
 *   [novysodope/fupo\_for\_yonyou](https://github.com/novysodope/fupo_for_yonyou) - 用友漏洞检测，持续更新漏洞检测模块
 
@@ -2699,13 +2699,93 @@
 
 *   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
-## Smarty
+## Shell
 
 *   [BorisPolonsky/dify-helm](https://github.com/BorisPolonsky/dify-helm) - Deploy langgenious/dify, an LLM based app on kubernetes with helm chart.
 
-*   [chvancooten/follina.py](https://github.com/chvancooten/follina.py) - POC to replicate the full 'Follina' Office RCE vulnerability for testing purposes
+*   [c0ny1/vulstudy](https://github.com/c0ny1/vulstudy) - 使用docker快速搭建各大漏洞靶场，目前可以一键搭建17个靶场。
 
-*   [rubyhan1314/Golang-100-Days](https://github.com/rubyhan1314/Golang-100-Days) - Golang - 100天从新手到大师
+*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
+
+*   [hanreev/root-bluestacks-air](https://github.com/hanreev/root-bluestacks-air) - Root BlueStacks Air macOS
+
+*   [enomothem/Whoamifuck](https://github.com/enomothem/Whoamifuck) - 用于Linux应急响应，快速排查异常用户登录情况和入侵信息排查，准确定位溯源时间线，高效辅助还原攻击链。
+
+*   [AdrianDAlessandro/pyenv-suffix](https://github.com/AdrianDAlessandro/pyenv-suffix) - pyenv plugin to allow you to install python versions with user-specified suffixes.
+
+*   [zsbai/wechat-versions](https://github.com/zsbai/wechat-versions) - 保存微信历史版本
+
+*   [tom-snow/wechat-windows-versions](https://github.com/tom-snow/wechat-windows-versions) - 保存微信历史版本
+
+*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
+
+*   [RROrg/rr](https://github.com/RROrg/rr) - Redpill Recovery (arpl-i18n)
+
+*   [Jewel591/suidcheck](https://github.com/Jewel591/suidcheck) - Linux SUID 提权检测脚本，自动分析具有 s 权限的可执行文件并给出相应的提权利用方法
+
+*   [Mr-xn/subdomain\_shell](https://github.com/Mr-xn/subdomain_shell) - 一键调用subfinder+ksubdomain+httpx 强强联合 从域名发现-->域名验证-->获取域名标题、状态码以及响应大小 最后保存结果,简化重复操作命令
+
+*   [XRSec/CobaltStrike-Docker](https://github.com/XRSec/CobaltStrike-Docker) - Cobalt Strike Wrapper
+
+*   [tangjie1/-Baseline-check](https://github.com/tangjie1/-Baseline-check) - windows和linux基线检查，配套自动化检查脚本。纯手打。
+
+*   [haiibo/OpenWrt](https://github.com/haiibo/OpenWrt) - 基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5C、R5S、香橙派 R1 Plus、树莓派3B、树莓派4B、R66S、R68S、M68S、H28K、H66K、H68K、H88K、H69K、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等
+
+*   [the0demiurge/CharlesScripts](https://github.com/the0demiurge/CharlesScripts) - My awesome scripts for Arch Linux or Ubuntu Gnome latest LTS or MacBook.
+
+*   [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IPv4/IPv6地址库-每日更新
+
+*   [yhan219/navicat\_reset\_mac](https://github.com/yhan219/navicat_reset_mac) - navicat mac版无限重置试用期脚本 Navicat Mac Version Unlimited Trial Reset Script
+
+*   [insightglacier/Dictionary-Of-Pentesting](https://github.com/insightglacier/Dictionary-Of-Pentesting) - Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。
+
+*   [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
+
+*   [paulirish/github-email](https://github.com/paulirish/github-email) - Get a GitHub user's email. :sunglasses: Use this responsibly.
+
+*   [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
+
+*   [iamj0ker/bypass-403](https://github.com/iamj0ker/bypass-403) - A simple script just made for self use for bypassing 403
+
+*   [typecho/Dockerfile](https://github.com/typecho/Dockerfile) - Docker Image packaging for Typecho
+
+*   [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
+
+*   [r00t-3xp10it/venom](https://github.com/r00t-3xp10it/venom) - venom - C2 shellcode generator/compiler/handler
+
+*   [snail007/proxy\_admin\_free](https://github.com/snail007/proxy_admin_free) - Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。
+
+*   [neargle/re0-kubernetes-sec-archive](https://github.com/neargle/re0-kubernetes-sec-archive) - :atom: \[WIP] 整理过去的分享，从零开始的Kubernetes攻防 🧐
+
+*   [TomAPU/poc\_and\_exp](https://github.com/TomAPU/poc_and_exp) - 搜集的或者自己写的poc或者exp
+
+*   [rebootuser/LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
+
+*   [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
+
+*   [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
+
+*   [teamssix/container-escape-check](https://github.com/teamssix/container-escape-check) - docker container escape check || Docker 容器逃逸检测
+
+*   [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
+
+*   [csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China) - 介绍中国各二线以上城市的互联网环境以及生活成本
+
+*   [TheKingOfDuck/ApkAnalyser](https://github.com/TheKingOfDuck/ApkAnalyser) - 一键提取安卓应用中可能存在的敏感信息。
+
+*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+
+*   [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck) - Linux应急处置/信息搜集/漏洞检测工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程/供应链/服务器风险等13类70+项检查
+
+*   [ffffffff0x/f8x](https://github.com/ffffffff0x/f8x) - 红/蓝队环境自动化部署工具 | Red/Blue team environment automation deployment tool
+
+*   [vufa/deepin-wine-qq-arch](https://github.com/vufa/deepin-wine-qq-arch) - Tencent QQ on Deepin Wine5(com.qq.im.deepin) For Archlinux
+
+*   [vufa/deepin-wine-wechat-arch](https://github.com/vufa/deepin-wine-wechat-arch) - Tencent WeChat on Deepin Wine(com.qq.weixin.deepin) For Archlinux
+
+*   [orangbus/Tool](https://github.com/orangbus/Tool) - Manjaro从入门到爱不释手．
+
+*   [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
 
 ## JavaScript
 
@@ -2850,92 +2930,6 @@
 *   [m-sec-org/d-eyes](https://github.com/m-sec-org/d-eyes) - D-Eyes为M-SEC社区一款检测与响应工具
 
 *   [wgpsec/whohk](https://github.com/wgpsec/whohk) - whohk，linux下一款强大的应急响应工具  在linux下的应急响应往往需要通过繁琐的命令行来查看各个点的情况，有的时候还需要做一些格式处理，这对于linux下命令不是很熟悉的人比较不友好。本工具将linux下应急响应中常用的一些操作给集合了起来，并处理成了较为友好的格式，只需要通过一个参数就能代替繁琐复杂的命令来实现对各个点的检查。
-
-## Shell
-
-*   [c0ny1/vulstudy](https://github.com/c0ny1/vulstudy) - 使用docker快速搭建各大漏洞靶场，目前可以一键搭建17个靶场。
-
-*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
-
-*   [hanreev/root-bluestacks-air](https://github.com/hanreev/root-bluestacks-air) - Root BlueStacks Air macOS
-
-*   [enomothem/Whoamifuck](https://github.com/enomothem/Whoamifuck) - 用于Linux应急响应，快速排查异常用户登录情况和入侵信息排查，准确定位溯源时间线，高效辅助还原攻击链。
-
-*   [AdrianDAlessandro/pyenv-suffix](https://github.com/AdrianDAlessandro/pyenv-suffix) - pyenv plugin to allow you to install python versions with user-specified suffixes.
-
-*   [zsbai/wechat-versions](https://github.com/zsbai/wechat-versions) - 保存微信历史版本
-
-*   [tom-snow/wechat-windows-versions](https://github.com/tom-snow/wechat-windows-versions) - 保存微信历史版本
-
-*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
-
-*   [RROrg/rr](https://github.com/RROrg/rr) - Redpill Recovery (arpl-i18n)
-
-*   [Jewel591/suidcheck](https://github.com/Jewel591/suidcheck) - Linux SUID 提权检测脚本，自动分析具有 s 权限的可执行文件并给出相应的提权利用方法
-
-*   [Mr-xn/subdomain\_shell](https://github.com/Mr-xn/subdomain_shell) - 一键调用subfinder+ksubdomain+httpx 强强联合 从域名发现-->域名验证-->获取域名标题、状态码以及响应大小 最后保存结果,简化重复操作命令
-
-*   [XRSec/CobaltStrike-Docker](https://github.com/XRSec/CobaltStrike-Docker) - Cobalt Strike Wrapper
-
-*   [tangjie1/-Baseline-check](https://github.com/tangjie1/-Baseline-check) - windows和linux基线检查，配套自动化检查脚本。纯手打。
-
-*   [haiibo/OpenWrt](https://github.com/haiibo/OpenWrt) - 基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5C、R5S、香橙派 R1 Plus、树莓派3B、树莓派4B、R66S、R68S、M68S、H28K、H66K、H68K、H88K、H69K、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等
-
-*   [the0demiurge/CharlesScripts](https://github.com/the0demiurge/CharlesScripts) - My awesome scripts for Arch Linux or Ubuntu Gnome latest LTS or MacBook.
-
-*   [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IPv4/IPv6地址库-每日更新
-
-*   [yhan219/navicat\_reset\_mac](https://github.com/yhan219/navicat_reset_mac) - navicat mac版无限重置试用期脚本 Navicat Mac Version Unlimited Trial Reset Script
-
-*   [insightglacier/Dictionary-Of-Pentesting](https://github.com/insightglacier/Dictionary-Of-Pentesting) - Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。
-
-*   [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
-
-*   [paulirish/github-email](https://github.com/paulirish/github-email) - Get a GitHub user's email. :sunglasses: Use this responsibly.
-
-*   [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
-
-*   [iamj0ker/bypass-403](https://github.com/iamj0ker/bypass-403) - A simple script just made for self use for bypassing 403
-
-*   [typecho/Dockerfile](https://github.com/typecho/Dockerfile) - Docker Image packaging for Typecho
-
-*   [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
-
-*   [r00t-3xp10it/venom](https://github.com/r00t-3xp10it/venom) - venom - C2 shellcode generator/compiler/handler
-
-*   [snail007/proxy\_admin\_free](https://github.com/snail007/proxy_admin_free) - Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。
-
-*   [neargle/re0-kubernetes-sec-archive](https://github.com/neargle/re0-kubernetes-sec-archive) - :atom: \[WIP] 整理过去的分享，从零开始的Kubernetes攻防 🧐
-
-*   [TomAPU/poc\_and\_exp](https://github.com/TomAPU/poc_and_exp) - 搜集的或者自己写的poc或者exp
-
-*   [rebootuser/LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
-
-*   [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
-
-*   [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
-
-*   [teamssix/container-escape-check](https://github.com/teamssix/container-escape-check) - docker container escape check || Docker 容器逃逸检测
-
-*   [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
-
-*   [csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China) - 介绍中国各二线以上城市的互联网环境以及生活成本
-
-*   [TheKingOfDuck/ApkAnalyser](https://github.com/TheKingOfDuck/ApkAnalyser) - 一键提取安卓应用中可能存在的敏感信息。
-
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-
-*   [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck) - Linux应急处置/信息搜集/漏洞检测工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程/供应链/服务器风险等13类70+项检查
-
-*   [ffffffff0x/f8x](https://github.com/ffffffff0x/f8x) - 红/蓝队环境自动化部署工具 | Red/Blue team environment automation deployment tool
-
-*   [vufa/deepin-wine-qq-arch](https://github.com/vufa/deepin-wine-qq-arch) - Tencent QQ on Deepin Wine5(com.qq.im.deepin) For Archlinux
-
-*   [vufa/deepin-wine-wechat-arch](https://github.com/vufa/deepin-wine-wechat-arch) - Tencent WeChat on Deepin Wine(com.qq.weixin.deepin) For Archlinux
-
-*   [orangbus/Tool](https://github.com/orangbus/Tool) - Manjaro从入门到爱不释手．
-
-*   [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
 
 ## Kotlin
 
@@ -3316,6 +3310,12 @@
 ## Objective-C++
 
 *   [fjh658/IDA7.0\_SP](https://github.com/fjh658/IDA7.0_SP) - IDA7.0\_SP is ida's bugfix
+
+## Smarty
+
+*   [chvancooten/follina.py](https://github.com/chvancooten/follina.py) - POC to replicate the full 'Follina' Office RCE vulnerability for testing purposes
+
+*   [rubyhan1314/Golang-100-Days](https://github.com/rubyhan1314/Golang-100-Days) - Golang - 100天从新手到大师
 
 ## Rich Text Format
 
