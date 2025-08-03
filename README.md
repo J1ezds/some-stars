@@ -13,9 +13,8 @@
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [Dockerfile](#dockerfile)
-*   [HTML](#html)
-*   [PowerShell](#powershell)
 *   [Go](#go)
+*   [PowerShell](#powershell)
 *   [C#](#c)
 *   [C++](#c-1)
 *   [Rust](#rust)
@@ -26,6 +25,7 @@
 *   [PHP](#php)
 *   [C](#c-2)
 *   [Vue](#vue)
+*   [HTML](#html)
 *   [Objective-C](#objective-c)
 *   [Swift](#swift)
 *   [CMake](#cmake)
@@ -1859,121 +1859,9 @@
 
 *   [AntSwordProject/AntSword-Labs](https://github.com/AntSwordProject/AntSword-Labs) - Awesome environment for antsword tests
 
-## HTML
+## Go
 
 *   [Ed1s0nZ/AIMergeBot](https://github.com/Ed1s0nZ/AIMergeBot) - AIMergeBot：基于AI的自动化代码安全审查工具，智能分析合并请求（MR/PR），助力高效发现和防控安全风险。
-
-*   [g1an123/FscanViz](https://github.com/g1an123/FscanViz) - FscanViz 是一款专为安全工程师打造的可视化工具，用于解析和展示 fscan 扫描结果。通过直观的网络拓扑图和交互式漏洞报告，帮助您快速识别网络中的安全风险点。
-
-*   [xcanwin/CVE-2023-4357-Chrome-XXE](https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE) - \[漏洞复现] 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.
-
-*   [ybdt/exp-hub](https://github.com/ybdt/exp-hub) - 漏洞复现
-
-*   [L0k1-F/src](https://github.com/L0k1-F/src) - 漏洞报告已脱敏
-
-*   [smallfox233/JsonExp](https://github.com/smallfox233/JsonExp) - fastjson漏洞批量检测工具
-
-*   [GhostWolfLab/Kamerka-GUI](https://github.com/GhostWolfLab/Kamerka-GUI) - 终极物联网/工业控制系统侦察工具
-
-*   [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
-
-*   [netnr/kms](https://github.com/netnr/kms) - KMS 激活服务，slmgr 命令激活 Windows 系统、Office
-
-*   [SexyBeast233/SecBooks](https://github.com/SexyBeast233/SecBooks) - 安全类各家文库大乱斗
-
-*   [0xShe/Shiro-key-10w](https://github.com/0xShe/Shiro-key-10w) - Shiro-key 十万量级
-
-*   [dark-kingA/superSearchPlus](https://github.com/dark-kingA/superSearchPlus) - superSearchPlus是聚合型信息收集插件，支持综合查询，资产测绘查询，信息收集 敏感信息提取 js资源扫描 目录扫描 vue组件扫描 整合了目前常见的资产测绘平台 专为白帽子提供快速侦测目标。
-
-*   [Andy0619/Commercial-Cryptography-Evaluation](https://github.com/Andy0619/Commercial-Cryptography-Evaluation) - 该系统主要功能就是从本地读取 excel 中的数据然后出题，然后作答，主要是增加了随机作答和顺序作答，还有题型选择，这样大家可以一边记忆一边测试。
-
-*   [ybdt/pentest-hub](https://github.com/ybdt/pentest-hub) - Web打点
-
-*   [p1n93r/SpringBootAdmin-thymeleaf-SSTI](https://github.com/p1n93r/SpringBootAdmin-thymeleaf-SSTI) - SpringBootAdmin-thymeleaf-SSTI which can cause RCE
-
-*   [D0n9/paper-archive](https://github.com/D0n9/paper-archive) -
-
-*   [Momo707577045/media-source-extract](https://github.com/Momo707577045/media-source-extract) - MediaSource 视频提取教程
-
-*   [Mr-xn/Penetration\_Testing\_POC](https://github.com/Mr-xn/Penetration_Testing_POC) - 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms
-
-*   [local-host-8080/demo-html-css](https://github.com/local-host-8080/demo-html-css) - 超好看的前端模板(学习用)
-
-*   [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme.
-
-*   [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
-
-*   [satan1a/awesome-cybersecurity-blueteam-cn](https://github.com/satan1a/awesome-cybersecurity-blueteam-cn) - 网络安全 · 攻防对抗 · 蓝队清单，中文版
-
-*   [Lerist/FakeLocation](https://github.com/Lerist/FakeLocation) - Fake Location
-
-*   [Threekiii/Vulnerability-Wiki](https://github.com/Threekiii/Vulnerability-Wiki) - 一个基于 docsify 快速部署 Awesome-POC 漏洞文档的项目。Deploying the Awesome-POC repository via docsify.
-
-*   [Ed1s0nZ/cool](https://github.com/Ed1s0nZ/cool) - Golang-Gin 框架写的免杀平台，内置分离、捆绑等多种BypassAV方式。
-
-*   [CHYbeta/Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - Web-Security-Learning
-
-*   [tanjiti/sec\_profile](https://github.com/tanjiti/sec_profile) - 爬取secwiki和xuanwu.github.io/sec.today,分析安全信息站点、安全趋势、提取安全工作者账号(twitter,weixin,github等)
-
-*   [lijiejie/eyes.sh](https://github.com/lijiejie/eyes.sh) - Optimized DNS/HTTP Log Tool for pentesters, faster and easy to use.
-
-*   [wangchucheng/hugo-eureka](https://github.com/wangchucheng/hugo-eureka) - Eureka is a feature-rich and highly customizable Hugo theme.
-
-*   [FeeiCN/Security-PPT](https://github.com/FeeiCN/Security-PPT) - Security-related Slide Presentation & Security Research Report（大安全各领域各公司各会议分享的PPT以及各类安全研究报告）
-
-*   [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
-
-*   [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
-
-*   [admin360bug/bypass](https://github.com/admin360bug/bypass) - Bypass
-
-*   [BaizeSec/bylibrary](https://github.com/BaizeSec/bylibrary) - 白阁文库是白泽Sec安全团队维护的一个漏洞POC和EXP公开项目
-
-*   [giantbranch/pwn-env-init](https://github.com/giantbranch/pwn-env-init) - CTF PWN 做题环境一键搭建脚本
-
-*   [cckuailong/vulbase](https://github.com/cckuailong/vulbase) - 各大漏洞文库合集
-
-*   [0dayCTF/reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) - Hosted Reverse Shell generator with a ton of functionality. -- (Great for CTFs)
-
-*   [gh0stkey/Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box) - Web Fuzzing Box - Web 模糊测试字典与一些Payloads
-
-## PowerShell
-
-*   [9bie/Slacker](https://github.com/9bie/Slacker) - 懒鬼插件/审计过的后的渗透插件/我凭本事打的SESSION凭什么还要我自己动手后渗透？
-
-*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
-
-*   [D13Xian/CobaltStrike-KunKun](https://github.com/D13Xian/CobaltStrike-KunKun) - 坤坤CS 基于CobaltStrike cat 4.5二开项目 添加反沙箱、反测绘。集成常用后渗透插件，开箱即用
-
-*   [arch3rPro/PST-Bucket](https://github.com/arch3rPro/PST-Bucket) - Scoop-Buket for Penetration Suite Toolkit  -  Windows渗透测试工具仓库For Scoop
-
-*   [V-i-x-x/AMSI-WRITE-RAID-BYPASS](https://github.com/V-i-x-x/AMSI-WRITE-RAID-BYPASS) - "AMSI WRITE RAID" Vulnerability that leads to an effective AMSI BYPASS
-
-*   [yanghaoi/CobaltStrike\_CNA](https://github.com/yanghaoi/CobaltStrike_CNA) - 使用多种WinAPI进行权限维持的CobaltStrike脚本，包含API设置系统服务，设置计划任务，管理用户等。
-
-*   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
-
-*   [senzee1984/Amsi\_Bypass\_In\_2023](https://github.com/senzee1984/Amsi_Bypass_In_2023) - Amsi Bypass payload that works on Windwos 11
-
-*   [Lucifer1993/PLtools](https://github.com/Lucifer1993/PLtools) - 整理一些内网常用渗透小工具
-
-*   [x0xr00t/Automated-MUlti-UAC-Bypass](https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass) - Automated Multi UAC BYPASS for win10|win11|win12-pre-release|ws2019|ws2022
-
-*   [k8gege/K8tools](https://github.com/k8gege/K8tools) - K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)
-
-*   [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) - Six Degrees of Domain Admin
-
-*   [QAX-A-Team/EventLogMaster](https://github.com/QAX-A-Team/EventLogMaster) - Cobalt Strike插件 - RDP日志取证&清除
-
-*   [rsmudge/ElevateKit](https://github.com/rsmudge/ElevateKit) - The Elevate Kit demonstrates how to use third-party privilege escalation attacks with Cobalt Strike's Beacon payload.
-
-*   [dafthack/DomainPasswordSpray](https://github.com/dafthack/DomainPasswordSpray) - DomainPasswordSpray is a tool written in PowerShell to perform a password spray attack against users of a domain. By default it will automatically generate the userlist from the domain. BE VERY CAREFUL NOT TO LOCKOUT ACCOUNTS!
-
-*   [QAX-A-Team/CobaltStrike-Toolset](https://github.com/QAX-A-Team/CobaltStrike-Toolset) - Aggressor Script, Kits, Malleable C2 Profiles, External C2 and so on
-
-*   [lintstar/LSTAR](https://github.com/lintstar/LSTAR) - LSTAR - CobaltStrike 综合后渗透插件
-
-## Go
 
 *   [unixpickle/gobfuscate](https://github.com/unixpickle/gobfuscate) - Obfuscate Go binaries and packages
 
@@ -2374,6 +2262,42 @@
 *   [inbug-team/InScan](https://github.com/inbug-team/InScan) - 边界打点后的自动化渗透工具
 
 *   [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
+
+## PowerShell
+
+*   [9bie/Slacker](https://github.com/9bie/Slacker) - 懒鬼插件/审计过的后的渗透插件/我凭本事打的SESSION凭什么还要我自己动手后渗透？
+
+*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+
+*   [D13Xian/CobaltStrike-KunKun](https://github.com/D13Xian/CobaltStrike-KunKun) - 坤坤CS 基于CobaltStrike cat 4.5二开项目 添加反沙箱、反测绘。集成常用后渗透插件，开箱即用
+
+*   [arch3rPro/PST-Bucket](https://github.com/arch3rPro/PST-Bucket) - Scoop-Buket for Penetration Suite Toolkit  -  Windows渗透测试工具仓库For Scoop
+
+*   [V-i-x-x/AMSI-WRITE-RAID-BYPASS](https://github.com/V-i-x-x/AMSI-WRITE-RAID-BYPASS) - "AMSI WRITE RAID" Vulnerability that leads to an effective AMSI BYPASS
+
+*   [yanghaoi/CobaltStrike\_CNA](https://github.com/yanghaoi/CobaltStrike_CNA) - 使用多种WinAPI进行权限维持的CobaltStrike脚本，包含API设置系统服务，设置计划任务，管理用户等。
+
+*   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
+
+*   [senzee1984/Amsi\_Bypass\_In\_2023](https://github.com/senzee1984/Amsi_Bypass_In_2023) - Amsi Bypass payload that works on Windwos 11
+
+*   [Lucifer1993/PLtools](https://github.com/Lucifer1993/PLtools) - 整理一些内网常用渗透小工具
+
+*   [x0xr00t/Automated-MUlti-UAC-Bypass](https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass) - Automated Multi UAC BYPASS for win10|win11|win12-pre-release|ws2019|ws2022
+
+*   [k8gege/K8tools](https://github.com/k8gege/K8tools) - K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)
+
+*   [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) - Six Degrees of Domain Admin
+
+*   [QAX-A-Team/EventLogMaster](https://github.com/QAX-A-Team/EventLogMaster) - Cobalt Strike插件 - RDP日志取证&清除
+
+*   [rsmudge/ElevateKit](https://github.com/rsmudge/ElevateKit) - The Elevate Kit demonstrates how to use third-party privilege escalation attacks with Cobalt Strike's Beacon payload.
+
+*   [dafthack/DomainPasswordSpray](https://github.com/dafthack/DomainPasswordSpray) - DomainPasswordSpray is a tool written in PowerShell to perform a password spray attack against users of a domain. By default it will automatically generate the userlist from the domain. BE VERY CAREFUL NOT TO LOCKOUT ACCOUNTS!
+
+*   [QAX-A-Team/CobaltStrike-Toolset](https://github.com/QAX-A-Team/CobaltStrike-Toolset) - Aggressor Script, Kits, Malleable C2 Profiles, External C2 and so on
+
+*   [lintstar/LSTAR](https://github.com/lintstar/LSTAR) - LSTAR - CobaltStrike 综合后渗透插件
 
 ## C\#
 
@@ -3150,6 +3074,82 @@
 *   [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 
 *   [fofapro/vulfocus](https://github.com/fofapro/vulfocus) - 🚀Vulfocus 是一个漏洞集成平台，将漏洞环境 docker 镜像，放入即可使用，开箱即用。
+
+## HTML
+
+*   [g1an123/FscanViz](https://github.com/g1an123/FscanViz) - FscanViz 是一款专为安全工程师打造的可视化工具，用于解析和展示 fscan 扫描结果。通过直观的网络拓扑图和交互式漏洞报告，帮助您快速识别网络中的安全风险点。
+
+*   [xcanwin/CVE-2023-4357-Chrome-XXE](https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE) - \[漏洞复现] 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.
+
+*   [ybdt/exp-hub](https://github.com/ybdt/exp-hub) - 漏洞复现
+
+*   [L0k1-F/src](https://github.com/L0k1-F/src) - 漏洞报告已脱敏
+
+*   [smallfox233/JsonExp](https://github.com/smallfox233/JsonExp) - fastjson漏洞批量检测工具
+
+*   [GhostWolfLab/Kamerka-GUI](https://github.com/GhostWolfLab/Kamerka-GUI) - 终极物联网/工业控制系统侦察工具
+
+*   [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
+
+*   [netnr/kms](https://github.com/netnr/kms) - KMS 激活服务，slmgr 命令激活 Windows 系统、Office
+
+*   [SexyBeast233/SecBooks](https://github.com/SexyBeast233/SecBooks) - 安全类各家文库大乱斗
+
+*   [0xShe/Shiro-key-10w](https://github.com/0xShe/Shiro-key-10w) - Shiro-key 十万量级
+
+*   [dark-kingA/superSearchPlus](https://github.com/dark-kingA/superSearchPlus) - superSearchPlus是聚合型信息收集插件，支持综合查询，资产测绘查询，信息收集 敏感信息提取 js资源扫描 目录扫描 vue组件扫描 整合了目前常见的资产测绘平台 专为白帽子提供快速侦测目标。
+
+*   [Andy0619/Commercial-Cryptography-Evaluation](https://github.com/Andy0619/Commercial-Cryptography-Evaluation) - 该系统主要功能就是从本地读取 excel 中的数据然后出题，然后作答，主要是增加了随机作答和顺序作答，还有题型选择，这样大家可以一边记忆一边测试。
+
+*   [ybdt/pentest-hub](https://github.com/ybdt/pentest-hub) - Web打点
+
+*   [p1n93r/SpringBootAdmin-thymeleaf-SSTI](https://github.com/p1n93r/SpringBootAdmin-thymeleaf-SSTI) - SpringBootAdmin-thymeleaf-SSTI which can cause RCE
+
+*   [D0n9/paper-archive](https://github.com/D0n9/paper-archive) -
+
+*   [Momo707577045/media-source-extract](https://github.com/Momo707577045/media-source-extract) - MediaSource 视频提取教程
+
+*   [Mr-xn/Penetration\_Testing\_POC](https://github.com/Mr-xn/Penetration_Testing_POC) - 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms
+
+*   [local-host-8080/demo-html-css](https://github.com/local-host-8080/demo-html-css) - 超好看的前端模板(学习用)
+
+*   [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme.
+
+*   [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
+
+*   [satan1a/awesome-cybersecurity-blueteam-cn](https://github.com/satan1a/awesome-cybersecurity-blueteam-cn) - 网络安全 · 攻防对抗 · 蓝队清单，中文版
+
+*   [Lerist/FakeLocation](https://github.com/Lerist/FakeLocation) - Fake Location
+
+*   [Threekiii/Vulnerability-Wiki](https://github.com/Threekiii/Vulnerability-Wiki) - 一个基于 docsify 快速部署 Awesome-POC 漏洞文档的项目。Deploying the Awesome-POC repository via docsify.
+
+*   [Ed1s0nZ/cool](https://github.com/Ed1s0nZ/cool) - Golang-Gin 框架写的免杀平台，内置分离、捆绑等多种BypassAV方式。
+
+*   [CHYbeta/Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - Web-Security-Learning
+
+*   [tanjiti/sec\_profile](https://github.com/tanjiti/sec_profile) - 爬取secwiki和xuanwu.github.io/sec.today,分析安全信息站点、安全趋势、提取安全工作者账号(twitter,weixin,github等)
+
+*   [lijiejie/eyes.sh](https://github.com/lijiejie/eyes.sh) - Optimized DNS/HTTP Log Tool for pentesters, faster and easy to use.
+
+*   [wangchucheng/hugo-eureka](https://github.com/wangchucheng/hugo-eureka) - Eureka is a feature-rich and highly customizable Hugo theme.
+
+*   [FeeiCN/Security-PPT](https://github.com/FeeiCN/Security-PPT) - Security-related Slide Presentation & Security Research Report（大安全各领域各公司各会议分享的PPT以及各类安全研究报告）
+
+*   [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
+
+*   [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
+
+*   [admin360bug/bypass](https://github.com/admin360bug/bypass) - Bypass
+
+*   [BaizeSec/bylibrary](https://github.com/BaizeSec/bylibrary) - 白阁文库是白泽Sec安全团队维护的一个漏洞POC和EXP公开项目
+
+*   [giantbranch/pwn-env-init](https://github.com/giantbranch/pwn-env-init) - CTF PWN 做题环境一键搭建脚本
+
+*   [cckuailong/vulbase](https://github.com/cckuailong/vulbase) - 各大漏洞文库合集
+
+*   [0dayCTF/reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) - Hosted Reverse Shell generator with a ton of functionality. -- (Great for CTFs)
+
+*   [gh0stkey/Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box) - Web Fuzzing Box - Web 模糊测试字典与一些Payloads
 
 ## Objective-C
 
