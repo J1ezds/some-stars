@@ -1861,7 +1861,7 @@
 
 ## Go
 
-*   [Ed1s0nZ/AIMergeBot](https://github.com/Ed1s0nZ/AIMergeBot) - AIMergeBot：基于AI的自动化代码安全审查工具，智能分析合并请求（MR/PR），助力高效发现和防控安全风险。
+*   [Ed1s0nZ/AIMergeBot](https://github.com/Ed1s0nZ/AIMergeBot) - AIMergeBot：基于AI的自动化代码安全审查工具，通过ReAct + MCP架构，智能分析合并请求（MR/PR），助力高效发现和防控安全风险。
 
 *   [unixpickle/gobfuscate](https://github.com/unixpickle/gobfuscate) - Obfuscate Go binaries and packages
 
