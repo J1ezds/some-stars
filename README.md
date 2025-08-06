@@ -259,7 +259,7 @@
 
 *   [birdy02-com/secAPI-python](https://github.com/birdy02-com/secAPI-python) - 这是一个为个人工作开发的协助平台，有分析网页、分析ip、分析域名的功能
 
-*   [ArcSurge/Termius-Pro-zh\_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) - Termius汉化
+*   [ArcSurge/Termius-Pro-zh\_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) - Termius汉化(mac版本>=v9.27.2暂不可用)
 
 *   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
@@ -2527,7 +2527,7 @@
 
 *   [mabangde/SharpGetUserLoginIPRPC](https://github.com/mabangde/SharpGetUserLoginIPRPC) - 提取域控日志，支持远程提取
 
-*   [eibol/ffmpeg\_batch](https://github.com/eibol/ffmpeg_batch) - FFmpeg Batch AV Converter
+*   [eibols/ffmpeg\_batch](https://github.com/eibols/ffmpeg_batch) - FFmpeg Batch AV Converter
 
 *   [G0ldenGunSec/SharpSecDump](https://github.com/G0ldenGunSec/SharpSecDump) - .Net port of the remote SAM + LSA Secrets dumping functionality of impacket's secretsdump.py
 
