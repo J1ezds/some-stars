@@ -1925,7 +1925,7 @@
 
 *   [WXjzcccc/ForensicsTool](https://github.com/WXjzcccc/ForensicsTool) - 简单的取证工具
 
-*   [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源iptv4/iptv6。直播电视系统，这里有折腾好了的，直接下载用吧。直播电视app电视手机全部兼容。（包含港澳台）
+*   [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。（包含港澳台）
 
 *   [R0A1NG/Botgate\_bypass](https://github.com/R0A1NG/Botgate_bypass) - 绕过瑞数waf的动态验证机制，实现请求包重放，理论支持不同网站环境使用，如网页、小程序、APP等。
 
