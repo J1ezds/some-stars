@@ -87,6 +87,8 @@
 
 *   [netuseradministrator/CVE-2024-36401](https://github.com/netuseradministrator/CVE-2024-36401) - geoserver图形化漏洞利用工具
 
+*   [darkfiv/AIFuzzing](https://github.com/darkfiv/AIFuzzing) -
+
 *   [rmb122/rogue\_mysql\_server](https://github.com/rmb122/rogue_mysql_server) - A rouge mysql server supports reading files from most mysql libraries of multiple programming languages.
 
 *   [awake1t/PortBrute](https://github.com/awake1t/PortBrute) - 一款跨平台小巧的端口爆破工具，支持爆破FTP/SSH/SMB/MSSQL/MYSQL/POSTGRESQL/MONGOD / A cross-platform compact port blasting tool that supports blasting FTP/SSH/SMB/MSSQL/MYSQL/POSTGRESQL/MONGOD
@@ -670,8 +672,6 @@
 *   [charonlight/RuoYiExploitGUI](https://github.com/charonlight/RuoYiExploitGUI) - 若依最新定时任务SQL注入可导致RCE漏洞的一键利用工具
 
 *   [yangliukk/FindToDeskPass](https://github.com/yangliukk/FindToDeskPass) - 通过Dump内存读取ToDesk设备代码、连接密码
-
-*   [darkfiv/AIFuzzing](https://github.com/darkfiv/AIFuzzing) -
 
 *   [jdr2021/MysqlLogQuery](https://github.com/jdr2021/MysqlLogQuery) - 代码审计工具，用于监听mysql日志，支持mysql8.0以上和以下的版本。
 
@@ -2075,7 +2075,7 @@
 
 ## Python
 
-*   [LunFengChen/appReverseNotes](https://github.com/LunFengChen/appReverseNotes) - app端逆向案例与笔记，主要是安卓端，后续包含ios端；仓库可多人协作，提交pr即可。
+*   [LunFengChen/appReverseNotes](https://github.com/LunFengChen/appReverseNotes) - app端逆向案例与笔记，主要是安卓端，后续包含ios端；欢迎提交issue和pr。
 
 *   [TheKingOfDuck/FileMonitor](https://github.com/TheKingOfDuck/FileMonitor) - 文件变化实时监控工具(代码审计/黑盒/白盒审计辅助工具)
 
