@@ -99,6 +99,8 @@
 
 *   [Ciyfly/SliverCloak](https://github.com/Ciyfly/SliverCloak) - 一个专为Sliver框架设计的流量隐匿和SSL证书伪装脚本
 
+*   [enh123/DirectoryFuzz](https://github.com/enh123/DirectoryFuzz) - 渗透测试目录扫描字典
+
 *   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 
 *   [blackguest007/mitmproxy-gui](https://github.com/blackguest007/mitmproxy-gui) - 用于解决渗透测试加解密的难题，让你的burp像测试明文这么简单
@@ -1220,8 +1222,6 @@
 *   [yangliukk/FindToDeskPass](https://github.com/yangliukk/FindToDeskPass) - 通过Dump内存读取ToDesk设备代码、连接密码
 
 *   [jdr2021/MysqlLogQuery](https://github.com/jdr2021/MysqlLogQuery) - 代码审计工具，用于监听mysql日志，支持mysql8.0以上和以下的版本。
-
-*   [enh123/DirectoryFuzz](https://github.com/enh123/DirectoryFuzz) - 渗透测试目录扫描字典
 
 *   [7797777977/Upload\_Super\_Fuzz\_Gui](https://github.com/7797777977/Upload_Super_Fuzz_Gui) - 自动生成多种文件上传绕过技术的Payload 进行测试 界面化设计
 
