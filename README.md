@@ -39,7 +39,6 @@
 *   [Pascal](#pascal)
 *   [Ruby](#ruby)
 *   [Smali](#smali)
-*   [LLVM](#llvm)
 *   [VBScript](#vbscript)
 *   [Jinja](#jinja)
 *   [Roff](#roff)
@@ -1600,6 +1599,8 @@
 *   [FlappyPig/CTF\_SPECIAL\_TRAINING\_CAMP](https://github.com/FlappyPig/CTF_SPECIAL_TRAINING_CAMP) - 《 CTF 特训营 》一书练习文件
 
 *   [shubham0d/CVE-2020-1301](https://github.com/shubham0d/CVE-2020-1301) - POC exploit for SMBLost vulnerability (CVE-2020-1301)
+
+*   [zxcvbn001/password\_brute\_dictionary](https://github.com/zxcvbn001/password_brute_dictionary) - 口令爆破字典，有键盘组合字典、拼音字典、字母与数字混合这三种类型
 
 ## Go
 
@@ -3225,7 +3226,7 @@
 
 *   [vi3t1/qq-tim-elevation](https://github.com/vi3t1/qq-tim-elevation) - CVE-2023-34312
 
-*   [AV1080p/solana-copy-sniper-trading-bot](https://github.com/AV1080p/solana-copy-sniper-trading-bot) - solana copy sniper bot
+*   [AV1080p/solana-copy-sniper-trading-bot](https://github.com/AV1080p/solana-copy-sniper-trading-bot) - solana copy sniper trading bot with zero latency, pump fun, pump swap, raydium launchpad, cpmm, clmm, meteora dbc, pumpfun
 
 *   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
@@ -3464,10 +3465,6 @@
 ## Smali
 
 *   [sslab-gatech/avpass](https://github.com/sslab-gatech/avpass) - Tool for leaking and bypassing Android malware detection system
-
-## LLVM
-
-*   [KomiMoe/Arkari](https://github.com/KomiMoe/Arkari) - Yet another llvm based obfuscator based on goron.
 
 ## VBScript
 
