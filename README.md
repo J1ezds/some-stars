@@ -2200,7 +2200,7 @@
 
 *   [shanshanerxi/Memory-horse](https://github.com/shanshanerxi/Memory-horse) - 关于内存马的学习研究支持新手从0到1，从内存马原理，内存马植入 内存马检测 到内存马防御与内存马应急以及内存马查杀全系列java内存马/php/.net/c++/python 喜欢可以点个star 后续持续更新
 
-*   [elliot-bia/nessus](https://github.com/elliot-bia/nessus) - nessus crack for docker
+*   [Adam-Zhong/nessus](https://github.com/Adam-Zhong/nessus) - nessus crack for docker
 
 *   [Mr-xn/CVE-2024-36401](https://github.com/Mr-xn/CVE-2024-36401) - Remote Code Execution (RCE) Vulnerability In Evaluating Property Name Expressions with multies ways to exploit
 
@@ -3238,6 +3238,8 @@
 
 *   [0x727/FingerprintHub](https://github.com/0x727/FingerprintHub) - 侦查守卫(ObserverWard)的指纹库
 
+*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
+
 *   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## YARA
@@ -3267,8 +3269,6 @@
 *   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 
 *   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
-
-*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 
 *   [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 
