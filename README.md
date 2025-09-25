@@ -944,8 +944,6 @@
 
 *   [Acmesec/PromptJailbreakManual](https://github.com/Acmesec/PromptJailbreakManual) - Prompt越狱手册
 
-*   [yiliufeng168/POC](https://github.com/yiliufeng168/POC) - 2023HW漏洞整理，收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了300多个poc/exp，长期更新。
-
 *   [eeeeeeeeee-code/POC](https://github.com/eeeeeeeeee-code/POC) - 备份的漏洞库，3月开始我们来维护
 
 *   [CoderSJX/AI-Resources-Central](https://github.com/CoderSJX/AI-Resources-Central) -  Bringing together outstanding artificial intelligence (AI) open source projects from around the world.
@@ -978,7 +976,7 @@
 
 *   [ProbiusOfficial/CTFtools-wiki](https://github.com/ProbiusOfficial/CTFtools-wiki) - 【Hello CTF】录常用 / 优秀 的CTF工具项目及其文档,一个对各阶段CTFer都很友好的工具仓库,让所有的工具都发挥作用！
 
-*   [youcannotseemeagain/ele](https://github.com/youcannotseemeagain/ele) - cobaltstrike的BypassUAC、提权dll插件
+*   [youcannotseemeagain/ele](https://github.com/youcannotseemeagain/ele) - 常用功能的DLL插件
 
 *   [HSSkyBoy/NPatch](https://github.com/HSSkyBoy/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
@@ -1535,6 +1533,8 @@
 *   [Geekhyt/front-end-canteen](https://github.com/Geekhyt/front-end-canteen) - 你的前端食堂，吃好每一顿饭🍥
 
 *   [aqiongbei/buy\_pig\_plan](https://github.com/aqiongbei/buy_pig_plan) - 电话攻击(电话轰炸、可代替短信轰炸)、留言攻击工具 | 已删库
+
+*   [lz520520/railgun](https://github.com/lz520520/railgun) -
 
 ## C\#
 
