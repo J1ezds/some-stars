@@ -62,6 +62,8 @@
 
 ## Java
 
+*   [adeljck/YongYou-Exploit](https://github.com/adeljck/YongYou-Exploit) - YongYou U8C deserialization file upload exploit tool targeting IPFxxFileService and IFileTrans services
+
 *   [AfterSnows/ApricusFindEvil](https://github.com/AfterSnows/ApricusFindEvil) - 检测查杀java内存马
 
 *   [People-11/CVE-2025-10184\_PoC](https://github.com/People-11/CVE-2025-10184_PoC) -
@@ -2655,8 +2657,6 @@
 *   [Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub) - :palm\_tree:Linux、macOS、Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (提权漏洞合集)
 
 *   [SecWiki/linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits) - linux-kernel-exploits Linux平台提权漏洞集合
-
-*   [SecWiki/windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits) - windows-kernel-exploits   Windows平台提权漏洞集合
 
 ## JavaScript
 
