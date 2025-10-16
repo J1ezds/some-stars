@@ -3426,7 +3426,7 @@
 
 ## NSIS
 
-*   [BKLockly/ShadowMeld](https://github.com/BKLockly/ShadowMeld) - 🕶️ 隐蔽Shellcode嵌入与反检测免杀加载器生成框架 / Stealthy Payload Delivery Framework with Anti-EDR Capabilities
+*   [BKLockly/ShadowMeld](https://github.com/BKLockly/ShadowMeld) - 图片隐写加载器 / Stealthy Payload loader with Anti-EDR Capabilities
 
 ## CodeQL
 
