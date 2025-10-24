@@ -200,8 +200,6 @@
 
 *   [f1ashine/PentestLog](https://github.com/f1ashine/PentestLog) - notes some projects in github
 
-*   [xf555er/RedTeamNotes](https://github.com/xf555er/RedTeamNotes) - 红队技术笔记
-
 *   [smxiazi/xia\_Yue](https://github.com/smxiazi/xia_Yue) - burp 插件 xia\_Yue（瞎越） 主要用于测试越权、未授权
 
 *   [agefanscom/website](https://github.com/agefanscom/website) - AGE animation official website URL release page（AGE动漫官网网址发布页）
@@ -763,6 +761,8 @@
 *   [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 
 *   [Geekhyt/front-end-canteen](https://github.com/Geekhyt/front-end-canteen) - 你的前端食堂，吃好每一顿饭🍥
+
+*   [aqiongbei/buy\_pig\_plan](https://github.com/aqiongbei/buy_pig_plan) - 电话攻击(电话轰炸、可代替短信轰炸)、留言攻击工具 | 已删库
 
 ## Java
 
@@ -2550,8 +2550,6 @@
 
 *   [qwqdanchun/Pillager](https://github.com/qwqdanchun/Pillager) - Pillager是一个适用于后渗透期间的信息收集工具
 
-*   [xf555er/SharpShellcodeLoader\_Rc4Aes](https://github.com/xf555er/SharpShellcodeLoader_Rc4Aes) - 用于解密并加载shellcode，支持RC4和AES两种解密方法，并使用DInvoke来动态调用WinAPI函数，从而尝试绕过某些安全解决方案
-
 *   [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型（STUN）
 
 *   [GhostPack/SharpWMI](https://github.com/GhostPack/SharpWMI) - SharpWMI is a C# implementation of various WMI functionality.
@@ -2917,6 +2915,8 @@
 *   [AntSwordProject/AwesomeEncoder](https://github.com/AntSwordProject/AwesomeEncoder) - AntSword 自定义编(解)码器分享
 
 *   [AntSwordProject/antSword](https://github.com/AntSwordProject/antSword) - 中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.
+
+*   [lanyulei/ferry](https://github.com/lanyulei/ferry) - 本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提升工作效率与工作质量，减少不必要的工作量与人为出错率。
 
 ## TypeScript
 
@@ -3432,7 +3432,7 @@
 
 ## NSIS
 
-*   [BKLockly/ShadowMeld](https://github.com/BKLockly/ShadowMeld) - 图片隐写加载器 / Stealthy Payload loader with Anti-EDR Capabilities
+*   [BKLockly/ShadowMeld](https://github.com/BKLockly/ShadowMeld) - Stealthy Payload loader with Anti-EDR Capabilities
 
 ## CodeQL
 
