@@ -2644,7 +2644,7 @@
 
 ## C
 
-*   [ybdt/evasion-hub](https://github.com/ybdt/evasion-hub) - 免杀对抗
+*   [ybdt/evasion-hub](https://github.com/ybdt/evasion-hub) - AV/EDR Evasion / 免杀对抗
 
 *   [Logkiss/Rat-winos4.0-gh0st](https://github.com/Logkiss/Rat-winos4.0-gh0st) - 免杀远控木马源码整理开源(银狐 winos 大灰狼  gh0st)  Rat
 
