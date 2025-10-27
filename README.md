@@ -1646,8 +1646,6 @@
 
 *   [ChinaRan0/HuntBack](https://github.com/ChinaRan0/HuntBack) - 针对护网行动中红队溯源工具
 
-*   [LunFengChen/appReverseNotes](https://github.com/LunFengChen/appReverseNotes) - app端逆向案例与笔记，主要是安卓端，后续包含ios端；欢迎提交issue和pr。
-
 *   [TheKingOfDuck/FileMonitor](https://github.com/TheKingOfDuck/FileMonitor) - 文件变化实时监控工具(代码审计/黑盒/白盒审计辅助工具)
 
 *   [RuoJi6/ez-web\_sign\_in](https://github.com/RuoJi6/ez-web_sign_in) - ez-web\_sign\_in https://msec.nsfocus.com/ ez每天自动签到脚本
@@ -2301,6 +2299,8 @@
 *   [broken5/WebAliveScan](https://github.com/broken5/WebAliveScan) - 对目标域名进行快速的存活扫描、简单的指纹识别、目录扫描
 
 *   [google/enjarify](https://github.com/google/enjarify) -
+
+*   [xxcosmos/buy\_pig\_plan\_python](https://github.com/xxcosmos/buy_pig_plan_python) - buy\_pig\_plan 的 Python 版，电话攻击(电话轰炸、可代替短信轰炸)、留言攻击工具。
 
 ## Shell
 
