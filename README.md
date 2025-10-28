@@ -78,8 +78,6 @@
 
 *   [Y4er/dotnet-deserialization](https://github.com/Y4er/dotnet-deserialization) - dotnet 反序列化学习笔记
 
-*   [youki992/ShiningZ](https://github.com/youki992/ShiningZ) - "闪紫"（英文名shiningZ）社工字典生成工具，支持ABC自定义排列组合、ABC列字典AI扩展、AI提示词联想字典、自定义AI提示、字典去重、结果导出等
-
 *   [Mr-xn/hackbar2.1.3](https://github.com/Mr-xn/hackbar2.1.3) - the free firefox extions of  hackbar v2.1.3 v2.2.9 v2.3.1,hackbar 插件未收费的免费版本。适用于chrome浏览器的HackBar-v2.2.6.zip,HackBar-v2.3.1.zip
 
 *   [youki992/YonYouNCPocTool](https://github.com/youki992/YonYouNCPocTool) - 用友NC漏洞批量检测工具，支持POC显示、单一检测、批量检测、结果导出、AI交互等
@@ -780,6 +778,8 @@
 
 *   [testnet0/testnet-java](https://github.com/testnet0/testnet-java) -
 
+*   [youki992/ShiningZ](https://github.com/youki992/ShiningZ) - "闪紫"（英文名shiningZ）社工字典生成工具，支持ABC自定义排列组合、ABC列字典AI扩展、AI提示词联想字典、自定义AI提示、字典去重、结果导出等
+
 *   [iamlinhui/rpt](https://github.com/iamlinhui/rpt) - 内网穿透&反向代理 (支持TCP上层协议，支持HTTP/HTTPS端口复用)
 
 *   [RuoJi6/xxl-job-FLM](https://github.com/RuoJi6/xxl-job-FLM) - xxl-job内存马
@@ -1234,7 +1234,7 @@
 
 *   [Adminisme/ServerScan](https://github.com/Adminisme/ServerScan) - ServerScan一款使用Golang开发的高并发网络扫描、服务探测工具。
 
-*   [netuseradministrator/CVE-2024-36401](https://github.com/netuseradministrator/CVE-2024-36401) - geoserver图形化漏洞利用工具
+*   [netuseradministrator/Geoserver\_gui\_exp](https://github.com/netuseradministrator/Geoserver_gui_exp) - geoserver图形化漏洞利用工具
 
 *   [darkfiv/AIFuzzing](https://github.com/darkfiv/AIFuzzing) -
 
