@@ -2080,7 +2080,7 @@
 
 *   [worawit/MS17-010](https://github.com/worawit/MS17-010) - MS17-010
 
-*   [NyxAzrael/AvoidkillingPHP](https://github.com/NyxAzrael/AvoidkillingPHP) - 免杀PHP木马生成器
+*   [Daydream250/AvoidkillingPHP](https://github.com/Daydream250/AvoidkillingPHP) - 免杀PHP木马生成器
 
 *   [jorhelp/Ingram](https://github.com/jorhelp/Ingram) - 网络摄像头漏洞扫描工具 | Webcam vulnerability scanning tool
 
