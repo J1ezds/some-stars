@@ -364,8 +364,6 @@
 
 *   [wafinfo/DecryptTools](https://github.com/wafinfo/DecryptTools) - DecryptTools-综合解密
 
-*   [ynsmroztas/pdfsvgxsspayload](https://github.com/ynsmroztas/pdfsvgxsspayload) - pdf svg xss payload
-
 *   [dracodong/vshell\_oldversion](https://github.com/dracodong/vshell_oldversion) - vshell 是一款安全对抗模拟、红队工具。提供隧道代理和隐蔽通道，模拟长期潜伏攻击者的策略和技术
 
 *   [postern-overwal/postern-stuff](https://github.com/postern-overwal/postern-stuff) - Postern binaries & documents & configurations
@@ -3283,6 +3281,8 @@
 *   [pk-fr/yakpro-po](https://github.com/pk-fr/yakpro-po) - YAK Pro - Php Obfuscator
 
 *   [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
+
+*   [ynsmroztas/pdfsvgxsspayload](https://github.com/ynsmroztas/pdfsvgxsspayload) - pdf svg xss payload
 
 *   [MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) - A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
 
