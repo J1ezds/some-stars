@@ -618,7 +618,7 @@
 
 *   [vam876/FastWLAT](https://github.com/vam876/FastWLAT) - FastWLAT (Fast Web Log Analysis Tool) 是基于 Electron + Vue 3 构建的跨平台高性能 Web 日志分析工具，支持本地内存模式与 Redis 分布式处理，专为海量WEB日志分析场景设计。提供日志解析、威胁规则引擎、可视化仪表盘及树状聚合分析，优化了百万级数据的导入速度与查询性能，助力网络安全人员快速洞察访问流量与安全威胁。支持 Windows/macOS/Linux，开箱即用。
 
-*   [0x7556/wolfshell](https://github.com/0x7556/wolfshell) - 金刚狼：首款支持内网级联的ASPX高级WebShell管理工具
+*   [0x7556/wolfshell](https://github.com/0x7556/wolfshell) - 金刚狼：首款支持内网级联的ASPX高级WebShell管理工具，内存加载多个内网渗透工具，无代理无文件落地后渗透
 
 *   [h00klod0er/java-memshell-generator-Godzilla-custom](https://github.com/h00klod0er/java-memshell-generator-Godzilla-custom) - 哥斯拉插件，自定义内存马注入器，java-memshell-generator-Godzilla-custom  ， 参考jmg-for-Godzilla项目，因为原插件没有自定义内存马注入的功能，所以顺手加了个，可输入base64字节码进行注入，感谢 1ucky7师傅
 
@@ -1448,7 +1448,7 @@
 
 *   [3ndG4me/AutoBlue-MS17-010](https://github.com/3ndG4me/AutoBlue-MS17-010) - This is just an semi-automated fully working, no-bs, non-metasploit version of the public exploit code for MS17-010
 
-*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  MaxKB 是强大易用的开源企业级智能体平台。
+*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
 
 *   [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 
@@ -2244,7 +2244,7 @@
 
 *   [TheBeastofwar/JenkinsExploit-GUI](https://github.com/TheBeastofwar/JenkinsExploit-GUI) - 一款Jenkins的综合漏洞利用工具
 
-*   [4ra1n/class-obf](https://github.com/4ra1n/class-obf) - 一个 CLASS 文件混淆工具，被多个知名安全工具集成，支持方法名/字段名/参数名引用分析和重命名混淆方式，支持字符串提取/AES加密运行时解密/整型异或混淆/垃圾代码花指令混淆/错误注解崩溃混淆/特殊字符导致难以阅读等方式，支持方法和字段的隐藏，配置简单，容易上手
+*   [4ra1n/class-obf](https://github.com/4ra1n/class-obf) - 一个 CLASS 文件混淆工具，被多个知名安全工具集成，支持方法字段参数名引用分析和重命名混淆，支持字符串提取/AES加密运行时解密/整型异或混淆/垃圾代码花指令混淆/错误注解崩溃/特殊字符迷惑用户/反编译器对抗/方法和字段的隐藏等，配置简单，容易上手
 
 *   [TheKingOfDuck/SinkFinder](https://github.com/TheKingOfDuck/SinkFinder) - 闭源系统半自动漏洞挖掘工具，针对 jar/war/zip 进行静态代码分析，输出从source到sink的可达路径。LLM将验证路径可达性，并根据上下文给出该路径可信分数
 
@@ -2328,7 +2328,7 @@
 
 *   [tovd-go/java-memshell-scan](https://github.com/tovd-go/java-memshell-scan) -
 
-*   [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个 JAR 包 GUI 分析工具，方法调用关系搜索，方法调用链 DFS 算法分析，模拟 JVM 的污点分析验证 DFS 结果，字符串搜索，Java Web 组件入口分析，CFG 程序分析，JVM 栈帧分析，自定义表达式搜索。官方文档：https://docs.qq.com/doc/DV3pKbG9GS0pJS0tk
+*   [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个 JAR 包 GUI 分析工具，方法调用关系搜索，方法调用链 DFS 算法分析，模拟 JVM 的污点分析验证 DFS 结果，字符串搜索，Java Web 组件入口分析，CFG 程序分析，JVM 栈帧分析，自定义表达式搜索，支持 MCP 调用，文档：https://docs.qq.com/doc/DV3pKbG9GS0pJS0tk
 
 *   [pykiller/API-T00L](https://github.com/pykiller/API-T00L) - 互联网厂商API利用工具。
 
