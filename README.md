@@ -9,11 +9,12 @@
 ## Table of Contents
 
 *   [Go](#go)
-*   [C](#c)
+*   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
-*   [JavaScript](#javascript)
 *   [Java](#java)
+*   [PowerShell](#powershell)
+*   [C](#c)
 *   [Shell](#shell)
 *   [Vue](#vue)
 *   [HTML](#html)
@@ -21,7 +22,6 @@
 *   [TypeScript](#typescript)
 *   [C++](#c-2)
 *   [Dockerfile](#dockerfile)
-*   [PowerShell](#powershell)
 *   [Rust](#rust)
 *   [Smarty](#smarty)
 *   [YARA](#yara)
@@ -61,6 +61,10 @@
 *   [AutoIt](#autoit)
 
 ## Go
+
+*   [lzzbb/Adinfo](https://github.com/lzzbb/Adinfo) - 域信息收集工具
+
+*   [masterqiu01/cross-file-obfuscator](https://github.com/masterqiu01/cross-file-obfuscator) - Go 代码混淆工具，使用 AST (抽象语法树) 技术实现跨文件的代码混淆，同时保证混淆后的代码可编译和可执行。
 
 *   [killmonday/fscanx](https://github.com/killmonday/fscanx) - 让fscan再次伟大
 
@@ -116,7 +120,7 @@
 
 *   [FalconOpsLLC/goexec](https://github.com/FalconOpsLLC/goexec) - Windows remote execution multitool
 
-*   [chainreactors/malice-network](https://github.com/chainreactors/malice-network) - Next Generation C2 Framework
+*   [chainreactors/malice-network](https://github.com/chainreactors/malice-network) - Next Generation C2 Framework, IoM-server/client
 
 *   [wgpsec/lc](https://github.com/wgpsec/lc) - LC（List Cloud）是一个多云攻击面资产梳理工具
 
@@ -486,135 +490,161 @@
 
 *   [tomnomnom/httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working HTTP and HTTPS servers
 
-## C
+## JavaScript
 
-*   [CDipper/Beacon](https://github.com/CDipper/Beacon) - 使用C简单重构Beacon，适配CobaltStrike客户端
+*   [phpcalm/exceed](https://github.com/phpcalm/exceed) - 一个功能强大的浏览器扩展程序，专门用于检测Web系统中的权限越权漏洞，适用于Web渗透测试。
 
-*   [ybdt/evasion-hub](https://github.com/ybdt/evasion-hub) - AV/EDR Evasion / 免杀对抗
+*   [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist) - Check酱：监测网页内容变化，并发送异动到微信。亦支持http status、json和rss监测。配合自架云端，关电脑后也能运行。
 
-*   [Logkiss/Rat-winos4.0-gh0st](https://github.com/Logkiss/Rat-winos4.0-gh0st) - 免杀远控木马源码整理开源(银狐 winos 大灰狼  gh0st)  Rat
+*   [1diot9/MyJavaSecStudy](https://github.com/1diot9/MyJavaSecStudy) - 在Java安全学习过程中的笔记和代码
 
-*   [yuanyuanxiang/BGW\_RAT](https://github.com/yuanyuanxiang/BGW_RAT) - BGW RAT：一款功能全面的远程控制程序，即大灰狼9.5，现已支持VS2019编译。项目代码仅限于学习和交流用途。
+*   [bigsinger/awesomeFrida](https://github.com/bigsinger/awesomeFrida) - frida代码汇总
 
-*   [veo/vbackdoor](https://github.com/veo/vbackdoor) - Hide process,port,self under Linux using the ld\_preload
+*   [SickleSec/SnowEyes](https://github.com/SickleSec/SnowEyes) - 一款用于网页敏感信息检测，指纹识别的chrome插件
 
-*   [LaPhilosophie/hello-rootkit](https://github.com/LaPhilosophie/hello-rootkit) - 一个基于LKM的Linux内核级rootkit的实现，包含模块隐藏、提权、文件隐藏、进程隐藏、端口隐藏功能
+*   [QiuChenly/CoreInject](https://github.com/QiuChenly/CoreInject) - 美好世界你我相伴。同性恋🏳️‍🌈看过来，在这里找到我们的最爱！
 
-*   [paokuwansui/Antivirus\_killer](https://github.com/paokuwansui/Antivirus_killer) - 免杀主流防病毒软件
+*   [sirpdboy/luci-app-ddns-go](https://github.com/sirpdboy/luci-app-ddns-go) - luci-app-ddns-go 自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商 阿里云 腾讯云 Dnspod Cloudflare 华为云 Callback 百度云 Porkbun GoDaddy Namecheap NameSilo Dynadot DNSLA 时代互联
 
-*   [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) -
+*   [tongcheng-security-team/NextScan](https://github.com/tongcheng-security-team/NextScan) - 飞刃是一套完整的企业级黑盒漏洞扫描系统，集成漏洞扫描、漏洞管理、扫描资产、爬虫等服务。 拥有强大的漏洞检测引擎和丰富的插件库，覆盖多种漏洞类型和应用程序框架。
 
-*   [Adaptix-Framework/Extension-Kit](https://github.com/Adaptix-Framework/Extension-Kit) - AdaptixFramework Extension Kit
+*   [Rabb1tQ/wiki](https://github.com/Rabb1tQ/wiki) - 由于收集了一堆文档，文档数量及附件过多，现有的免费的系统不满足我的需求，所以自己弄个~
 
-*   [evilashz/PigScheduleTask](https://github.com/evilashz/PigScheduleTask) - 添加计划任务方法集合
+*   [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
 
-*   [xaitax/Chrome-App-Bound-Encryption-Decryption](https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption) - Fully decrypt App-Bound Encrypted (ABE) cookies, passwords & payment methods from Chromium-based browsers (Chrome, Brave, Edge) - all in user mode, no admin rights required.
+*   [xh321/LiteLoaderQQNT-Anti-Recall](https://github.com/xh321/LiteLoaderQQNT-Anti-Recall) - LiteLoaderQQNT 插件 - QQNT 简易防撤回
 
-*   [Meckazin/ChromeKatz](https://github.com/Meckazin/ChromeKatz) - Dump cookies and credentials directly from Chrome/Edge process memory
+*   [kenny67/AndroidReverseEngineering](https://github.com/kenny67/AndroidReverseEngineering) - 安卓逆向工程 ELFRead、Frida、FridaDump、DexDump、SoDump、Ghidra、Jadx、Xpose...
 
-*   [topotam/PetitPotam](https://github.com/topotam/PetitPotam) - PoC tool to coerce Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw or other functions.
+*   [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 
-*   [MzHmO/Exploit-Street](https://github.com/MzHmO/Exploit-Street) - Complete list of LPE exploits for Windows (starting from 2023)
+*   [LinBeiPolaris/PolarisScan](https://github.com/LinBeiPolaris/PolarisScan) - 一款Google信息收集插件，包含域名，map，js等文件提取
 
-*   [baigae/HeavenlyBypassAV](https://github.com/baigae/HeavenlyBypassAV) - HeavenlyBypassAV免杀工具
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
-*   [c0de90e7/GhostWriting](https://github.com/c0de90e7/GhostWriting) - GhostWriting Injection Technique.
+*   [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
 
-*   [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
+*   [arounyf/headscale-Admin](https://github.com/arounyf/headscale-Admin) - 支持多用户管理的一款headscale后台控制中心
 
-*   [P001water/yuze](https://github.com/P001water/yuze) - A socksv5 proxy tool Written by CLang. 一款纯C实现的轻量内网穿透工具，支持正向，反向socks5代理隧道的搭建，支持跨平台使用。
+*   [StrayMeteor3337/WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你
 
-*   [netero1010/EDRSilencer](https://github.com/netero1010/EDRSilencer) - A tool uses Windows Filtering Platform (WFP) to block Endpoint Detection and Response (EDR) agents from reporting security events to the server.
+*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
 
-*   [veo/nginx\_shell](https://github.com/veo/nginx_shell) - nginx WebShell/内存马，更优雅的nignx backdoor
+*   [whgojp/JavaSecLab](https://github.com/whgojp/JavaSecLab) - JavaSecLab is a comprehensive Java vulnerability platform｜​ JavaSecLab是一款综合型Java漏洞平台，提供相关漏洞缺陷代码、修复代码、漏洞场景、审计SINK点、安全编码规范，覆盖多种漏洞场景，友好用户交互UI……
 
-*   [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
+*   [lazy-luo/smarGate](https://github.com/lazy-luo/smarGate) - 内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！
 
-*   [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
+*   [mindskip/xzs-mysql](https://github.com/mindskip/xzs-mysql) - 学之思开源考试系统是一款 java + vue 的前后端分离的考试系统。主要优点是开发、部署简单快捷、界面设计友好、代码结构清晰。支持web端和微信小程序，能覆盖到pc机和手机等设备。 支持多种部署方式：集成部署、前后端分离部署、docker部署。
 
-*   [Al1ex/LinuxEelvation](https://github.com/Al1ex/LinuxEelvation) - Linux Eelvation(持续更新)
+*   [l3yx/Java-RASP-Research-Env](https://github.com/l3yx/Java-RASP-Research-Env) - 之前方便自己研究RASP原理和绕过时顺手写的，用于快速启动和重置RASP环境
 
-*   [hfiref0x/UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
+*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
-*   [csujedihy/proximac](https://github.com/csujedihy/proximac) - An open-source alternative to proxifier
+*   [metowolf/iplist](https://github.com/metowolf/iplist) - IP CIDRs List / IP 地址列表
 
-*   [boku7/BokuLoader](https://github.com/boku7/BokuLoader) - A proof-of-concept Cobalt Strike Reflective Loader which aims to recreate, integrate, and enhance Cobalt Strike's evasion features!
+*   [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
 
-*   [rampageX/firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) - Automatically exported from code.google.com/p/firmware-mod-kit
+*   [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
 
-*   [wangfly-me/LoaderFly](https://github.com/wangfly-me/LoaderFly) - 助力每一位RT队员，快速生成免杀木马
+*   [Z-Siqi/Clash-for-Windows\_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
 
-*   [mertdas/PrivKit](https://github.com/mertdas/PrivKit) - PrivKit is a simple beacon object file that detects privilege escalation vulnerabilities caused by misconfigurations on Windows OS.
+*   [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
 
-*   [Cracked5pider/Stardust](https://github.com/Cracked5pider/Stardust) - A modern 32/64-bit position independent implant template
+*   [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
 
-*   [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
+*   [beishanxueyuan/domain\_scan](https://github.com/beishanxueyuan/domain_scan) -
 
-*   [lrh2000/StackRot](https://github.com/lrh2000/StackRot) - CVE-2023-3269: Linux kernel privilege escalation vulnerability
+*   [knownsec/KCon](https://github.com/knownsec/KCon) - KCon is a famous Hacker Con powered by Knownsec Team.
 
-*   [yangyangwithgnu/bypass\_disablefunc\_via\_LD\_PRELOAD](https://github.com/yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD) - bypass disable\_functions via LD\_PRELOA  (no need /usr/sbin/sendmail)
+*   [TongchengOpenSource/AppScan](https://github.com/TongchengOpenSource/AppScan) - 安全隐私卫士（AppScan）一款免费的企业级自动化App隐私合规检测工具。
 
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+*   [Gerrit0/old-github-feed](https://github.com/Gerrit0/old-github-feed) - Brings back GitHub's old feed
 
-*   [huaigu4ng/SysWhispers3WinHttp](https://github.com/huaigu4ng/SysWhispers3WinHttp) - Syscall免杀
+*   [phith0n/vueinfo](https://github.com/phith0n/vueinfo) - Extract website information from Vue
 
-*   [brendan-rius/c-jwt-cracker](https://github.com/brendan-rius/c-jwt-cracker) - JWT brute force cracker written in C
+*   [0x727/Space\_view](https://github.com/0x727/Space_view) - Space\_view 是一款Hunter(鹰图平台)或者FOFA平台 资产展示的浏览器油猴插件
 
-*   [antonioCoco/RoguePotato](https://github.com/antonioCoco/RoguePotato) - Another Windows Local Privilege Escalation from Service Account to System
+*   [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
 
-*   [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN\_Stable.
+*   [momosecurity/FindSomething](https://github.com/momosecurity/FindSomething) - 基于chrome、firefox插件的被动式信息泄漏检测工具
 
-*   [Coldzer0/ReverseSock5Proxy](https://github.com/Coldzer0/ReverseSock5Proxy) - A tiny Reverse Sock5 Proxy written in C :V
+*   [wjl110/CVE-Master](https://github.com/wjl110/CVE-Master) - 收集本人自接触渗透测试用于漏洞验证的所有热门CVE、POC、CNVD攻击有效载荷+测试工具+FUZZ,一个仓库满足许多攻击测试场景,开箱即用.
 
-*   [cgbsmy/TrayS](https://github.com/cgbsmy/TrayS) - TrayStyle
+*   [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 
-*   [FreeRDP/Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK+ Remmina Remote Desktop Client
+*   [1in9e/gosint](https://github.com/1in9e/gosint) - Gosint is a distributed asset information collection and vulnerability scanning platform
 
-*   [EstamelGG/CVE-2021-4034-NoGCC](https://github.com/EstamelGG/CVE-2021-4034-NoGCC) - CVE-2021-4034简单优化，以应对没有安装gcc和make的目标环境
+*   [b0bac/ApolloScanner](https://github.com/b0bac/ApolloScanner) - 自动化巡航扫描框架（可用于红队打点评估）
 
-*   [msm8916-mainline/linux](https://github.com/msm8916-mainline/linux) - Linux mainline kernel fork for various Qualcomm MSM8909/MSM8916/MSM8939 devices
+*   [hanc00l/nemo\_go](https://github.com/hanc00l/nemo_go) - Nemo是用来进行自动化信息收集的一个简单平台，通过集成常用的信息收集工具和技术，实现对内网及互联网资产信息的自动收集，提高隐患排查和渗透测试的工作效率。
 
-*   [LDrakura/Remote\_ShellcodeLoader](https://github.com/LDrakura/Remote_ShellcodeLoader) - 远程shellcode加载&权限维持+小功能
+*   [system-cpu/wxappUnpacker](https://github.com/system-cpu/wxappUnpacker) - 基于node反编译小程序 已经配置完成
 
-*   [Al1ex/WindowsElevation](https://github.com/Al1ex/WindowsElevation) - Windows Elevation(持续更新)
+*   [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 
-*   [phith0n/arbitrary-php-extension](https://github.com/phith0n/arbitrary-php-extension) - 这是一个实验性的PHP扩展，加载这个扩展后，每次请求将可以执行一段自己的PHP代码。
+*   [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 
-*   [wonderkun/go-packer](https://github.com/wonderkun/go-packer) - golang打包二进制进行免杀
+*   [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 
-*   [helloexp/0day](https://github.com/helloexp/0day) - 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新
+*   [Ghr07h/Heimdallr](https://github.com/Ghr07h/Heimdallr) - 一款完全被动监听的谷歌插件，用于高危指纹识别、蜜罐特征告警和拦截、机器特征对抗
 
-*   [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
+*   [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥 hooker is a Frida-based reverse engineering toolkit for Android. It offers a user-friendly CLI, universal scripts, auto hook generation, memory roaming to detect activities/services, one-click SOCKS5 proxy setup, Frida JustTrustMe, and BoringSSL unpinning for all apps.
 
-*   [timwhitez/Cobalt-Strike-Aggressor-Scripts](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts) - Cobalt Strike Aggressor 插件包
+*   [lijiejie/EasyPen](https://github.com/lijiejie/EasyPen) - EasyPen is a GUI program which helps pentesters do target discovery, vulnerability scan and exploitation
 
-*   [firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One) - CTF竞赛权威指南
+*   [yzddmr6/as\_webshell\_venom](https://github.com/yzddmr6/as_webshell_venom) - 免杀webshell无限生成工具蚁剑版
 
-*   [mirror/busybox](https://github.com/mirror/busybox) - BusyBox mirror
+*   [whitescent/KFC-Crazy-Thursday](https://github.com/whitescent/KFC-Crazy-Thursday) - 肯德基疯狂星期四段子收录
 
-*   [gloxec/CrossC2](https://github.com/gloxec/CrossC2) - generate CobaltStrike's cross-platform payload
+*   [aliyun/oss-browser](https://github.com/aliyun/oss-browser) - OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
 
-*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
+*   [r00tSe7en/GoogleHackingTool](https://github.com/r00tSe7en/GoogleHackingTool) - 在线Google Hacking 小工具
 
-*   [newsoft/adduser](https://github.com/newsoft/adduser) - Programmatically create an administrative user under Windows
+*   [SiJiDo/H](https://github.com/SiJiDo/H) - H是一款强大的资产收集管理平台
 
-*   [n0b0dyCN/redis-rogue-server](https://github.com/n0b0dyCN/redis-rogue-server) - Redis(<=5.0.5) RCE
+*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
-*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
+*   [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 
-*   [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
+*   [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager \[GUI client], compatible with Linux, Windows, Mac.
 
-*   [lengjibo/FourEye](https://github.com/lengjibo/FourEye) - AV Evasion Tool For Red Team Ops
+*   [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 
-*   [phra/PEzor](https://github.com/phra/PEzor) - Open-Source Shellcode & PE Packer
+*   [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
 
-*   [mai1zhi2/ShellCodeFramework](https://github.com/mai1zhi2/ShellCodeFramework) - 绕3环的shellcode免杀框架
+*   [liuze0109/Royal\_TSX\_Chinese\_Language\_Pack](https://github.com/liuze0109/Royal_TSX_Chinese_Language_Pack) - Royal\_TSX的简体中文汉化包
 
-*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+*   [tsycnh/WeChatExporter](https://github.com/tsycnh/WeChatExporter) - 一个可以快速导出、查看你的微信聊天记录的工具
 
-*   [Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub) - :palm\_tree:Linux、macOS、Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (提权漏洞合集)
+*   [phith0n/xray-poc-generation](https://github.com/phith0n/xray-poc-generation) - 🧬 辅助生成 XRay YAML POC
+
+*   [Mustard404/Savior](https://github.com/Mustard404/Savior) - 渗透测试报告自动生成工具！
+
+*   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+
+*   [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win)
+
+*   [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
+
+*   [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) -  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
+
+*   [guyoung/CaptfEncoder](https://github.com/guyoung/CaptfEncoder) - Captfencoder is opensource a rapid cross platform network security tool suite, providing network security related code conversion, classical cryptography, cryptography, asymmetric encryption, miscellaneous tools, and aggregating all kinds of online tools.
+
+*   [Gu-f/CTFd\_chinese\_CN](https://github.com/Gu-f/CTFd_chinese_CN) - 对CTFd平台各版本的汉化记录。key:中文、汉化、翻译、chinese、CN、CTFd
+
+*   [gh0stkey/avList](https://github.com/gh0stkey/avList) - avList - 杀软进程对应杀软名称
+
+*   [yzddmr6/As-Exploits](https://github.com/yzddmr6/As-Exploits) - 中国蚁剑后渗透框架
+
+*   [AntSwordProject/AwesomeEncoder](https://github.com/AntSwordProject/AwesomeEncoder) - AntSword 自定义编(解)码器分享
 
 ## miscellaneous
+
+*   [mhtsec/Docker-Registry-exp](https://github.com/mhtsec/Docker-Registry-exp) - 一款功能强大的Docker Registry 5000端口未授权浏览、下载和安全测试工具，集成了镜像管理、认证爆破、敏感信息搜索等多项实用功能。
+
+*   [kk12-30/AI-bypass-prompt](https://github.com/kk12-30/AI-bypass-prompt) - 一些绕过AI限制的提示词
+
+*   [ASkyeye/CVE-2023-21839](https://github.com/ASkyeye/CVE-2023-21839) - Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)
 
 *   [vam876/FastWLAT](https://github.com/vam876/FastWLAT) - FastWLAT (Fast Web Log Analysis Tool) 是基于 Electron + Vue 3 构建的跨平台高性能 Web 日志分析工具，支持本地内存模式与 Redis 分布式处理，专为海量WEB日志分析场景设计。提供日志解析、威胁规则引擎、可视化仪表盘及树状聚合分析，优化了百万级数据的导入速度与查询性能，助力网络安全人员快速洞察访问流量与安全威胁。支持 Windows/macOS/Linux，开箱即用。
 
@@ -1300,17 +1330,11 @@
 
 *   [pandasec888/taowu-cobalt\_strike](https://github.com/pandasec888/taowu-cobalt_strike) -
 
-*   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
-
-*   [Smi1eSEC/Web-Security-Note](https://github.com/Smi1eSEC/Web-Security-Note) - Record some common Web security sites
-
-*   [rebeyond/Behinder](https://github.com/rebeyond/Behinder) - “冰蝎”动态二进制加密网站管理客户端
-
-*   [BeichenDream/Godzilla](https://github.com/BeichenDream/Godzilla) - 哥斯拉
-
-*   [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
-
 ## Python
+
+*   [wooluo/SSlogs](https://github.com/wooluo/SSlogs) - 应急分析溯源日志工具：一个功能强大的Web日志安全分析工具，集成了规则引擎、AI智能分析和多格式报告生成，专为安全应急响应和威胁溯源而设计。
+
+*   [runassu/chrome\_v20\_decryption](https://github.com/runassu/chrome_v20_decryption) - Chrome COOKIE v20 decryption PoC
 
 *   [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 
@@ -1990,157 +2014,9 @@
 
 *   [broken5/WebAliveScan](https://github.com/broken5/WebAliveScan) - 对目标域名进行快速的存活扫描、简单的指纹识别、目录扫描
 
-*   [google/enjarify](https://github.com/google/enjarify) -
-
-## JavaScript
-
-*   [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist) - Check酱：监测网页内容变化，并发送异动到微信。亦支持http status、json和rss监测。配合自架云端，关电脑后也能运行。
-
-*   [1diot9/MyJavaSecStudy](https://github.com/1diot9/MyJavaSecStudy) - 在Java安全学习过程中的笔记和代码
-
-*   [bigsinger/awesomeFrida](https://github.com/bigsinger/awesomeFrida) - frida代码汇总
-
-*   [SickleSec/SnowEyes](https://github.com/SickleSec/SnowEyes) - 一款用于网页敏感信息检测，指纹识别的chrome插件
-
-*   [QiuChenly/CoreInject](https://github.com/QiuChenly/CoreInject) - 美好世界你我相伴。同性恋🏳️‍🌈看过来，在这里找到我们的最爱！
-
-*   [sirpdboy/luci-app-ddns-go](https://github.com/sirpdboy/luci-app-ddns-go) - luci-app-ddns-go 自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商 阿里云 腾讯云 Dnspod Cloudflare 华为云 Callback 百度云 Porkbun GoDaddy Namecheap NameSilo Dynadot DNSLA 时代互联
-
-*   [tongcheng-security-team/NextScan](https://github.com/tongcheng-security-team/NextScan) - 飞刃是一套完整的企业级黑盒漏洞扫描系统，集成漏洞扫描、漏洞管理、扫描资产、爬虫等服务。 拥有强大的漏洞检测引擎和丰富的插件库，覆盖多种漏洞类型和应用程序框架。
-
-*   [Rabb1tQ/wiki](https://github.com/Rabb1tQ/wiki) - 由于收集了一堆文档，文档数量及附件过多，现有的免费的系统不满足我的需求，所以自己弄个~
-
-*   [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
-
-*   [xh321/LiteLoaderQQNT-Anti-Recall](https://github.com/xh321/LiteLoaderQQNT-Anti-Recall) - LiteLoaderQQNT 插件 - QQNT 简易防撤回
-
-*   [kenny67/AndroidReverseEngineering](https://github.com/kenny67/AndroidReverseEngineering) - 安卓逆向工程 ELFRead、Frida、FridaDump、DexDump、SoDump、Ghidra、Jadx、Xpose...
-
-*   [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
-
-*   [LinBeiPolaris/PolarisScan](https://github.com/LinBeiPolaris/PolarisScan) - 一款Google信息收集插件，包含域名，map，js等文件提取
-
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-
-*   [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
-
-*   [arounyf/headscale-Admin](https://github.com/arounyf/headscale-Admin) - 支持多用户管理的一款headscale后台控制中心
-
-*   [StrayMeteor3337/WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你
-
-*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
-
-*   [whgojp/JavaSecLab](https://github.com/whgojp/JavaSecLab) - JavaSecLab is a comprehensive Java vulnerability platform｜​ JavaSecLab是一款综合型Java漏洞平台，提供相关漏洞缺陷代码、修复代码、漏洞场景、审计SINK点、安全编码规范，覆盖多种漏洞场景，友好用户交互UI……
-
-*   [lazy-luo/smarGate](https://github.com/lazy-luo/smarGate) - 内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！
-
-*   [mindskip/xzs-mysql](https://github.com/mindskip/xzs-mysql) - 学之思开源考试系统是一款 java + vue 的前后端分离的考试系统。主要优点是开发、部署简单快捷、界面设计友好、代码结构清晰。支持web端和微信小程序，能覆盖到pc机和手机等设备。 支持多种部署方式：集成部署、前后端分离部署、docker部署。
-
-*   [l3yx/Java-RASP-Research-Env](https://github.com/l3yx/Java-RASP-Research-Env) - 之前方便自己研究RASP原理和绕过时顺手写的，用于快速启动和重置RASP环境
-
-*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
-
-*   [metowolf/iplist](https://github.com/metowolf/iplist) - IP CIDRs List / IP 地址列表
-
-*   [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
-
-*   [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
-
-*   [Z-Siqi/Clash-for-Windows\_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
-
-*   [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
-
-*   [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
-
-*   [beishanxueyuan/domain\_scan](https://github.com/beishanxueyuan/domain_scan) -
-
-*   [knownsec/KCon](https://github.com/knownsec/KCon) - KCon is a famous Hacker Con powered by Knownsec Team.
-
-*   [TongchengOpenSource/AppScan](https://github.com/TongchengOpenSource/AppScan) - 安全隐私卫士（AppScan）一款免费的企业级自动化App隐私合规检测工具。
-
-*   [Gerrit0/old-github-feed](https://github.com/Gerrit0/old-github-feed) - Brings back GitHub's old feed
-
-*   [phith0n/vueinfo](https://github.com/phith0n/vueinfo) - Extract website information from Vue
-
-*   [0x727/Space\_view](https://github.com/0x727/Space_view) - Space\_view 是一款Hunter(鹰图平台)或者FOFA平台 资产展示的浏览器油猴插件
-
-*   [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
-
-*   [momosecurity/FindSomething](https://github.com/momosecurity/FindSomething) - 基于chrome、firefox插件的被动式信息泄漏检测工具
-
-*   [wjl110/CVE-Master](https://github.com/wjl110/CVE-Master) - 收集本人自接触渗透测试用于漏洞验证的所有热门CVE、POC、CNVD攻击有效载荷+测试工具+FUZZ,一个仓库满足许多攻击测试场景,开箱即用.
-
-*   [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
-
-*   [1in9e/gosint](https://github.com/1in9e/gosint) - Gosint is a distributed asset information collection and vulnerability scanning platform
-
-*   [b0bac/ApolloScanner](https://github.com/b0bac/ApolloScanner) - 自动化巡航扫描框架（可用于红队打点评估）
-
-*   [hanc00l/nemo\_go](https://github.com/hanc00l/nemo_go) - Nemo是用来进行自动化信息收集的一个简单平台，通过集成常用的信息收集工具和技术，实现对内网及互联网资产信息的自动收集，提高隐患排查和渗透测试的工作效率。
-
-*   [system-cpu/wxappUnpacker](https://github.com/system-cpu/wxappUnpacker) - 基于node反编译小程序 已经配置完成
-
-*   [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
-
-*   [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
-
-*   [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
-
-*   [Ghr07h/Heimdallr](https://github.com/Ghr07h/Heimdallr) - 一款完全被动监听的谷歌插件，用于高危指纹识别、蜜罐特征告警和拦截、机器特征对抗
-
-*   [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥 hooker is a Frida-based reverse engineering toolkit for Android. It offers a user-friendly CLI, universal scripts, auto hook generation, memory roaming to detect activities/services, one-click SOCKS5 proxy setup, Frida JustTrustMe, and BoringSSL unpinning for all apps.
-
-*   [lijiejie/EasyPen](https://github.com/lijiejie/EasyPen) - EasyPen is a GUI program which helps pentesters do target discovery, vulnerability scan and exploitation
-
-*   [yzddmr6/as\_webshell\_venom](https://github.com/yzddmr6/as_webshell_venom) - 免杀webshell无限生成工具蚁剑版
-
-*   [whitescent/KFC-Crazy-Thursday](https://github.com/whitescent/KFC-Crazy-Thursday) - 肯德基疯狂星期四段子收录
-
-*   [aliyun/oss-browser](https://github.com/aliyun/oss-browser) - OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
-
-*   [r00tSe7en/GoogleHackingTool](https://github.com/r00tSe7en/GoogleHackingTool) - 在线Google Hacking 小工具
-
-*   [SiJiDo/H](https://github.com/SiJiDo/H) - H是一款强大的资产收集管理平台
-
-*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-
-*   [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
-
-*   [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager \[GUI client], compatible with Linux, Windows, Mac.
-
-*   [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
-
-*   [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
-
-*   [liuze0109/Royal\_TSX\_Chinese\_Language\_Pack](https://github.com/liuze0109/Royal_TSX_Chinese_Language_Pack) - Royal\_TSX的简体中文汉化包
-
-*   [tsycnh/WeChatExporter](https://github.com/tsycnh/WeChatExporter) - 一个可以快速导出、查看你的微信聊天记录的工具
-
-*   [phith0n/xray-poc-generation](https://github.com/phith0n/xray-poc-generation) - 🧬 辅助生成 XRay YAML POC
-
-*   [Mustard404/Savior](https://github.com/Mustard404/Savior) - 渗透测试报告自动生成工具！
-
-*   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-
-*   [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win)
-
-*   [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-
-*   [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) -  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
-
-*   [guyoung/CaptfEncoder](https://github.com/guyoung/CaptfEncoder) - Captfencoder is opensource a rapid cross platform network security tool suite, providing network security related code conversion, classical cryptography, cryptography, asymmetric encryption, miscellaneous tools, and aggregating all kinds of online tools.
-
-*   [Gu-f/CTFd\_chinese\_CN](https://github.com/Gu-f/CTFd_chinese_CN) - 对CTFd平台各版本的汉化记录。key:中文、汉化、翻译、chinese、CN、CTFd
-
-*   [gh0stkey/avList](https://github.com/gh0stkey/avList) - avList - 杀软进程对应杀软名称
-
-*   [yzddmr6/As-Exploits](https://github.com/yzddmr6/As-Exploits) - 中国蚁剑后渗透框架
-
-*   [AntSwordProject/AwesomeEncoder](https://github.com/AntSwordProject/AwesomeEncoder) - AntSword 自定义编(解)码器分享
-
-*   [AntSwordProject/antSword](https://github.com/AntSwordProject/antSword) - 中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.
-
 ## Java
+
+*   [ahisec/geoserver-](https://github.com/ahisec/geoserver-) - geoserver CVE-2024-36401漏洞利用工具
 
 *   [7uup/TsojanScan-Plus](https://github.com/7uup/TsojanScan-Plus) - TsoJanScan Burp Plugins Secondary Development
 
@@ -2574,7 +2450,169 @@
 
 *   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 
-*   [frohoff/ysoserial](https://github.com/frohoff/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
+## PowerShell
+
+*   [The-Viper-One/Invoke-PowerChrome](https://github.com/The-Viper-One/Invoke-PowerChrome) - Decrypt Chromium based browser passwords with PowerShell.
+
+*   [9bie/Slacker](https://github.com/9bie/Slacker) - 懒鬼插件/审计过的后的渗透插件/我凭本事打的SESSION凭什么还要我自己动手后渗透？
+
+*   [D13Xian/CobaltStrike-KunKun](https://github.com/D13Xian/CobaltStrike-KunKun) - 坤坤CS 基于CobaltStrike cat 4.5二开项目 添加反沙箱、反测绘。集成常用后渗透插件，开箱即用
+
+*   [arch3rPro/PST-Bucket](https://github.com/arch3rPro/PST-Bucket) - Scoop-Buket for Penetration Suite Toolkit  -  Windows渗透测试工具仓库For Scoop
+
+*   [V-i-x-x/AMSI-WRITE-RAID-BYPASS](https://github.com/V-i-x-x/AMSI-WRITE-RAID-BYPASS) - "AMSI WRITE RAID" Vulnerability that leads to an effective AMSI BYPASS
+
+*   [yanghaoi/CobaltStrike\_CNA](https://github.com/yanghaoi/CobaltStrike_CNA) - 使用多种WinAPI进行权限维持的CobaltStrike脚本，包含API设置系统服务，设置计划任务，管理用户等。
+
+*   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
+
+*   [senzee1984/Amsi\_Bypass\_In\_2023](https://github.com/senzee1984/Amsi_Bypass_In_2023) - Amsi Bypass payload that works on Windwos 11
+
+*   [Lucifer1993/PLtools](https://github.com/Lucifer1993/PLtools) - 整理一些内网常用渗透小工具
+
+*   [x0xr00t/Automated-MUlti-UAC-Bypass](https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass) - Automated Multi UAC BYPASS for win10|win11|win12-pre-release|ws2019|ws2022
+
+*   [k8gege/K8tools](https://github.com/k8gege/K8tools) - K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)
+
+*   [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) - Six Degrees of Domain Admin
+
+*   [QAX-A-Team/EventLogMaster](https://github.com/QAX-A-Team/EventLogMaster) - Cobalt Strike插件 - RDP日志取证&清除
+
+*   [rsmudge/ElevateKit](https://github.com/rsmudge/ElevateKit) - The Elevate Kit demonstrates how to use third-party privilege escalation attacks with Cobalt Strike's Beacon payload.
+
+*   [dafthack/DomainPasswordSpray](https://github.com/dafthack/DomainPasswordSpray) - DomainPasswordSpray is a tool written in PowerShell to perform a password spray attack against users of a domain. By default it will automatically generate the userlist from the domain. BE VERY CAREFUL NOT TO LOCKOUT ACCOUNTS!
+
+*   [QAX-A-Team/CobaltStrike-Toolset](https://github.com/QAX-A-Team/CobaltStrike-Toolset) - Aggressor Script, Kits, Malleable C2 Profiles, External C2 and so on
+
+*   [lintstar/LSTAR](https://github.com/lintstar/LSTAR) - LSTAR - CobaltStrike 综合后渗透插件
+
+*   [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
+
+## C
+
+*   [CDipper/Beacon](https://github.com/CDipper/Beacon) - 使用C简单重构Beacon，适配CobaltStrike客户端
+
+*   [ybdt/evasion-hub](https://github.com/ybdt/evasion-hub) - AV/EDR Evasion / 免杀对抗
+
+*   [Logkiss/Rat-winos4.0-gh0st](https://github.com/Logkiss/Rat-winos4.0-gh0st) - 免杀远控木马源码整理开源(银狐 winos 大灰狼  gh0st)  Rat
+
+*   [yuanyuanxiang/BGW\_RAT](https://github.com/yuanyuanxiang/BGW_RAT) - BGW RAT：一款功能全面的远程控制程序，即大灰狼9.5，现已支持VS2019编译。项目代码仅限于学习和交流用途。
+
+*   [veo/vbackdoor](https://github.com/veo/vbackdoor) - Hide process,port,self under Linux using the ld\_preload
+
+*   [LaPhilosophie/hello-rootkit](https://github.com/LaPhilosophie/hello-rootkit) - 一个基于LKM的Linux内核级rootkit的实现，包含模块隐藏、提权、文件隐藏、进程隐藏、端口隐藏功能
+
+*   [paokuwansui/Antivirus\_killer](https://github.com/paokuwansui/Antivirus_killer) - 免杀主流防病毒软件
+
+*   [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) -
+
+*   [Adaptix-Framework/Extension-Kit](https://github.com/Adaptix-Framework/Extension-Kit) - AdaptixFramework Extension Kit
+
+*   [evilashz/PigScheduleTask](https://github.com/evilashz/PigScheduleTask) - 添加计划任务方法集合
+
+*   [xaitax/Chrome-App-Bound-Encryption-Decryption](https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption) - Fully decrypt App-Bound Encrypted (ABE) cookies, passwords & payment methods from Chromium-based browsers (Chrome, Brave, Edge) - all in user mode, no admin rights required.
+
+*   [Meckazin/ChromeKatz](https://github.com/Meckazin/ChromeKatz) - Dump cookies and credentials directly from Chrome/Edge process memory
+
+*   [topotam/PetitPotam](https://github.com/topotam/PetitPotam) - PoC tool to coerce Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw or other functions.
+
+*   [MzHmO/Exploit-Street](https://github.com/MzHmO/Exploit-Street) - Complete list of LPE exploits for Windows (starting from 2023)
+
+*   [baigae/HeavenlyBypassAV](https://github.com/baigae/HeavenlyBypassAV) - HeavenlyBypassAV免杀工具
+
+*   [c0de90e7/GhostWriting](https://github.com/c0de90e7/GhostWriting) - GhostWriting Injection Technique.
+
+*   [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
+
+*   [P001water/yuze](https://github.com/P001water/yuze) - A socksv5 proxy tool Written by CLang. 一款纯C实现的轻量内网穿透工具，支持正向，反向socks5代理隧道的搭建，支持跨平台使用。
+
+*   [netero1010/EDRSilencer](https://github.com/netero1010/EDRSilencer) - A tool uses Windows Filtering Platform (WFP) to block Endpoint Detection and Response (EDR) agents from reporting security events to the server.
+
+*   [veo/nginx\_shell](https://github.com/veo/nginx_shell) - nginx WebShell/内存马，更优雅的nignx backdoor
+
+*   [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
+
+*   [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
+
+*   [Al1ex/LinuxEelvation](https://github.com/Al1ex/LinuxEelvation) - Linux Eelvation(持续更新)
+
+*   [hfiref0x/UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
+
+*   [csujedihy/proximac](https://github.com/csujedihy/proximac) - An open-source alternative to proxifier
+
+*   [boku7/BokuLoader](https://github.com/boku7/BokuLoader) - A proof-of-concept Cobalt Strike Reflective Loader which aims to recreate, integrate, and enhance Cobalt Strike's evasion features!
+
+*   [rampageX/firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) - Automatically exported from code.google.com/p/firmware-mod-kit
+
+*   [wangfly-me/LoaderFly](https://github.com/wangfly-me/LoaderFly) - 助力每一位RT队员，快速生成免杀木马
+
+*   [mertdas/PrivKit](https://github.com/mertdas/PrivKit) - PrivKit is a simple beacon object file that detects privilege escalation vulnerabilities caused by misconfigurations on Windows OS.
+
+*   [Cracked5pider/Stardust](https://github.com/Cracked5pider/Stardust) - A modern 32/64-bit position independent implant template
+
+*   [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
+
+*   [lrh2000/StackRot](https://github.com/lrh2000/StackRot) - CVE-2023-3269: Linux kernel privilege escalation vulnerability
+
+*   [yangyangwithgnu/bypass\_disablefunc\_via\_LD\_PRELOAD](https://github.com/yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD) - bypass disable\_functions via LD\_PRELOA  (no need /usr/sbin/sendmail)
+
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
+*   [huaigu4ng/SysWhispers3WinHttp](https://github.com/huaigu4ng/SysWhispers3WinHttp) - Syscall免杀
+
+*   [brendan-rius/c-jwt-cracker](https://github.com/brendan-rius/c-jwt-cracker) - JWT brute force cracker written in C
+
+*   [antonioCoco/RoguePotato](https://github.com/antonioCoco/RoguePotato) - Another Windows Local Privilege Escalation from Service Account to System
+
+*   [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN\_Stable.
+
+*   [Coldzer0/ReverseSock5Proxy](https://github.com/Coldzer0/ReverseSock5Proxy) - A tiny Reverse Sock5 Proxy written in C :V
+
+*   [cgbsmy/TrayS](https://github.com/cgbsmy/TrayS) - TrayStyle
+
+*   [FreeRDP/Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK+ Remmina Remote Desktop Client
+
+*   [EstamelGG/CVE-2021-4034-NoGCC](https://github.com/EstamelGG/CVE-2021-4034-NoGCC) - CVE-2021-4034简单优化，以应对没有安装gcc和make的目标环境
+
+*   [msm8916-mainline/linux](https://github.com/msm8916-mainline/linux) - Linux mainline kernel fork for various Qualcomm MSM8909/MSM8916/MSM8939 devices
+
+*   [LDrakura/Remote\_ShellcodeLoader](https://github.com/LDrakura/Remote_ShellcodeLoader) - 远程shellcode加载&权限维持+小功能
+
+*   [Al1ex/WindowsElevation](https://github.com/Al1ex/WindowsElevation) - Windows Elevation(持续更新)
+
+*   [phith0n/arbitrary-php-extension](https://github.com/phith0n/arbitrary-php-extension) - 这是一个实验性的PHP扩展，加载这个扩展后，每次请求将可以执行一段自己的PHP代码。
+
+*   [wonderkun/go-packer](https://github.com/wonderkun/go-packer) - golang打包二进制进行免杀
+
+*   [helloexp/0day](https://github.com/helloexp/0day) - 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新
+
+*   [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
+
+*   [timwhitez/Cobalt-Strike-Aggressor-Scripts](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts) - Cobalt Strike Aggressor 插件包
+
+*   [firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One) - CTF竞赛权威指南
+
+*   [mirror/busybox](https://github.com/mirror/busybox) - BusyBox mirror
+
+*   [gloxec/CrossC2](https://github.com/gloxec/CrossC2) - generate CobaltStrike's cross-platform payload
+
+*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
+
+*   [newsoft/adduser](https://github.com/newsoft/adduser) - Programmatically create an administrative user under Windows
+
+*   [n0b0dyCN/redis-rogue-server](https://github.com/n0b0dyCN/redis-rogue-server) - Redis(<=5.0.5) RCE
+
+*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
+
+*   [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
+
+*   [lengjibo/FourEye](https://github.com/lengjibo/FourEye) - AV Evasion Tool For Red Team Ops
+
+*   [phra/PEzor](https://github.com/phra/PEzor) - Open-Source Shellcode & PE Packer
+
+*   [mai1zhi2/ShellCodeFramework](https://github.com/mai1zhi2/ShellCodeFramework) - 绕3环的shellcode免杀框架
+
+*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 
 ## Shell
 
@@ -3036,7 +3074,7 @@
 
 *   [yutianqaq/x1Ldr](https://github.com/yutianqaq/x1Ldr) - XOR 加密 分离免杀
 
-*   [d1rkmtrr/TakeMyRDP](https://github.com/d1rkmtrr/TakeMyRDP) - A keystroke logger targeting the Remote Desktop Protocol (RDP) related processes, It utilizes a low-level keyboard input hook, allowing it to record keystrokes in certain contexts (like in mstsc.exe and CredentialUIBroker.exe)
+*   [SaadAhla/TakeMyRDP](https://github.com/SaadAhla/TakeMyRDP) - A keystroke logger targeting the Remote Desktop Protocol (RDP) related processes, It utilizes a low-level keyboard input hook, allowing it to record keystrokes in certain contexts (like in mstsc.exe and CredentialUIBroker.exe)
 
 *   [Yeuoly/0xUBypass](https://github.com/Yeuoly/0xUBypass) - AntiAV shellcode loader
 
@@ -3064,7 +3102,7 @@
 
 *   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 
-*   [d1rkmtrr/FilelessPELoader](https://github.com/d1rkmtrr/FilelessPELoader) - Loading Remote AES Encrypted PE in memory , Decrypted it and run it
+*   [SaadAhla/FilelessPELoader](https://github.com/SaadAhla/FilelessPELoader) - Loading Remote AES Encrypted PE in memory , Decrypted it and run it
 
 *   [baiyies/CppWeixinHunter](https://github.com/baiyies/CppWeixinHunter) - 微信解密 c++实现。可获取自己电脑上已登录微信的微信号，wxid，手机号，sqlite解密密钥。Search information of Wechat from memory.
 
@@ -3120,8 +3158,6 @@
 
 *   [huoji120/DuckMemoryScan](https://github.com/huoji120/DuckMemoryScan) - 检测绝大部分所谓的内存免杀马
 
-*   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
-
 ## Dockerfile
 
 *   [y0ngb1n/dockerized](https://github.com/y0ngb1n/dockerized) - 🐳 Build once, run anywhere
@@ -3141,42 +3177,6 @@
 *   [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 
 *   [AntSwordProject/AntSword-Labs](https://github.com/AntSwordProject/AntSword-Labs) - Awesome environment for antsword tests
-
-## PowerShell
-
-*   [9bie/Slacker](https://github.com/9bie/Slacker) - 懒鬼插件/审计过的后的渗透插件/我凭本事打的SESSION凭什么还要我自己动手后渗透？
-
-*   [D13Xian/CobaltStrike-KunKun](https://github.com/D13Xian/CobaltStrike-KunKun) - 坤坤CS 基于CobaltStrike cat 4.5二开项目 添加反沙箱、反测绘。集成常用后渗透插件，开箱即用
-
-*   [arch3rPro/PST-Bucket](https://github.com/arch3rPro/PST-Bucket) - Scoop-Buket for Penetration Suite Toolkit  -  Windows渗透测试工具仓库For Scoop
-
-*   [V-i-x-x/AMSI-WRITE-RAID-BYPASS](https://github.com/V-i-x-x/AMSI-WRITE-RAID-BYPASS) - "AMSI WRITE RAID" Vulnerability that leads to an effective AMSI BYPASS
-
-*   [yanghaoi/CobaltStrike\_CNA](https://github.com/yanghaoi/CobaltStrike_CNA) - 使用多种WinAPI进行权限维持的CobaltStrike脚本，包含API设置系统服务，设置计划任务，管理用户等。
-
-*   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
-
-*   [senzee1984/Amsi\_Bypass\_In\_2023](https://github.com/senzee1984/Amsi_Bypass_In_2023) - Amsi Bypass payload that works on Windwos 11
-
-*   [Lucifer1993/PLtools](https://github.com/Lucifer1993/PLtools) - 整理一些内网常用渗透小工具
-
-*   [x0xr00t/Automated-MUlti-UAC-Bypass](https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass) - Automated Multi UAC BYPASS for win10|win11|win12-pre-release|ws2019|ws2022
-
-*   [k8gege/K8tools](https://github.com/k8gege/K8tools) - K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)
-
-*   [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) - Six Degrees of Domain Admin
-
-*   [QAX-A-Team/EventLogMaster](https://github.com/QAX-A-Team/EventLogMaster) - Cobalt Strike插件 - RDP日志取证&清除
-
-*   [rsmudge/ElevateKit](https://github.com/rsmudge/ElevateKit) - The Elevate Kit demonstrates how to use third-party privilege escalation attacks with Cobalt Strike's Beacon payload.
-
-*   [dafthack/DomainPasswordSpray](https://github.com/dafthack/DomainPasswordSpray) - DomainPasswordSpray is a tool written in PowerShell to perform a password spray attack against users of a domain. By default it will automatically generate the userlist from the domain. BE VERY CAREFUL NOT TO LOCKOUT ACCOUNTS!
-
-*   [QAX-A-Team/CobaltStrike-Toolset](https://github.com/QAX-A-Team/CobaltStrike-Toolset) - Aggressor Script, Kits, Malleable C2 Profiles, External C2 and so on
-
-*   [lintstar/LSTAR](https://github.com/lintstar/LSTAR) - LSTAR - CobaltStrike 综合后渗透插件
-
-*   [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 
 ## Rust
 
