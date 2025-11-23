@@ -940,8 +940,6 @@
 
 *   [iSee857/CVE-PoC](https://github.com/iSee857/CVE-PoC) -
 
-*   [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry) - ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes
-
 *   [Aabyss-Team/ARL](https://github.com/Aabyss-Team/ARL) - ARL官方仓库备份项目：ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
 
 *   [adysec/ARL](https://github.com/adysec/ARL) - ARL 资产侦察灯塔系统（可运行，添加指纹，提高并发，升级工具及系统，无限制修改版） | ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
@@ -2217,6 +2215,8 @@
 *   [cmluZw/WxDump](https://github.com/cmluZw/WxDump) - GO语言写的微信全版本聊天记录导出，红队工具，用于在cs上线后无需交互的导出微信聊天记录，进行更进一步的信息收集
 
 *   [z-bool/Venom-JWT](https://github.com/z-bool/Venom-JWT) - 针对JWT渗透开发的漏洞验证/密钥爆破工具，针对CVE-2015-9235/空白密钥/未验证签名攻击/CVE-2016-10555/CVE-2018-0114/CVE-2020-28042的结果生成用于FUZZ，也可使用字典/字符枚举(包括JJWT)的方式进行爆破(JWT Crack)
+
+*   [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry) - ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes
 
 *   [Ne0nd0g/go-clr](https://github.com/Ne0nd0g/go-clr) - A PoC package for hosting the CLR and executing .NET from Go
 
