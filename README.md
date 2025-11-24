@@ -134,6 +134,8 @@
 
 *   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 
+*   [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
+
 ## miscellaneous
 
 *   [Hxnxe/CyberSentinel-AI](https://github.com/Hxnxe/CyberSentinel-AI) - CyberSentinel AI 是一个自动化安全监控与AI分析系统
@@ -150,7 +152,7 @@
 
 *   [vam876/FastWLAT](https://github.com/vam876/FastWLAT) - FastWLAT (Fast Web Log Analysis Tool) 是基于 Electron + Vue 3 构建的跨平台高性能 Web 日志分析工具，支持本地内存模式与 Redis 分布式处理，专为海量WEB日志分析场景设计。提供日志解析、威胁规则引擎、可视化仪表盘及树状聚合分析，优化了百万级数据的导入速度与查询性能，助力网络安全人员快速洞察访问流量与安全威胁。支持 Windows/macOS/Linux，开箱即用。
 
-*   [0x7556/wolfshell](https://github.com/0x7556/wolfshell) - 金刚狼：首款支持内网级联的ASPX高级WebShell管理工具，内存加载多个内网渗透工具，无代理无文件落地后渗透
+*   [0x7556/wolfshell](https://github.com/0x7556/wolfshell) - 金刚狼：首款支持多层内网级联的ASPX、ASHX高级WebShell管理工具，AES加密通信，无需代理，内存加载渗透工具，无文件落地隐蔽渗透目标，动态代码执行，ShellCode加载(Metasploit/Cobalt Strike)，反弹Shell，Socks代理，内存马
 
 *   [h00klod0er/java-memshell-generator-Godzilla-custom](https://github.com/h00klod0er/java-memshell-generator-Godzilla-custom) - 哥斯拉插件，自定义内存马注入器，java-memshell-generator-Godzilla-custom  ， 参考jmg-for-Godzilla项目，因为原插件没有自定义内存马注入的功能，所以顺手加了个，可输入base64字节码进行注入，感谢 1ucky7师傅
 
@@ -230,7 +232,7 @@
 
 *   [shack2/skyscorpion](https://github.com/shack2/skyscorpion) - 新版将不再对外公开发布。天蝎权限管理工具采用Java平台的JavaFX技术开发的桌面客户端，支持跨平台运行，目前基于JDK1.8开发，运行必须安装JDK或JRE 1.8，注意不能是open jdk，只能是oracle的jdk。 天蝎权限管理工具基于冰蝎加密流量进行WebShell通信管理的原理，目前实现了jsp、aspx、php、asp端的常用操作功能，在原基础上，优化了大文件上传下载、Socket代理的问题，修改了部分API接口代码。
 
-*   [kk12-30/JSSS-Find](https://github.com/kk12-30/JSSS-Find) - 一个自动化js提取、Api接口测试、暴露端点检测工具
+*   [kk12-30/JSSS-Find](https://github.com/kk12-30/JSSS-Find) - 让JavaScript资产分析变得简单而强大
 
 *   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 
@@ -1577,8 +1579,6 @@
 *   [AV1080p/solana-copy-sniper-trading-bot](https://github.com/AV1080p/solana-copy-sniper-trading-bot) - solana copy sniper trading bot with zero latency, pump fun, pump swap, raydium launchpad, cpmm, clmm, meteora dbc, pumpfun  mev
 
 *   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-
-*   [emo-crab/observer\_ward](https://github.com/emo-crab/observer_ward) - 侦查守卫(observer\_ward)Web应用和服务指纹识别工具
 
 *   [0x727/FingerprintHub](https://github.com/0x727/FingerprintHub) - 侦查守卫(ObserverWard)的指纹库
 
