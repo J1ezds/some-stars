@@ -64,7 +64,7 @@
 
 *   [evi0s/WMPFDebugger](https://github.com/evi0s/WMPFDebugger) - Yet another WeChat miniapp debugger on Windows
 
-*   [lintsinghua/XCodeReviewer](https://github.com/lintsinghua/XCodeReviewer) - XCodeReviewer 是一款基于大语言模型（LLM）的智能审计工具，支持 GPT、Claude、Gemini、通义千问、DeepSeek、Ollama 等十余主流 AI 模型。它能够自动检测代码中的安全漏洞、性能问题和代码异味，显著提升代码质量与安全性。XCodeReviewer 支持 GitHub/GitLab 集成，可无缝嵌入 CI/CD 流程，实现自动化代码审查与持续安全保障，同时兼容十多种编程语言，满足多样化项目需求。
+*   [lintsinghua/XCodeReviewer](https://github.com/lintsinghua/XCodeReviewer) - 基于LLM的智能代码审计工具
 
 *   [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 
@@ -667,8 +667,6 @@
 *   [xairy/vmware-exploitation](https://github.com/xairy/vmware-exploitation) - A collection of links related to VMware escape exploits
 
 *   [Syasuker/OnJava8-zh](https://github.com/Syasuker/OnJava8-zh) - OnJava8 中文翻译，又名《Java编程思想》 第5版
-
-*   [angels520/rebeyond-Mode](https://github.com/angels520/rebeyond-Mode) - 修改版rebeyond
 
 *   [r0eXpeR/supplier](https://github.com/r0eXpeR/supplier) - 主流供应商的一些攻击性漏洞汇总
 
@@ -1503,6 +1501,8 @@
 *   [oddcod3/Phantom-Evasion](https://github.com/oddcod3/Phantom-Evasion) - Python antivirus evasion tool
 
 *   [a76yyyy/ipdata](https://github.com/a76yyyy/ipdata) - 纯真IP数据库镜像 / ZXinc\_IPv6数据库镜像及MySQL脚本同步更新 for Python3
+
+*   [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
 
 ## Swift
 
