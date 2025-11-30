@@ -1599,7 +1599,7 @@
 
 *   [xcanwin/CVE-2023-4357-Chrome-XXE](https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE) - \[漏洞复现] 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.
 
-*   [ybdt/exp-hub](https://github.com/ybdt/exp-hub) - 漏洞复现
+*   [ybdt/exp-hub](https://github.com/ybdt/exp-hub) - Poc and Exp
 
 *   [L0k1-F/src](https://github.com/L0k1-F/src) - 漏洞报告已脱敏
 
@@ -1621,7 +1621,7 @@
 
 *   [Andy0619/Commercial-Cryptography-Evaluation](https://github.com/Andy0619/Commercial-Cryptography-Evaluation) - 该系统主要功能就是从本地读取 excel 中的数据然后出题，然后作答，主要是增加了随机作答和顺序作答，还有题型选择，这样大家可以一边记忆一边测试。
 
-*   [ybdt/pentest-hub](https://github.com/ybdt/pentest-hub) - Web打点
+*   [ybdt/pentest-hub](https://github.com/ybdt/pentest-hub) - Penetration Testing
 
 *   [p1n93r/SpringBootAdmin-thymeleaf-SSTI](https://github.com/p1n93r/SpringBootAdmin-thymeleaf-SSTI) - SpringBootAdmin-thymeleaf-SSTI which can cause RCE
 
@@ -2749,7 +2749,7 @@
 
 *   [CDipper/Beacon](https://github.com/CDipper/Beacon) - 使用C简单重构Beacon，适配CobaltStrike客户端
 
-*   [ybdt/evasion-hub](https://github.com/ybdt/evasion-hub) - AV / EDR / XDR Evasion
+*   [ybdt/evasion-hub](https://github.com/ybdt/evasion-hub) - AV/EDR Evasion
 
 *   [Logkiss/Rat-winos4.0-gh0st](https://github.com/Logkiss/Rat-winos4.0-gh0st) - 免杀远控木马源码整理开源(银狐 winos 大灰狼  gh0st)  Rat
 
