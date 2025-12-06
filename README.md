@@ -63,6 +63,8 @@
 
 ## Python
 
+*   [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) - Explanation and full RCE PoC for CVE-2025-55182
+
 *   [Valerian7/AI\_JS\_DEBUGGER](https://github.com/Valerian7/AI_JS_DEBUGGER) - 基于Chrome开发者协议(CDP)的AI自动化JavaScript逆向分析工具
 
 *   [RuoJi6/fuzzhound](https://github.com/RuoJi6/fuzzhound) - FuzzHound是一款专为 API 安全测试设计的智能 Fuzz 工具，支持 Swagger/OpenAPI 文档自动解析，提供多种 Fuzz 模式和漏洞检测能力。像猎犬一样嗅探 API 中的安全漏洞！
@@ -2298,8 +2300,6 @@
 *   [smxiazi/NEW\_xp\_CAPTCHA](https://github.com/smxiazi/NEW_xp_CAPTCHA) - xp\_CAPTCHA(瞎跑 白嫖版) burp 验证码 识别 burp插件
 
 *   [c0ny1/chunked-coding-converter](https://github.com/c0ny1/chunked-coding-converter) - Burp suite 分块传输辅助插件
-
-*   [1n7erface/PocList](https://github.com/1n7erface/PocList) - Alibaba-Nacos-Unauthorized/ApacheDruid-RCE\_CVE-2021-25646/MS-Exchange-SSRF-CVE-2021-26885/Oracle-WebLogic-CVE-2021-2109\_RCE/RG-CNVD-2021-14536/RJ-SSL-VPN-UltraVires/Redis-Unauthorized-RCE/TDOA-V11.7-GetOnlineCookie/VMware-vCenter-GetAnyFile/yongyou-GRP-U8-XXE/Oracle-WebLogic-CVE-2020-14883/Oracle-WebLogic-CVE-2020-14882/Apache-Solr-GetAnyFile/F5-BIG-IP-CVE-2021-22986/Sonicwall-SSL-VPN-RCE/GitLab-Graphql-CNVD-2021-14193/D-Link-DCS-CVE-2020-25078/WLAN-AP-WEA453e-RCE/360TianQing-Unauthorized/360TianQing-SQLinjection/FanWeiOA-V8-SQLinjection/QiZhiBaoLeiJi-AnyUserLogin/QiAnXin-WangKangFirewall-RCE/金山-V8-终端安全系统/NCCloud-SQLinjection/ShowDoc-RCE
 
 ## TypeScript
 
