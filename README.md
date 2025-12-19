@@ -1505,8 +1505,6 @@
 
 *   [x1hy9/WeChatUserDB](https://github.com/x1hy9/WeChatUserDB) - GetWeChat DBPassword&\&UserInfo(获取PC数据库密码以及相关微信用户信息支持多系统数据库解密)
 
-*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、翻墙-科学上网-梯子
-
 *   [Aabyss-Team/awsKeyTools](https://github.com/Aabyss-Team/awsKeyTools) - AWS云平台 AccessKey 泄漏利用工具
 
 *   [sectest2024/jsinfo-scan](https://github.com/sectest2024/jsinfo-scan) - jsinfo-scan简单改版，增加了swagger、druid目录扫描和手机号、身份证号敏感信息匹配
@@ -1868,6 +1866,8 @@
 *   [pureqh/webshell](https://github.com/pureqh/webshell) - 免杀webshell生成工具
 
 *   [mrknow001/aliyun-accesskey-Tools](https://github.com/mrknow001/aliyun-accesskey-Tools) - 阿里云accesskey利用工具
+
+*   [Threezh1/JSFinder](https://github.com/Threezh1/JSFinder) - JSFinder is a tool for quickly extracting URLs and subdomains from JS files on a website.
 
 ## JavaScript
 
