@@ -1209,7 +1209,7 @@
 
 *   [RuoJi6/fuzzhound](https://github.com/RuoJi6/fuzzhound) - FuzzHound是一款专为 API 安全测试设计的智能 Fuzz 工具，支持 Swagger/OpenAPI 文档自动解析，提供多种 Fuzz 模式和漏洞检测能力。像猎犬一样嗅探 API 中的安全漏洞！
 
-*   [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。​让安全不再昂贵，让审计不再复杂。
+*   [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。​让安全不再昂贵，让审计不再复杂。
 
 *   [cwkiller/xxe-smb-server](https://github.com/cwkiller/xxe-smb-server) - 在xxe中使用smb外带多行内容
 
