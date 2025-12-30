@@ -1539,6 +1539,8 @@
 
 *   [evilc0deooo/SwaggerHound](https://github.com/evilc0deooo/SwaggerHound) - 自动化检测 Swagger API 接口未授权访问漏洞工具
 
+*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+
 *   [GrassWorkshop/wxapkg\_infosearch](https://github.com/GrassWorkshop/wxapkg_infosearch) - 一款微信小程序源码包信息收集工具，根据已有项目改编
 
 *   [T3nk0/Upload\_Auto\_Fuzz](https://github.com/T3nk0/Upload_Auto_Fuzz) - 一个用于测试文件上传功能安全性的 Burp Suite 插件。通过 Intruder 模块自动生成各类绕过 payload，覆盖常见的文件上传限制场景。共1000+条payload
@@ -1645,7 +1647,7 @@
 
 *   [AabyssZG/Raster-Terminator](https://github.com/AabyssZG/Raster-Terminator) - CTF之光栅图秒杀器
 
-*   [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
+*   [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - Automated Penetration Testing Agentic Framework Powered by Large Language Models
 
 *   [thedarknessdied/CVE-2023-4169\_CVE-2023-3306\_CVE-2023-4415](https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415) - Ruijie-RG-EW1200G CVE-2023-4169\_CVE-2023-3306\_CVE-2023-4415
 
@@ -2718,8 +2720,6 @@
 *   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 *   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
-
-*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
 *   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 
