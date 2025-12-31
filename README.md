@@ -353,8 +353,6 @@
 
 *   [x3t2con/Rttools-2](https://github.com/x3t2con/Rttools-2) - 项目内包含工具涉及类别：漏洞利用工具、代审辅助、漏洞利用、靶场环境项目地址列表、漏洞扫描/序列化、密码/隧道项目地址链接、免杀项目地址列表、内网项目地址链接、应急响应项目地址列表、木马查杀、中间件工具项目链接、字典/钓鱼/社工/爆破项目目地址链接、自动化/资产项目链接、子域名/目录/指纹地址
 
-*   [xxxxxxxx666/WeChatDevTools](https://github.com/xxxxxxxx666/WeChatDevTools) -  只需放置一个dll  简单方便的hook微信强制打开小程序 devtool
-
 *   [RipplePiam/MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) - MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】
 
 *   [sulab999/AppMessenger](https://github.com/sulab999/AppMessenger) - 一款适用于以APP病毒分析、APP漏洞挖掘、APP开发、HW行动/红队/渗透测试团队为场景的移动端(Android、iOS、鸿蒙)辅助分析工具
@@ -1206,6 +1204,8 @@
 *   [kyxiaxiang/TcpNsiKill](https://github.com/kyxiaxiang/TcpNsiKill) - Simulate per-process disconnection in red team environments
 
 *   [MentalityXt/bypassAV](https://github.com/MentalityXt/bypassAV) - 免杀shellcode加载器
+
+*   [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) -
 
 *   [Rvn0xsy/BadCode](https://github.com/Rvn0xsy/BadCode) - 恶意代码逃逸源代码 http://payloads.online
 
@@ -2090,6 +2090,8 @@
 *   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 
 *   [qigpig/MysqlHoneypot](https://github.com/qigpig/MysqlHoneypot) -   Use MySQL honeypot to get wechat ID
+
+*   [pureqh/webshell](https://github.com/pureqh/webshell) - 免杀webshell生成工具
 
 ## Dockerfile
 
@@ -3008,8 +3010,6 @@
 *   [LaPhilosophie/hello-rootkit](https://github.com/LaPhilosophie/hello-rootkit) - 一个基于LKM的Linux内核级rootkit的实现，包含模块隐藏、提权、文件隐藏、进程隐藏、端口隐藏功能
 
 *   [paokuwansui/Antivirus\_killer](https://github.com/paokuwansui/Antivirus_killer) - 免杀主流防病毒软件
-
-*   [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) -
 
 *   [Adaptix-Framework/Extension-Kit](https://github.com/Adaptix-Framework/Extension-Kit) - AdaptixFramework Extension Kit
 
