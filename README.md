@@ -427,8 +427,6 @@
 
 *   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 
-*   [payloadbox/xxe-injection-payload-list](https://github.com/payloadbox/xxe-injection-payload-list) - 🎯 XML External Entity (XXE) Injection Payload List
-
 *   [izj007/wechat](https://github.com/izj007/wechat) - 微信收藏的文章
 
 *   [al0ne/suricata-rules](https://github.com/al0ne/suricata-rules) - Suricata IDS rules 用来检测红队渗透/恶意行为等，支持检测CobaltStrike/MSF/Empire/DNS隧道/Weevely/菜刀/冰蝎/挖矿/反弹shell/ICMP隧道等
@@ -2940,6 +2938,8 @@
 *   [cckuailong/vulbase](https://github.com/cckuailong/vulbase) - 各大漏洞文库合集
 
 *   [0dayCTF/reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) - Hosted Reverse Shell generator with a ton of functionality. -- (Great for CTFs)
+
+*   [gh0stkey/Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box) - Web Fuzzing Box - Web 模糊测试字典与一些Payloads
 
 ## Vue
 
