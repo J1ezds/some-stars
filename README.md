@@ -63,6 +63,8 @@
 
 ## Java
 
+*   [KaGty1/CustomMemShellInjector](https://github.com/KaGty1/CustomMemShellInjector) - 哥斯拉Godzilla定制化插件，接收恶意类Base64编码与恶意类类名进行实例化，达到注入任意类型内存马的目的。
+
 *   [cwkiller/ClassLinefix](https://github.com/cwkiller/ClassLinefix) - Java bytecode line number restoration tool
 
 *   [nbauma109/jd-gui-duo](https://github.com/nbauma109/jd-gui-duo) - A 2-in-1 JAVA decompiler based on JD-CORE v0 and v1 supporting 3rd party decompilers CFR, Procyon, Fernflower, Vineflower & Jadx.
@@ -1169,8 +1171,6 @@
 
 *   [threatexpress/cs2modrewrite](https://github.com/threatexpress/cs2modrewrite) - Convert Cobalt Strike profiles to modrewrite scripts
 
-*   [sv3nbeast/ShiroScan](https://github.com/sv3nbeast/ShiroScan) - Shiro<=1.2.4反序列化，一键检测工具
-
 ## miscellaneous
 
 *   [onewinner/Lightx](https://github.com/onewinner/Lightx) - Lightx 是一款轻量级、高效率的网络安全扫描工具，专为安全研究人员和渗透测试工程师设计。它集成了端口扫描、服务识别、Web指纹识别、漏洞扫描和弱口令检测等功能，提供全面的安全评估能力。并覆盖多数两高一弱场景。
@@ -1509,7 +1509,7 @@
 
 *   [Xposed-Modules-Repo/fuck.location](https://github.com/Xposed-Modules-Repo/fuck.location) - 虚拟定位 / Fuck Location
 
-*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
+*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
 
 *   [0x727/CloudSandbox](https://github.com/0x727/CloudSandbox) - 收集云沙箱上线C2的ip，如微X、奇XX、3X0、virustX等
 
@@ -2329,7 +2329,7 @@
 
 *   [jan-bar/EncryptionFile](https://github.com/jan-bar/EncryptionFile) - 一种安全加密数据的方式，数据可以实现自校验，防止数据损坏和篡改（A way to securely encrypt data, the data can be self-verified to prevent data damage and tampering）
 
-*   [Yv1ren/go-impacket](https://github.com/Yv1ren/go-impacket) - 基于golang实现的impacket
+*   [amzza0x00/go-impacket](https://github.com/amzza0x00/go-impacket) - 基于golang实现的impacket
 
 *   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 
@@ -2717,7 +2717,7 @@
 
 *   [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 
-*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀 AI Prompt Library & Productivity Booster | 3000+ ready-to-use prompts | 12 Languages | AI 提示词管理工具
+*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。
 
 *   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
@@ -2847,7 +2847,7 @@
 
 *   [vi3t1/qq-tim-elevation](https://github.com/vi3t1/qq-tim-elevation) - CVE-2023-34312
 
-*   [AV1080p/Solana-Sniper-Bot](https://github.com/AV1080p/Solana-Sniper-Bot) - solana sniper bot https://www.upwork.com/freelancers/~01980cdf2228aec2a1
+*   [AV1080p/Solana-Sniper-Bot](https://github.com/AV1080p/Solana-Sniper-Bot) - solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot
 
 *   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
