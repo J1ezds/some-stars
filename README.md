@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [PHP](#php)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -20,7 +21,6 @@
 *   [Hack](#hack)
 *   [Dockerfile](#dockerfile)
 *   [Swift](#swift)
-*   [Rust](#rust)
 *   [HTML](#html)
 *   [Vue](#vue)
 *   [PowerShell](#powershell)
@@ -61,6 +61,70 @@
 *   [Stylus](#stylus)
 *   [Perl](#perl)
 *   [AutoIt](#autoit)
+
+## Rust
+
+*   [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+
+*   [ege0x77czz/rust-native-obf](https://github.com/ege0x77czz/rust-native-obf) -
+
+*   [adysec/rusub](https://github.com/adysec/rusub) - rusub 是一款高速、智能的跨平台子域枚举工具，支持启发式扫描、内置 10 万+ 词表、异步高并发、多格式输出及自动断点续传。
+
+*   [afaa1991/BetterWX-UI](https://github.com/afaa1991/BetterWX-UI) - 微信|企业微信 多开、防撤回提示、多账号免扫码登录的终极解决方案
+
+*   [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
+
+*   [fdx-xdf/Rust\_Beacon](https://github.com/fdx-xdf/Rust_Beacon) - 使用 rust 实现 CobaltStrike 的 beacon || Using Rust to implement CobaltStrike's Beacon
+
+*   [hahwul/jwt-hack](https://github.com/hahwul/jwt-hack) - JSON Web Token Hack Toolkit
+
+*   [editso/fuso](https://github.com/editso/fuso) - 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, and transmission encryption)
+
+*   [winfunc/deepreasoning](https://github.com/winfunc/deepreasoning) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
+
+*   [A10ha/ICPSearch](https://github.com/A10ha/ICPSearch) - ICP 备案批量查询工具
+
+*   [86maid/ddddocr](https://github.com/86maid/ddddocr) - ddddocr rust 版本，ocr\_api\_server rust 版本，二进制版本，验证码识别，不依赖 opencv 库，跨平台运行，AI MCP 支持，a simple OCR API server, very easy to deploy。
+
+*   [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
+
+*   [jiayuqi7813/Stegsolve-rs](https://github.com/jiayuqi7813/Stegsolve-rs) - StegSolve-rs 是一个基于 Rust + egui 重构的图像隐写分析工具，复刻重构了StegSolve
+
+*   [qi4L/sRDI-rs](https://github.com/qi4L/sRDI-rs) - Rust 重构的 sRDI
+
+*   [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
+
+*   [YDHCUI/buut](https://github.com/YDHCUI/buut) - 一款使用rust开发的高性能正反向隧道代理工具，基于多路复用技术。
+
+*   [Pizz33/JoJoLoader](https://github.com/Pizz33/JoJoLoader) - 助力红队成员一键生成免杀木马，使用rust实现 | Help Redteam members generate Evasive Anti-virus software Trojan
+
+*   [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy) - Tunnel (TUN) interface for SOCKS and HTTP proxies
+
+*   [0xlane/wechat-dump-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
+
+*   [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
+
+*   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+
+*   [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
+
+*   [b1nhack/rust-shellcode](https://github.com/b1nhack/rust-shellcode) - windows-rs shellcode loaders
+
+*   [Sndav/WeChatDB-Rust](https://github.com/Sndav/WeChatDB-Rust) - 用Rust语言编写，使用特征值从微信内存中提取数据库密钥的工具
+
+*   [vi3t1/qq-tim-elevation](https://github.com/vi3t1/qq-tim-elevation) - CVE-2023-34312
+
+*   [AV1080p/Solana-Sniper-Bot](https://github.com/AV1080p/Solana-Sniper-Bot) - solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot
+
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
+*   [0x727/FingerprintHub](https://github.com/0x727/FingerprintHub) - 侦查守卫(ObserverWard)的指纹库
+
+*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [0Chencc/CTFCrackTools](https://github.com/0Chencc/CTFCrackTools) - The next-generation CTF Swiss Army Knife powered by Rust & Tauri. Features a visual node-based workflow and local AI intelligence for extreme performance and automation.China's first CTFTools framework.
 
 ## PHP
 
@@ -815,8 +879,6 @@
 *   [airob0t/idcardgenerator](https://github.com/airob0t/idcardgenerator) - 身份证图片生成工具 generate an id card picture
 
 *   [pureqh/bypasswaf](https://github.com/pureqh/bypasswaf) - 关于安全狗和云锁的自动化绕过脚本
-
-*   [Hypdncy/NessusToReport](https://github.com/Hypdncy/NessusToReport) - Nessus扫描报告自动化生成工具
 
 ## TypeScript
 
@@ -2801,68 +2863,6 @@
 *   [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 
 *   [AppHouseKitchen/AlDente-Battery\_Care\_and\_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
-
-## Rust
-
-*   [ege0x77czz/rust-native-obf](https://github.com/ege0x77czz/rust-native-obf) -
-
-*   [adysec/rusub](https://github.com/adysec/rusub) - rusub 是一款高速、智能的跨平台子域枚举工具，支持启发式扫描、内置 10 万+ 词表、异步高并发、多格式输出及自动断点续传。
-
-*   [afaa1991/BetterWX-UI](https://github.com/afaa1991/BetterWX-UI) - 微信|企业微信 多开、防撤回提示、多账号免扫码登录的终极解决方案
-
-*   [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
-
-*   [fdx-xdf/Rust\_Beacon](https://github.com/fdx-xdf/Rust_Beacon) - 使用 rust 实现 CobaltStrike 的 beacon || Using Rust to implement CobaltStrike's Beacon
-
-*   [hahwul/jwt-hack](https://github.com/hahwul/jwt-hack) - JSON Web Token Hack Toolkit
-
-*   [editso/fuso](https://github.com/editso/fuso) - 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, and transmission encryption)
-
-*   [winfunc/deepreasoning](https://github.com/winfunc/deepreasoning) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
-
-*   [A10ha/ICPSearch](https://github.com/A10ha/ICPSearch) - ICP 备案批量查询工具
-
-*   [86maid/ddddocr](https://github.com/86maid/ddddocr) - ddddocr rust 版本，ocr\_api\_server rust 版本，二进制版本，验证码识别，不依赖 opencv 库，跨平台运行，AI MCP 支持，a simple OCR API server, very easy to deploy。
-
-*   [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
-
-*   [jiayuqi7813/Stegsolve-rs](https://github.com/jiayuqi7813/Stegsolve-rs) - StegSolve-rs 是一个基于 Rust + egui 重构的图像隐写分析工具，复刻重构了StegSolve
-
-*   [qi4L/sRDI-rs](https://github.com/qi4L/sRDI-rs) - Rust 重构的 sRDI
-
-*   [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
-
-*   [YDHCUI/buut](https://github.com/YDHCUI/buut) - 一款使用rust开发的高性能正反向隧道代理工具，基于多路复用技术。
-
-*   [Pizz33/JoJoLoader](https://github.com/Pizz33/JoJoLoader) - 助力红队成员一键生成免杀木马，使用rust实现 | Help Redteam members generate Evasive Anti-virus software Trojan
-
-*   [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy) - Tunnel (TUN) interface for SOCKS and HTTP proxies
-
-*   [0xlane/wechat-dump-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
-
-*   [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
-
-*   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
-
-*   [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
-
-*   [b1nhack/rust-shellcode](https://github.com/b1nhack/rust-shellcode) - windows-rs shellcode loaders
-
-*   [Sndav/WeChatDB-Rust](https://github.com/Sndav/WeChatDB-Rust) - 用Rust语言编写，使用特征值从微信内存中提取数据库密钥的工具
-
-*   [vi3t1/qq-tim-elevation](https://github.com/vi3t1/qq-tim-elevation) - CVE-2023-34312
-
-*   [AV1080p/Solana-Sniper-Bot](https://github.com/AV1080p/Solana-Sniper-Bot) - solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot
-
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-
-*   [0x727/FingerprintHub](https://github.com/0x727/FingerprintHub) - 侦查守卫(ObserverWard)的指纹库
-
-*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-*   [0Chencc/CTFCrackTools](https://github.com/0Chencc/CTFCrackTools) - The next-generation CTF Swiss Army Knife powered by Rust & Tauri. Features a visual node-based workflow and local AI intelligence for extreme performance and automation.China's first CTFTools framework.
 
 ## HTML
 
