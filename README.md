@@ -50,6 +50,7 @@
 *   [SCSS](#scss)
 *   [Markdown](#markdown)
 *   [ASP.NET](#aspnet)
+*   [YAML](#yaml)
 *   [Objective-C++](#objective-c-1)
 *   [Rich Text Format](#rich-text-format)
 *   [XSLT](#xslt)
@@ -2912,8 +2913,6 @@
 
 *   [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme.
 
-*   [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.
-
 *   [satan1a/awesome-cybersecurity-blueteam-cn](https://github.com/satan1a/awesome-cybersecurity-blueteam-cn) - 网络安全 · 攻防对抗 · 蓝队清单，中文版
 
 *   [Lerist/FakeLocation](https://github.com/Lerist/FakeLocation) - Fake Location
@@ -3521,6 +3520,10 @@
 ## ASP.NET
 
 *   [sectest2024/leakinfo\_finder](https://github.com/sectest2024/leakinfo_finder) -
+
+## YAML
+
+*   [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.
 
 ## Objective-C++
 
