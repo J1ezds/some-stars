@@ -1677,7 +1677,7 @@
 
 *   [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天导出和年度报告应用
 
-*   [ReaJason/No-one](https://github.com/ReaJason/No-one) - Next Generation Java WebShell Manager
+*   [ReaJason/No-One](https://github.com/ReaJason/No-One) - Next Generation Java WebShell Manager
 
 *   [yyhuni/xingrin](https://github.com/yyhuni/xingrin) - src资产管理漏洞扫描平台，子域名爆破，端口扫描，站点发现，目录扫描，爬虫，漏洞扫描
 
@@ -1794,8 +1794,6 @@
 *   [Pizz33/JoJoLoader](https://github.com/Pizz33/JoJoLoader) - 助力红队成员一键生成免杀木马，使用rust实现 | Help Redteam members generate Evasive Anti-virus software Trojan
 
 *   [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy) - Tunnel (TUN) interface for SOCKS and HTTP proxies
-
-*   [0xlane/wechat-dump-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
 
 *   [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
 
@@ -2634,6 +2632,8 @@
 *   [chompie1337/SMBGhost\_RCE\_PoC](https://github.com/chompie1337/SMBGhost_RCE_PoC) -
 
 *   [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
+
+*   [TheKingOfDuck/fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts) - You Know, For WEB Fuzzing !
 
 ## Java
 
