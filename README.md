@@ -34,6 +34,7 @@
 *   [CMake](#cmake)
 *   [Batchfile](#batchfile)
 *   [CSS](#css)
+*   [MDX](#mdx)
 *   [EJS](#ejs)
 *   [NSIS](#nsis)
 *   [CodeQL](#codeql)
@@ -1698,8 +1699,6 @@
 *   [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 
 *   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。
-
-*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 *   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
 
@@ -3626,6 +3625,10 @@
 *   [admin360bug/PHP](https://github.com/admin360bug/PHP) - PHP训练靶场
 
 *   [billie66/TLCL](https://github.com/billie66/TLCL) - 《快乐的 Linux 命令行》
+
+## MDX
+
+*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## EJS
 
