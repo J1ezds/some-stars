@@ -70,6 +70,8 @@
 
 *   [asaotomo/FofaMap](https://github.com/asaotomo/FofaMap) - FofaMap v2.0 是一款基于 Python3 开发的全网首个 AI 驱动红队资产测绘智能体。在延续原有 FOFA 数据采集、存活检测、统计聚合、图标 Hash 及批量查询等核心功能的基础上，2.0 版本原生支持 MCP 协议，可无缝接入 Cursor、Claude 等 AI 平台。其核心内置了 AI 自我反思机制，能根据查询结果自动调优语法，并智能联动 Nuclei 推荐精准扫描策略，实现从“被动采集”到“主动智能决策”的红队作业进化。
 
+*   [RuoJi6/java-audit-skills](https://github.com/RuoJi6/java-audit-skills) - 专注于java代码审计skills
+
 *   [zjeweler/redis\_tools\_GUI](https://github.com/zjeweler/redis_tools_GUI) - redis图形化漏洞利用工具
 
 *   [QiuChenly/ida-pro-mcp-enhancement](https://github.com/QiuChenly/ida-pro-mcp-enhancement) - 二创爆改，懒得提交给原仓库了
@@ -808,8 +810,6 @@
 
 *   [vam876/FastMonitor](https://github.com/vam876/FastMonitor) - FastMonitor是一款基于golang开发的网络流量监控与威胁检测工具，集成了数据包分析、进程关联、会话流统计、威胁检测分析、地理位置可视化等功能于一体。
 
-*   [xiguayiqiu/GYscan](https://github.com/xiguayiqiu/GYscan) - GYscan是一款基于Go语言开发的现代化内网横向渗透测试工具，专为安全研究人员、渗透测试工程师和红队成员设计。项目采用模块化架构，包含C2服务器端和客户端组件，支持Windows和Linux平台，提供系统安全分析和漏洞扫描功能。
-
 *   [lzzbb/Adinfo](https://github.com/lzzbb/Adinfo) - 域信息收集工具
 
 *   [masterqiu01/cross-file-obfuscator](https://github.com/masterqiu01/cross-file-obfuscator) - Go 代码混淆工具，使用 AST (抽象语法树) 技术实现跨文件的代码混淆，同时保证混淆后的代码可编译和可执行。
@@ -1249,8 +1249,6 @@
 ## miscellaneous
 
 *   [duckpigdog/Sec-Interview](https://github.com/duckpigdog/Sec-Interview) - 全网首发！！！最全的网安面试题附参考答案（涵盖护网、红队、逆向、密码学、二进制、AI、区块链）
-
-*   [RuoJi6/java-audit-skills](https://github.com/RuoJi6/java-audit-skills) - 专注于java代码审计skills
 
 *   [FightingLzn9/ShiroExploit](https://github.com/FightingLzn9/ShiroExploit) - Shiro反序列化漏洞一站式综合利用工具
 
@@ -2129,6 +2127,8 @@
 ## C
 
 *   [hackerschoice/gsocket](https://github.com/hackerschoice/gsocket) - Connect like there is no firewall. Securely.
+
+*   [xiguayiqiu/GYscan](https://github.com/xiguayiqiu/GYscan) - GYscan是一款基于Go语言开发的现代化内网横向渗透测试工具，专为安全研究人员、渗透测试工程师和红队成员设计。项目采用模块化架构，包含C2服务器端和客户端组件，支持Windows和Linux平台，提供系统安全分析和漏洞扫描功能。
 
 *   [CDipper/Beacon](https://github.com/CDipper/Beacon) - 使用C简单重构Beacon，适配CobaltStrike客户端
 
