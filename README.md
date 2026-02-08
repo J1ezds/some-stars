@@ -2759,6 +2759,8 @@
 
 *   [l3yx/Java-RASP-Research-Env](https://github.com/l3yx/Java-RASP-Research-Env) - 之前方便自己研究RASP原理和绕过时顺手写的，用于快速启动和重置RASP环境
 
+*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
+
 *   [metowolf/iplist](https://github.com/metowolf/iplist) - IP CIDRs List / IP 地址列表
 
 *   [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
@@ -3520,8 +3522,6 @@
 ## YARA
 
 *   [m-sec-org/d-eyes](https://github.com/m-sec-org/d-eyes) - D-Eyes为M-SEC社区一款检测与响应工具
-
-*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
 *   [wgpsec/whohk](https://github.com/wgpsec/whohk) - whohk，linux下一款强大的应急响应工具  在linux下的应急响应往往需要通过繁琐的命令行来查看各个点的情况，有的时候还需要做一些格式处理，这对于linux下命令不是很熟悉的人比较不友好。本工具将linux下应急响应中常用的一些操作给集合了起来，并处理成了较为友好的格式，只需要通过一个参数就能代替繁琐复杂的命令来实现对各个点的检查。
 
