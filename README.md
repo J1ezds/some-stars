@@ -23,10 +23,10 @@
 *   [PHP](#php)
 *   [Hack](#hack)
 *   [Dockerfile](#dockerfile)
-*   [C#](#c-2)
 *   [Vue](#vue)
 *   [PowerShell](#powershell)
 *   [Shell](#shell)
+*   [C#](#c-2)
 *   [Go Template](#go-template)
 *   [YARA](#yara)
 *   [Kotlin](#kotlin)
@@ -2943,6 +2943,8 @@
 
 *   [hackerschoice/gsocket](https://github.com/hackerschoice/gsocket) - Connect like there is no firewall. Securely.
 
+*   [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
+
 *   [xiguayiqiu/GYscan](https://github.com/xiguayiqiu/GYscan) - GYscan是一款基于Go语言开发的现代化综合渗透测试工具，专为安全研究人员、渗透测试工程师和红队成员设计。项目采用模块化架构，包含C2服务器端和客户端组件，支持Windows和Linux平台，提供系统安全分析和漏洞扫描功能。
 
 *   [CDipper/Beacon](https://github.com/CDipper/Beacon) - 使用C简单重构Beacon，适配CobaltStrike客户端
@@ -3249,154 +3251,6 @@
 
 *   [AntSwordProject/AntSword-Labs](https://github.com/AntSwordProject/AntSword-Labs) - Awesome environment for antsword tests
 
-## C\#
-
-*   [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS TCP and UDP traffic to HTTP/Socks5 proxy
-
-*   [MInggongK/Penetration-mining-src](https://github.com/MInggongK/Penetration-mining-src) - 一款集成了H3C,致远，泛微，万户，帆软，海康威视，金蝶云星空，畅捷通，Struts等多个RCE漏洞利用工具
-
-*   [pwntester/ysoserial.net](https://github.com/pwntester/ysoserial.net) - Deserialization payload generator for a variety of .NET formatters
-
-*   [bcvgh/Kingdee\_erp\_MemShell](https://github.com/bcvgh/Kingdee_erp_MemShell) - 金蝶星空云反序列化漏洞内存马
-
-*   [ChoiSG/SharpSilentChrome](https://github.com/ChoiSG/SharpSilentChrome) - SharpSilentChrome is a C# project that "silently" installs browser extensions on Google Chrome or MS Edge by updating the browsers' Preferences and Secure Preferences files. Currently, it only supports Windows.
-
-*   [simonlee-hello/FuckDoc](https://github.com/simonlee-hello/FuckDoc) - 信息收集工具 对目标机器上的文档进行收集并打包
-
-*   [howmp/WinDump](https://github.com/howmp/WinDump) - 后渗透信息/密码/凭证收集工具
-
-*   [s1null/Sharpmssqluser](https://github.com/s1null/Sharpmssqluser) - C#快速添加删除mssql用户小工具
-
-*   [Conan924/GodInfo](https://github.com/Conan924/GodInfo) - GodInfo 是一个功能全面的后渗透信息和凭据收集工具，旨在帮助安全测试人员在获得授权访问权限后，快速收集目标系统的信息和凭据。
-
-*   [GZTimeWalker/GZCTF](https://github.com/GZTimeWalker/GZCTF) - The GZ::CTF project, an open source CTF platform.
-
-*   [INotGreen/SharpThief](https://github.com/INotGreen/SharpThief) - 一键提取exe的图标、嵌入图标、资源信息、版本信息、修改时间、数字签名，降低程序熵值
-
-*   [lypd0/DeadPotato](https://github.com/lypd0/DeadPotato) - DeadPotato is a windows privilege escalation utility from the Potato family of exploits, leveraging the SeImpersonate right to obtain SYSTEM privileges.        This script has been customized from the original GodPotato source code by BeichenDream.
-
-*   [sorabug/ChangeTimestamp](https://github.com/sorabug/ChangeTimestamp) - 一键修改exe、dll的编译时间、创建时间、修改时间和访问时间
-
-*   [Friends-Security/SharpExclusionFinder](https://github.com/Friends-Security/SharpExclusionFinder) - Tool designed to find folder exclusions using Windows Defender using command line utility MpCmdRun.exe as a low privileged user, without relying on event logs
-
-*   [mai1zhi2/SharpBeacon](https://github.com/mai1zhi2/SharpBeacon) - CobaltStrike Beacon written in .Net 4  用.net重写了stager及Beacon，其中包括正常上线、文件管理、进程管理、令牌管理、结合SysCall进行注入、原生端口转发、关ETW等一系列功能
-
-*   [MInggongK/Hikvision-](https://github.com/MInggongK/Hikvision-) - Hikvision综合漏洞利用工具
-
-*   [INotGreen/SharpScan](https://github.com/INotGreen/SharpScan) - 内网资产收集、探测主机存活、端口扫描、域控定位、文件搜索、各种服务爆破（SSH、SMB、MsSQL等）、Socks代理，一键自动化+无文件落地扫描
-
-*   [StarfireLab/SharpWeb](https://github.com/StarfireLab/SharpWeb) - 一个浏览器数据（密码|历史记录|Cookie|书签|下载记录）的导出工具，支持主流浏览器。
-
-*   [hayasec/360SafeBrowsergetpass](https://github.com/hayasec/360SafeBrowsergetpass) - 这是一个一键辅助抓取360安全浏览器密码的CobaltStrike脚本以及解密小工具，用于节省红队工作量，通过下载浏览器数据库、记录密钥来离线解密浏览器密码。
-
-*   [QAX-A-Team/BrowserGhost](https://github.com/QAX-A-Team/BrowserGhost) - 这是一个抓取浏览器密码的工具，后续会添加更多功能
-
-*   [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
-
-*   [ricardojoserf/NativeDump](https://github.com/ricardojoserf/NativeDump) - Dump lsass using only NTAPI functions by hand-crafting Minidump files (without MiniDumpWriteDump!!!)
-
-*   [Sh3lldon/FullBypass](https://github.com/Sh3lldon/FullBypass) - A tool which bypasses AMSI (AntiMalware Scan Interface) and PowerShell CLM (Constrained Language Mode) and gives you a FullLanguage PowerShell reverse shell.
-
-*   [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
-
-*   [chatop2020/AKStream](https://github.com/chatop2020/AKStream) - AKStream是一套全平台(Linux,MacOS,Windows)、全架构(X86\_64,Arm...)、全功能的流媒体管理控制接口平台。集成GB28181,RTSP,RTMP,HTTP等设备推拉流控制、PTZ控制、音视频文件录制管理、音视频文件裁剪合并等功能与一体
-
-*   [qwqdanchun/Pillager](https://github.com/qwqdanchun/Pillager) - Pillager是一个适用于后渗透期间的信息收集工具
-
-*   [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型（STUN）
-
-*   [GhostPack/SharpWMI](https://github.com/GhostPack/SharpWMI) - SharpWMI is a C# implementation of various WMI functionality.
-
-*   [Flangvik/BetterSafetyKatz](https://github.com/Flangvik/BetterSafetyKatz) - Fork of SafetyKatz that dynamically fetches the latest pre-compiled release of Mimikatz directly from gentilkiwi GitHub repo, runtime patches signatures and uses SharpSploit DInvoke to PE-Load into memory.
-
-*   [nccgroup/WMIcmd](https://github.com/nccgroup/WMIcmd) - A command shell wrapper using only WMI for Microsoft Windows
-
-*   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
-
-*   [0neAtSec/SharpDomainInfo](https://github.com/0neAtSec/SharpDomainInfo) - 根据攻防以及域信息收集经验dump快而有用的域信息
-
-*   [peiqiF4ck/WebFrameworkTools-5.5-enhance](https://github.com/peiqiF4ck/WebFrameworkTools-5.5-enhance) - 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵 禅道RCE 瑞友天翼应用虚拟化系统sql注入导致RCE大华智慧园区上传,金蝶云星空漏洞等等.
-
-*   [wh0amitz/S4UTomato](https://github.com/wh0amitz/S4UTomato) - Escalate Service Account To LocalSystem via Kerberos
-
-*   [wh0amitz/KRBUACBypass](https://github.com/wh0amitz/KRBUACBypass) - UAC Bypass By Abusing Kerberos Tickets
-
-*   [BeichenDream/BadPotato](https://github.com/BeichenDream/BadPotato) - Windows 权限提升 BadPotato
-
-*   [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
-
-*   [QAX-A-Team/sharpwmi](https://github.com/QAX-A-Team/sharpwmi) - sharpwmi是一个基于rpc的横向移动工具，具有上传文件和执行命令功能。
-
-*   [idiotc4t/sharpwmi](https://github.com/idiotc4t/sharpwmi) - (批量化改造)sharpwmi是一个基于rpc的横向移动工具，具有上传文件和执行命令功能。
-
-*   [lele8/SharpDBeaver](https://github.com/lele8/SharpDBeaver) - DBeaver数据库密码解密工具
-
-*   [shack2/SNETCracker](https://github.com/shack2/SNETCracker) - 超级弱口令检查工具是一款Windows平台的弱口令审计工具，支持批量多线程检查，可快速发现弱密码、弱口令账号，密码支持和用户名结合进行检查，大大提高成功率，支持自定义服务端口和字典。
-
-*   [x0xr00t/Automated-MUlti-UAC-Bypass](https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass) - Automated Multi UAC BYPASS for win10|win11|win12-pre-release|ws2019|ws2022
-
-*   [CCob/BeaconEye](https://github.com/CCob/BeaconEye) - Hunts out CobaltStrike beacons and logs operator command output
-
-*   [BeichenDream/GodPotato](https://github.com/BeichenDream/GodPotato) -
-
-*   [0x727/SchTask\_0x727](https://github.com/0x727/SchTask_0x727) - 创建隐藏计划任务，权限维持，Bypass AV
-
-*   [JDArmy/SharpXDecrypt](https://github.com/JDArmy/SharpXDecrypt) - Xshell全版本密码恢复工具
-
-*   [mabangde/SharpGetUserLoginIPRPC](https://github.com/mabangde/SharpGetUserLoginIPRPC) - 提取域控日志，支持远程提取
-
-*   [eibols/ffmpeg\_batch](https://github.com/eibols/ffmpeg_batch) - FFmpeg Batch AV Converter
-
-*   [G0ldenGunSec/SharpSecDump](https://github.com/G0ldenGunSec/SharpSecDump) - .Net port of the remote SAM + LSA Secrets dumping functionality of impacket's secretsdump.py
-
-*   [outflanknl/EvilClippy](https://github.com/outflanknl/EvilClippy) - A cross-platform assistant for creating malicious MS Office documents. Can hide VBA macros, stomp VBA code (via P-Code) and confuse macro analysis tools. Runs on Linux, OSX and Windows.
-
-*   [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
-
-*   [bugch3ck/SharpEfsPotato](https://github.com/bugch3ck/SharpEfsPotato) - Local privilege escalation from SeImpersonatePrivilege using EfsRpc.
-
-*   [shmilylty/SharpHostInfo](https://github.com/shmilylty/SharpHostInfo) - SharpHostInfo是一款快速探测内网主机信息工具（深信服深蓝实验室天威战队强力驱动）
-
-*   [GhostPack/Rubeus](https://github.com/GhostPack/Rubeus) - Trying to tame the three-headed dog.
-
-*   [RowTeam/SharpDecryptPwd](https://github.com/RowTeam/SharpDecryptPwd) - SharpDecryptPwd source, To Decrypt Navicat,Xmanager,Filezilla,Foxmail,WinSCP,etc
-
-*   [An0nySec/UserAdd](https://github.com/An0nySec/UserAdd) - Bypass AV 用户添加
-
-*   [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
-
-*   [Apr4h/CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan) - Scan files or process memory for CobaltStrike beacons and parse their configuration
-
-*   [crisprss/net\_memory\_webshell](https://github.com/crisprss/net_memory_webshell) - 用来存放平时写的一些net内存马，仅用于练手，需要可以自行修改
-
-*   [Heart-Sky/ListRDPConnections](https://github.com/Heart-Sky/ListRDPConnections) - C# 读取本机对外RDP连接记录和其他主机对该主机的连接记录，从而在内网渗透中获取更多可通内网网段信息以及定位运维管理人员主机
-
-*   [NewEraCracker/LOIC](https://github.com/NewEraCracker/LOIC) - Deprecated - Low Orbit Ion Cannon - An open source network stress tool, written in C#. Based on Praetox's LOIC project. USE ON YOUR OWN RISK. WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. IF YOU GET V& IT IS YOUR FAULT.
-
-*   [bitsadmin/fakelogonscreen](https://github.com/bitsadmin/fakelogonscreen) - Fake Windows logon screen to steal passwords
-
-*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-
-*   [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
-
-*   [cube0x0/noPac](https://github.com/cube0x0/noPac) - CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter.
-
-*   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
-
-*   [uknowsec/SharpSQLTools](https://github.com/uknowsec/SharpSQLTools) - SharpSQLTools 和@Rcoil一起写的小工具，可上传下载文件，xp\_cmdshell与sp\_oacreate执行命令回显和clr加载程序集执行相应操作。
-
-*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
-
-*   [euphrat1ca/LayerDomainFinder](https://github.com/euphrat1ca/LayerDomainFinder) - Layer子域名挖掘机
-
-*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-
-*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
-
-*   [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon大型内网渗透扫描器，PowerShell、Cobalt Strike插件、内存加载、无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。网络资产探测32种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SSH\HTTP\HTTPS\Exchange\mssql\FTP\RDP)或方法快速获取目标网络存活主机IP、计算机名、工作组、共享资源、网卡地址、操作系统版本、网站、子域名、中间件、开放服务、路由器、交换机、数据库、打印机等，大量高危漏洞检测模块MS17010、Zimbra、Exchange
-
-*   [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
-
 ## Vue
 
 *   [Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro) - A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.
@@ -3546,6 +3400,152 @@
 *   [xiaoZ-hc/redtool](https://github.com/xiaoZ-hc/redtool) - 日常积累的一些红队工具及自己写的脚本，更偏向于一些diy的好用的工具，并不是一些比较常用的msf/awvs/xray这种
 
 *   [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices
+
+## C\#
+
+*   [MInggongK/Penetration-mining-src](https://github.com/MInggongK/Penetration-mining-src) - 一款集成了H3C,致远，泛微，万户，帆软，海康威视，金蝶云星空，畅捷通，Struts等多个RCE漏洞利用工具
+
+*   [pwntester/ysoserial.net](https://github.com/pwntester/ysoserial.net) - Deserialization payload generator for a variety of .NET formatters
+
+*   [bcvgh/Kingdee\_erp\_MemShell](https://github.com/bcvgh/Kingdee_erp_MemShell) - 金蝶星空云反序列化漏洞内存马
+
+*   [ChoiSG/SharpSilentChrome](https://github.com/ChoiSG/SharpSilentChrome) - SharpSilentChrome is a C# project that "silently" installs browser extensions on Google Chrome or MS Edge by updating the browsers' Preferences and Secure Preferences files. Currently, it only supports Windows.
+
+*   [simonlee-hello/FuckDoc](https://github.com/simonlee-hello/FuckDoc) - 信息收集工具 对目标机器上的文档进行收集并打包
+
+*   [howmp/WinDump](https://github.com/howmp/WinDump) - 后渗透信息/密码/凭证收集工具
+
+*   [s1null/Sharpmssqluser](https://github.com/s1null/Sharpmssqluser) - C#快速添加删除mssql用户小工具
+
+*   [Conan924/GodInfo](https://github.com/Conan924/GodInfo) - GodInfo 是一个功能全面的后渗透信息和凭据收集工具，旨在帮助安全测试人员在获得授权访问权限后，快速收集目标系统的信息和凭据。
+
+*   [GZTimeWalker/GZCTF](https://github.com/GZTimeWalker/GZCTF) - The GZ::CTF project, an open source CTF platform.
+
+*   [INotGreen/SharpThief](https://github.com/INotGreen/SharpThief) - 一键提取exe的图标、嵌入图标、资源信息、版本信息、修改时间、数字签名，降低程序熵值
+
+*   [lypd0/DeadPotato](https://github.com/lypd0/DeadPotato) - DeadPotato is a windows privilege escalation utility from the Potato family of exploits, leveraging the SeImpersonate right to obtain SYSTEM privileges.        This script has been customized from the original GodPotato source code by BeichenDream.
+
+*   [sorabug/ChangeTimestamp](https://github.com/sorabug/ChangeTimestamp) - 一键修改exe、dll的编译时间、创建时间、修改时间和访问时间
+
+*   [Friends-Security/SharpExclusionFinder](https://github.com/Friends-Security/SharpExclusionFinder) - Tool designed to find folder exclusions using Windows Defender using command line utility MpCmdRun.exe as a low privileged user, without relying on event logs
+
+*   [mai1zhi2/SharpBeacon](https://github.com/mai1zhi2/SharpBeacon) - CobaltStrike Beacon written in .Net 4  用.net重写了stager及Beacon，其中包括正常上线、文件管理、进程管理、令牌管理、结合SysCall进行注入、原生端口转发、关ETW等一系列功能
+
+*   [MInggongK/Hikvision-](https://github.com/MInggongK/Hikvision-) - Hikvision综合漏洞利用工具
+
+*   [INotGreen/SharpScan](https://github.com/INotGreen/SharpScan) - 内网资产收集、探测主机存活、端口扫描、域控定位、文件搜索、各种服务爆破（SSH、SMB、MsSQL等）、Socks代理，一键自动化+无文件落地扫描
+
+*   [StarfireLab/SharpWeb](https://github.com/StarfireLab/SharpWeb) - 一个浏览器数据（密码|历史记录|Cookie|书签|下载记录）的导出工具，支持主流浏览器。
+
+*   [hayasec/360SafeBrowsergetpass](https://github.com/hayasec/360SafeBrowsergetpass) - 这是一个一键辅助抓取360安全浏览器密码的CobaltStrike脚本以及解密小工具，用于节省红队工作量，通过下载浏览器数据库、记录密钥来离线解密浏览器密码。
+
+*   [QAX-A-Team/BrowserGhost](https://github.com/QAX-A-Team/BrowserGhost) - 这是一个抓取浏览器密码的工具，后续会添加更多功能
+
+*   [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
+
+*   [ricardojoserf/NativeDump](https://github.com/ricardojoserf/NativeDump) - Dump lsass using only NTAPI functions by hand-crafting Minidump files (without MiniDumpWriteDump!!!)
+
+*   [Sh3lldon/FullBypass](https://github.com/Sh3lldon/FullBypass) - A tool which bypasses AMSI (AntiMalware Scan Interface) and PowerShell CLM (Constrained Language Mode) and gives you a FullLanguage PowerShell reverse shell.
+
+*   [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
+
+*   [chatop2020/AKStream](https://github.com/chatop2020/AKStream) - AKStream是一套全平台(Linux,MacOS,Windows)、全架构(X86\_64,Arm...)、全功能的流媒体管理控制接口平台。集成GB28181,RTSP,RTMP,HTTP等设备推拉流控制、PTZ控制、音视频文件录制管理、音视频文件裁剪合并等功能与一体
+
+*   [qwqdanchun/Pillager](https://github.com/qwqdanchun/Pillager) - Pillager是一个适用于后渗透期间的信息收集工具
+
+*   [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型（STUN）
+
+*   [GhostPack/SharpWMI](https://github.com/GhostPack/SharpWMI) - SharpWMI is a C# implementation of various WMI functionality.
+
+*   [Flangvik/BetterSafetyKatz](https://github.com/Flangvik/BetterSafetyKatz) - Fork of SafetyKatz that dynamically fetches the latest pre-compiled release of Mimikatz directly from gentilkiwi GitHub repo, runtime patches signatures and uses SharpSploit DInvoke to PE-Load into memory.
+
+*   [nccgroup/WMIcmd](https://github.com/nccgroup/WMIcmd) - A command shell wrapper using only WMI for Microsoft Windows
+
+*   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
+
+*   [0neAtSec/SharpDomainInfo](https://github.com/0neAtSec/SharpDomainInfo) - 根据攻防以及域信息收集经验dump快而有用的域信息
+
+*   [peiqiF4ck/WebFrameworkTools-5.5-enhance](https://github.com/peiqiF4ck/WebFrameworkTools-5.5-enhance) - 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵 禅道RCE 瑞友天翼应用虚拟化系统sql注入导致RCE大华智慧园区上传,金蝶云星空漏洞等等.
+
+*   [wh0amitz/S4UTomato](https://github.com/wh0amitz/S4UTomato) - Escalate Service Account To LocalSystem via Kerberos
+
+*   [wh0amitz/KRBUACBypass](https://github.com/wh0amitz/KRBUACBypass) - UAC Bypass By Abusing Kerberos Tickets
+
+*   [BeichenDream/BadPotato](https://github.com/BeichenDream/BadPotato) - Windows 权限提升 BadPotato
+
+*   [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
+
+*   [QAX-A-Team/sharpwmi](https://github.com/QAX-A-Team/sharpwmi) - sharpwmi是一个基于rpc的横向移动工具，具有上传文件和执行命令功能。
+
+*   [idiotc4t/sharpwmi](https://github.com/idiotc4t/sharpwmi) - (批量化改造)sharpwmi是一个基于rpc的横向移动工具，具有上传文件和执行命令功能。
+
+*   [lele8/SharpDBeaver](https://github.com/lele8/SharpDBeaver) - DBeaver数据库密码解密工具
+
+*   [shack2/SNETCracker](https://github.com/shack2/SNETCracker) - 超级弱口令检查工具是一款Windows平台的弱口令审计工具，支持批量多线程检查，可快速发现弱密码、弱口令账号，密码支持和用户名结合进行检查，大大提高成功率，支持自定义服务端口和字典。
+
+*   [x0xr00t/Automated-MUlti-UAC-Bypass](https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass) - Automated Multi UAC BYPASS for win10|win11|win12-pre-release|ws2019|ws2022
+
+*   [CCob/BeaconEye](https://github.com/CCob/BeaconEye) - Hunts out CobaltStrike beacons and logs operator command output
+
+*   [BeichenDream/GodPotato](https://github.com/BeichenDream/GodPotato) -
+
+*   [0x727/SchTask\_0x727](https://github.com/0x727/SchTask_0x727) - 创建隐藏计划任务，权限维持，Bypass AV
+
+*   [JDArmy/SharpXDecrypt](https://github.com/JDArmy/SharpXDecrypt) - Xshell全版本密码恢复工具
+
+*   [mabangde/SharpGetUserLoginIPRPC](https://github.com/mabangde/SharpGetUserLoginIPRPC) - 提取域控日志，支持远程提取
+
+*   [eibols/ffmpeg\_batch](https://github.com/eibols/ffmpeg_batch) - FFmpeg Batch AV Converter
+
+*   [G0ldenGunSec/SharpSecDump](https://github.com/G0ldenGunSec/SharpSecDump) - .Net port of the remote SAM + LSA Secrets dumping functionality of impacket's secretsdump.py
+
+*   [outflanknl/EvilClippy](https://github.com/outflanknl/EvilClippy) - A cross-platform assistant for creating malicious MS Office documents. Can hide VBA macros, stomp VBA code (via P-Code) and confuse macro analysis tools. Runs on Linux, OSX and Windows.
+
+*   [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
+
+*   [bugch3ck/SharpEfsPotato](https://github.com/bugch3ck/SharpEfsPotato) - Local privilege escalation from SeImpersonatePrivilege using EfsRpc.
+
+*   [shmilylty/SharpHostInfo](https://github.com/shmilylty/SharpHostInfo) - SharpHostInfo是一款快速探测内网主机信息工具（深信服深蓝实验室天威战队强力驱动）
+
+*   [GhostPack/Rubeus](https://github.com/GhostPack/Rubeus) - Trying to tame the three-headed dog.
+
+*   [RowTeam/SharpDecryptPwd](https://github.com/RowTeam/SharpDecryptPwd) - SharpDecryptPwd source, To Decrypt Navicat,Xmanager,Filezilla,Foxmail,WinSCP,etc
+
+*   [An0nySec/UserAdd](https://github.com/An0nySec/UserAdd) - Bypass AV 用户添加
+
+*   [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+
+*   [Apr4h/CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan) - Scan files or process memory for CobaltStrike beacons and parse their configuration
+
+*   [crisprss/net\_memory\_webshell](https://github.com/crisprss/net_memory_webshell) - 用来存放平时写的一些net内存马，仅用于练手，需要可以自行修改
+
+*   [Heart-Sky/ListRDPConnections](https://github.com/Heart-Sky/ListRDPConnections) - C# 读取本机对外RDP连接记录和其他主机对该主机的连接记录，从而在内网渗透中获取更多可通内网网段信息以及定位运维管理人员主机
+
+*   [NewEraCracker/LOIC](https://github.com/NewEraCracker/LOIC) - Deprecated - Low Orbit Ion Cannon - An open source network stress tool, written in C#. Based on Praetox's LOIC project. USE ON YOUR OWN RISK. WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. IF YOU GET V& IT IS YOUR FAULT.
+
+*   [bitsadmin/fakelogonscreen](https://github.com/bitsadmin/fakelogonscreen) - Fake Windows logon screen to steal passwords
+
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+
+*   [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
+
+*   [cube0x0/noPac](https://github.com/cube0x0/noPac) - CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter.
+
+*   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
+
+*   [uknowsec/SharpSQLTools](https://github.com/uknowsec/SharpSQLTools) - SharpSQLTools 和@Rcoil一起写的小工具，可上传下载文件，xp\_cmdshell与sp\_oacreate执行命令回显和clr加载程序集执行相应操作。
+
+*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
+
+*   [euphrat1ca/LayerDomainFinder](https://github.com/euphrat1ca/LayerDomainFinder) - Layer子域名挖掘机
+
+*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+
+*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
+
+*   [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon大型内网渗透扫描器，PowerShell、Cobalt Strike插件、内存加载、无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。网络资产探测32种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SSH\HTTP\HTTPS\Exchange\mssql\FTP\RDP)或方法快速获取目标网络存活主机IP、计算机名、工作组、共享资源、网卡地址、操作系统版本、网站、子域名、中间件、开放服务、路由器、交换机、数据库、打印机等，大量高危漏洞检测模块MS17010、Zimbra、Exchange
+
+*   [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
 
 ## Go Template
 
