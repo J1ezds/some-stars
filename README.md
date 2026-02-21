@@ -38,7 +38,6 @@
 *   [NSIS](#nsis)
 *   [CodeQL](#codeql)
 *   [Assembly](#assembly)
-*   [Visual Basic .NET](#visual-basic-net)
 *   [Pascal](#pascal)
 *   [Just](#just)
 *   [Ruby](#ruby)
@@ -1355,6 +1354,8 @@
 
 *   [baiyies/DamnPythonEvasion](https://github.com/baiyies/DamnPythonEvasion) - That guy uses python to bypass anti-virus, goddamn!基于python pyd的shellcode免杀绕过
 
+*   [jackvale/rectg](https://github.com/jackvale/rectg) - Telegram 优质中文频道与群组自动化导航站。持续追踪 1000+ 节点，智能过滤死群、引流广告与有害内容，为您提供最纯粹的 TG 中文资源精选库。
+
 *   [ttstormxx/jjjjjjjjjjjjjs](https://github.com/ttstormxx/jjjjjjjjjjjjjs) - 爬网站JS文件，自动fuzz api接口，指定api接口（针对前后端分离项目，可指定后端接口地址），回显api响应
 
 *   [LittleBear4/Find-SomeThing](https://github.com/LittleBear4/Find-SomeThing) - 红队批量脆弱点搜集工具
@@ -1730,6 +1731,8 @@
 *   [ZainCheung/netease-cloud](https://github.com/ZainCheung/netease-cloud) - 网易云音乐全自动每日打卡300首歌升级账号等级，支持微信提醒，支持无服务器云函数部署
 
 *   [rmb122/delete-my-history-in-tieba](https://github.com/rmb122/delete-my-history-in-tieba) - 删除在百度贴吧的回复、主题帖、关注等
+
+*   [FlappyPig/CTF\_SPECIAL\_TRAINING\_CAMP](https://github.com/FlappyPig/CTF_SPECIAL_TRAINING_CAMP) - 《 CTF 特训营 》一书练习文件
 
 ## Go
 
@@ -2258,8 +2261,6 @@
 *   [0x727/Space\_view](https://github.com/0x727/Space_view) - Space\_view 是一款Hunter(鹰图平台)或者FOFA平台 资产展示的浏览器油猴插件
 
 *   [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
-
-*   [jackvale/rectg](https://github.com/jackvale/rectg) - 收录并持续精选 10,000+ 个 Telegram 频道、群组与机器人，分类清晰，搜索即得，帮你省下自己找资源的时间。
 
 *   [momosecurity/FindSomething](https://github.com/momosecurity/FindSomething) - 基于chrome、firefox插件的被动式信息泄漏检测工具
 
@@ -3646,10 +3647,6 @@
 *   [Symph0nia/Golconde](https://github.com/Symph0nia/Golconde) - 汇编HTTP请求发送/Assembly Http Request
 
 *   [klezVirus/inceptor](https://github.com/klezVirus/inceptor) - Template-Driven AV/EDR Evasion Framework
-
-## Visual Basic .NET
-
-*   [DosX-dev/UPX-Patcher](https://github.com/DosX-dev/UPX-Patcher) - Make "upx -d" unpacking impossible!
 
 ## Pascal
 
