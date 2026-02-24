@@ -38,6 +38,7 @@
 *   [NSIS](#nsis)
 *   [CodeQL](#codeql)
 *   [Assembly](#assembly)
+*   [Visual Basic .NET](#visual-basic-net)
 *   [Pascal](#pascal)
 *   [Just](#just)
 *   [Ruby](#ruby)
@@ -1731,8 +1732,6 @@
 *   [ZainCheung/netease-cloud](https://github.com/ZainCheung/netease-cloud) - 网易云音乐全自动每日打卡300首歌升级账号等级，支持微信提醒，支持无服务器云函数部署
 
 *   [rmb122/delete-my-history-in-tieba](https://github.com/rmb122/delete-my-history-in-tieba) - 删除在百度贴吧的回复、主题帖、关注等
-
-*   [FlappyPig/CTF\_SPECIAL\_TRAINING\_CAMP](https://github.com/FlappyPig/CTF_SPECIAL_TRAINING_CAMP) - 《 CTF 特训营 》一书练习文件
 
 ## Go
 
@@ -3647,6 +3646,10 @@
 *   [Symph0nia/Golconde](https://github.com/Symph0nia/Golconde) - 汇编HTTP请求发送/Assembly Http Request
 
 *   [klezVirus/inceptor](https://github.com/klezVirus/inceptor) - Template-Driven AV/EDR Evasion Framework
+
+## Visual Basic .NET
+
+*   [DosX-dev/UPX-Patcher](https://github.com/DosX-dev/UPX-Patcher) - Make "upx -d" unpacking impossible!
 
 ## Pascal
 
