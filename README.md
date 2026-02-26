@@ -65,6 +65,8 @@
 
 ## HTML
 
+*   [25H/MayeLite](https://github.com/25H/MayeLite) - Maye Lite 一个更轻更简洁的快速启动工具
+
 *   [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 
 *   [onewinner/VulToolsKit](https://github.com/onewinner/VulToolsKit) - 红队武器库漏洞利用工具合集整理
@@ -1730,8 +1732,6 @@
 *   [lengjibo/RedTeamTools](https://github.com/lengjibo/RedTeamTools) - 记录自己编写、修改的部分工具
 
 *   [ZainCheung/netease-cloud](https://github.com/ZainCheung/netease-cloud) - 网易云音乐全自动每日打卡300首歌升级账号等级，支持微信提醒，支持无服务器云函数部署
-
-*   [rmb122/delete-my-history-in-tieba](https://github.com/rmb122/delete-my-history-in-tieba) - 删除在百度贴吧的回复、主题帖、关注等
 
 ## Go
 
