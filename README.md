@@ -403,7 +403,7 @@
 
 *   [Goqi/ErKai](https://github.com/Goqi/ErKai) - ErKai-开源安全项目二开计划
 
-*   [TophantTechnology/Daybreak](https://github.com/TophantTechnology/Daybreak) - DayBreak（破晓）是斗象推出的一款社区化安全渗透工具，以企业安全人员&白帽子作为主要使用对象，通过持续不断的测试去度量和提升企业网络安全防护效果。DayBreak通过为企业网络环境提供常见/专属的“攻击”手段，进行重复性的无害化“入侵”测试，达到持续性验证企业纵深防御体系下安全产品在当前阶段策略有效性的目的。
+*   [tophant-ai/Daybreak](https://github.com/tophant-ai/Daybreak) - DayBreak（破晓）是斗象推出的一款社区化安全渗透工具，以企业安全人员&白帽子作为主要使用对象，通过持续不断的测试去度量和提升企业网络安全防护效果。DayBreak通过为企业网络环境提供常见/专属的“攻击”手段，进行重复性的无害化“入侵”测试，达到持续性验证企业纵深防御体系下安全产品在当前阶段策略有效性的目的。
 
 *   [Getshell/LinuxTQ](https://github.com/Getshell/LinuxTQ) - 《Linux提权方法论》
 
@@ -913,7 +913,7 @@
 
 *   [mverschu/CVE-2025-33073](https://github.com/mverschu/CVE-2025-33073) - PoC Exploit for the NTLM reflection SMB flaw.
 
-*   [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A.I.G (AI-Infra-Guard) is a full-stack AI Red Teaming platform developed by Tencent Zhuque Lab that secures your AI ecosystem from infrastructure to agents.
+*   [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A full-stack AI Red Teaming platform securing AI ecosystems via AI Infra scan, MCP scan, Agent skills scan, and LLM jailbreak evaluation.
 
 *   [4ESTSEC/wxvl](https://github.com/4ESTSEC/wxvl) - 自动抓取微信公众号安全漏洞文章，转换为Markdown格式并建立本地知识库，每日持续更新。本项目基于 [原版wxvl](https://github.com/20142995/wxvl) 进行扩展。
 
