@@ -1535,8 +1535,6 @@
 
 *   [ReversecLabs/drozer-modules](https://github.com/ReversecLabs/drozer-modules) -
 
-*   [adysec/cursor-vip](https://github.com/adysec/cursor-vip) - 一个简单易用的工具，帮助您重置 Cursor IDE 的机器ID。无任何依赖。支持 Windows、macOS 和 Linux。无限试用。
-
 *   [ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude) - Unleash Next-Level AI! 🚀  💻 Code Generation: DeepSeek r1 + Claude 3.7 Sonnet - Unparalleled Performance! 📝 Content Creation: DeepSeek r1 + Gemini 2.5 Pro - Superior Quality! 🔌 OpenAI-Compatible. 🌊 Streaming & Non-Streaming Support.  ✨ Experience the Future of AI – Today! Click to Try Now! ✨
 
 *   [s1g0day/ICP\_Query\_Batch](https://github.com/s1g0day/ICP_Query_Batch) - 从工业和信息化部政务服务平台进行的ICP备案查询，核心是 HG-ha 师傅的 ICP\_Query 项目
@@ -3106,6 +3104,8 @@
 *   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 
 *   [Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub) - :palm\_tree:Linux、macOS、Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (提权漏洞合集)
+
+*   [SecWiki/linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits) - linux-kernel-exploits Linux平台提权漏洞集合
 
 ## Rust
 
