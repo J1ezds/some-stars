@@ -8,18 +8,18 @@
 
 ## Table of Contents
 
-*   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
+*   [TypeScript](#typescript)
 *   [Python](#python)
+*   [Java](#java)
+*   [JavaScript](#javascript)
+*   [Shell](#shell)
 *   [C++](#c)
 *   [Go](#go)
 *   [HTML](#html)
-*   [JavaScript](#javascript)
 *   [Batchfile](#batchfile)
 *   [Dockerfile](#dockerfile)
-*   [TypeScript](#typescript)
 *   [CSS](#css)
-*   [Java](#java)
 *   [ASP.NET](#aspnet)
 *   [C](#c-1)
 *   [Rust](#rust)
@@ -63,103 +63,11 @@
 *   [Perl](#perl)
 *   [AutoIt](#autoit)
 
-## Shell
-
-*   [DrDonk/OC4VM](https://github.com/DrDonk/OC4VM) - OpenCore for VMware
-
-*   [LongQT-sea/macos-iso-builder](https://github.com/LongQT-sea/macos-iso-builder) - Generate bootable macOS installer ISO or DMG images directly from Apple servers via GitHub Actions - no Mac required. Mac OS X 10.7 - macOS 26 Tahoe
-
-*   [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境
-
-*   [testnet0/testnet](https://github.com/testnet0/testnet) - TestNet资产管理系统（资产管理|信息收集|暴露面管理|子域名扫描|C段扫描|端口扫描|漏洞扫描|Hunter|Fofa）
-
-*   [y0ngb1n/dockerized](https://github.com/y0ngb1n/dockerized) - 🐳 Build once, run anywhere ☸️
-
-*   [c0ny1/vulstudy](https://github.com/c0ny1/vulstudy) - 使用docker快速搭建各大漏洞靶场，目前可以一键搭建17个靶场。
-
-*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
-
-*   [hanreev/root-bluestacks-air](https://github.com/hanreev/root-bluestacks-air) - Root BlueStacks Air macOS
-
-*   [enomothem/Whoamifuck](https://github.com/enomothem/Whoamifuck) - 用于Linux应急响应，快速排查异常用户登录情况和入侵信息排查，准确定位溯源时间线，高效辅助还原攻击链。
-
-*   [AdrianDAlessandro/pyenv-suffix](https://github.com/AdrianDAlessandro/pyenv-suffix) - pyenv plugin to allow you to install python versions with user-specified suffixes.
-
-*   [tom-snow/wechat-windows-versions](https://github.com/tom-snow/wechat-windows-versions) - 保存微信历史版本
-
-*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
-
-*   [RROrg/rr](https://github.com/RROrg/rr) - Redpill Recovery (arpl-i18n)
-
-*   [Jewel591/suidcheck](https://github.com/Jewel591/suidcheck) - Linux SUID 提权检测脚本，自动分析具有 s 权限的可执行文件并给出相应的提权利用方法
-
-*   [Mr-xn/subdomain\_shell](https://github.com/Mr-xn/subdomain_shell) - 一键调用subfinder+ksubdomain+httpx 强强联合 从域名发现-->域名验证-->获取域名标题、状态码以及响应大小 最后保存结果,简化重复操作命令
-
-*   [XRSec/CobaltStrike-Docker](https://github.com/XRSec/CobaltStrike-Docker) - Cobalt Strike Wrapper
-
-*   [tangjie1/-Baseline-check](https://github.com/tangjie1/-Baseline-check) - windows和linux基线检查，配套自动化检查脚本。纯手打。
-
-*   [haiibo/OpenWrt](https://github.com/haiibo/OpenWrt) - 基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5C、R5S、香橙派 R1 Plus、树莓派3B、树莓派4B、R66S、R68S、M68S、H28K、H66K、H68K、H88K、H69K、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等
-
-*   [the0demiurge/CharlesScripts](https://github.com/the0demiurge/CharlesScripts) - My awesome scripts for Arch Linux or Ubuntu Gnome latest LTS or MacBook.
-
-*   [yhan219/navicat\_reset\_mac](https://github.com/yhan219/navicat_reset_mac) - navicat mac版无限重置试用期脚本 Navicat Mac Version Unlimited Trial Reset Script
-
-*   [insightglacier/Dictionary-Of-Pentesting](https://github.com/insightglacier/Dictionary-Of-Pentesting) - Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。
-
-*   [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
-
-*   [paulirish/github-email](https://github.com/paulirish/github-email) - Get a GitHub user's email. :sunglasses: Use this responsibly.
-
-*   [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
-
-*   [iamj0ker/bypass-403](https://github.com/iamj0ker/bypass-403) - A simple script just made for self use for bypassing 403
-
-*   [typecho/Dockerfile](https://github.com/typecho/Dockerfile) - Docker Image packaging for Typecho
-
-*   [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
-
-*   [r00t-3xp10it/venom](https://github.com/r00t-3xp10it/venom) - venom - C2 shellcode generator/compiler/handler
-
-*   [snail007/proxy\_admin\_free](https://github.com/snail007/proxy_admin_free) - Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。
-
-*   [neargle/re0-kubernetes-sec-archive](https://github.com/neargle/re0-kubernetes-sec-archive) - :atom: \[WIP] 整理过去我和K8s、容器、虚拟化相关的分享 🧐
-
-*   [TomAPU/poc\_and\_exp](https://github.com/TomAPU/poc_and_exp) - 搜集的或者自己写的poc或者exp
-
-*   [rebootuser/LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
-
-*   [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
-
-*   [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
-
-*   [teamssix/container-escape-check](https://github.com/teamssix/container-escape-check) - docker container escape check || Docker 容器逃逸检测
-
-*   [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
-
-*   [csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China) - 介绍中国各二线以上城市的互联网环境以及生活成本
-
-*   [TheKingOfDuck/ApkAnalyser](https://github.com/TheKingOfDuck/ApkAnalyser) - 一键提取安卓应用中可能存在的敏感信息。
-
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-
-*   [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck) - Linux应急处置/信息搜集/漏洞检测工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程/供应链/服务器风险等13类70+项检查
-
-*   [ffffffff0x/f8x](https://github.com/ffffffff0x/f8x) - 红/蓝队环境自动化部署工具 | Red/Blue team environment automation deployment tool
-
-*   [vufa/deepin-wine-qq-arch](https://github.com/vufa/deepin-wine-qq-arch) - Tencent QQ on Deepin Wine5(com.qq.im.deepin) For Archlinux
-
-*   [vufa/deepin-wine-wechat-arch](https://github.com/vufa/deepin-wine-wechat-arch) - Tencent WeChat on Deepin Wine(com.qq.weixin.deepin) For Archlinux
-
-*   [orangbus/Tool](https://github.com/orangbus/Tool) - Manjaro从入门到爱不释手．
-
-*   [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
-
-*   [govolution/avet](https://github.com/govolution/avet) - AntiVirus Evasion Tool
-
-*   [xiaoZ-hc/redtool](https://github.com/xiaoZ-hc/redtool) - 日常积累的一些红队工具及自己写的脚本，更偏向于一些diy的好用的工具，并不是一些比较常用的msf/awvs/xray这种
-
 ## miscellaneous
+
+*   [h00klod0er/xia\_Yue\_pro](https://github.com/h00klod0er/xia_Yue_pro) - xia\_Yue 插件修改版，瞎越修改版，修复中文重放乱码，添加请求行越权测试，一键导出越权url，允许重复url测试等功能
+
+*   [Zcentury/Venom](https://github.com/Zcentury/Venom) - 致命精准的红队作战兵器。模块化集成资产发现、漏扫与利用，重新定义渗透测试工作流 (Workflow) 的新一代安全平台。
 
 *   [skrik2/VM-download](https://github.com/skrik2/VM-download) - VM unofficial download
 
@@ -895,13 +803,95 @@
 
 *   [Smi1eSEC/Web-Security-Note](https://github.com/Smi1eSEC/Web-Security-Note) - Record some common Web security sites
 
-*   [rebeyond/Behinder](https://github.com/rebeyond/Behinder) - “冰蝎”动态二进制加密网站管理客户端
+## TypeScript
 
-*   [BeichenDream/Godzilla](https://github.com/BeichenDream/Godzilla) - 哥斯拉
+*   [3516634930/Payloader](https://github.com/3516634930/Payloader) - 渗透测试Payload速查平台 | Pentest Payload Quick Reference | XSS/SQLi/SSRF/RCE | React+TypeScript
 
-*   [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
+*   [FirefoxBar/HeaderEditor](https://github.com/FirefoxBar/HeaderEditor) - Manage browser's requests, include modify the request headers, response headers, response body, redirect requests, cancel requests
+
+*   [evi0s/WMPFDebugger](https://github.com/evi0s/WMPFDebugger) - Yet another WeChat miniapp debugger on Windows
+
+*   [classfang/ssh-mcp-server](https://github.com/classfang/ssh-mcp-server) - 基于 SSH 的 MCP 服务器 🧙‍♀️。已被MCP官方收录 🎉。 SSH MCP Server 🧙‍♀️. It has been included in the community MCP repository 🎉.
+
+*   [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
+
+*   [ReaJason/No-One](https://github.com/ReaJason/No-One) - No One（无名）：Next Generation Polyglot Website Manager
+
+*   [yyhuni/xingrin](https://github.com/yyhuni/xingrin) - src资产管理漏洞扫描平台，子域名爆破，端口扫描，站点发现，目录扫描，爬虫，漏洞扫描
+
+*   [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+
+*   [MatrixSeven/file-transfer-go](https://github.com/MatrixSeven/file-transfer-go) - Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。
+
+*   [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
+
+*   [zgsm-ai/costrict](https://github.com/zgsm-ai/costrict) - Costrict - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion.
+
+*   [Cloxl/CursorPool\_Client](https://github.com/Cloxl/CursorPool_Client) - CursorPool客户端，支持windows系统和mac，支持cursor一键换号、重置机器码、禁用Cursor自动更新
+
+*   [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
+
+*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。
+
+*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
+
+*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+
+*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+
+*   [AIsouler/GKD\_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
+
+*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+
+*   [biggerstar/wedecode](https://github.com/biggerstar/wedecode) - 全自动化，微信小程序 wxapkg 包 源代码还原工具, 线上代码安全审计，支持 Windows, Macos, Linux
+
+*   [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
+
+*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+
+*   [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
+
+*   [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
+
+*   [atian25/yuque-exporter](https://github.com/atian25/yuque-exporter) - export yuque to local markdown
+
+*   [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
+
+*   [BilibiliVideoDownload/BilibiliVideoDownload](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) - Cross-platform download bilibili video desktop software, support windows, macOS, Linux
+
+*   [DVKunion/SeaMoon](https://github.com/DVKunion/SeaMoon) - 月海 (Sea Moon) 是一款 FaaS/BaaS 实现的 Serverless 网络工具
+
+*   [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
+
+*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+
+*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
+
+*   [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not
+
+*   [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+
+*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+
+*   [ceajs/cea](https://github.com/ceajs/cea) - 高校统一身份验证开发框架(已集成 CPDAILY 签到&查寝插件)
+
+*   [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
+
+*   [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
+
+*   [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
+
+*   [pajasevi/UnCSS-Online](https://github.com/pajasevi/UnCSS-Online) - Simply UnCSS your styles online!
+
+*   [yaklang/yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
+
+*   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron 的音乐软件
+
+*   [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 
 ## Python
+
+*   [Gentle-bae/UploadRanger](https://github.com/Gentle-bae/UploadRanger) - Professional file upload vulnerability testing tool with 263+ bypass techniques, proxy capture, dynamic scanning（专业的文件上传漏洞检测工具，支持263+绕过技术、代理抓包、动态扫描）
 
 *   [BDisp/unlocker](https://github.com/BDisp/unlocker) - VMware Workstation macOS
 
@@ -1623,7 +1613,707 @@
 
 *   [broken5/WebAliveScan](https://github.com/broken5/WebAliveScan) - 对目标域名进行快速的存活扫描、简单的指纹识别、目录扫描
 
-*   [google/enjarify](https://github.com/google/enjarify) -
+## Java
+
+*   [Sugobet/API\_Sword](https://github.com/Sugobet/API_Sword) - NSFOCUS API\_Sword：A Burp Suite extension, Automatically recursively collect API endpoints from any response
+
+*   [JoyChou93/java-sec-code](https://github.com/JoyChou93/java-sec-code) - Java web common vulnerabilities and security code which is base on springboot and spring security
+
+*   [Conan924/AIPentestKit](https://github.com/Conan924/AIPentestKit) - 🚀 AI-Powered Red Team & Pentest Toolkit | 赋能红队与渗透测试的 AI 工具集
+
+*   [KaGty1/CustomMemShellInjector](https://github.com/KaGty1/CustomMemShellInjector) - 哥斯拉Godzilla定制化插件，接收恶意类Base64编码与恶意类类名进行实例化，达到注入任意类型内存马的目的。
+
+*   [cwkiller/ClassLinefix](https://github.com/cwkiller/ClassLinefix) - Java bytecode line number restoration tool
+
+*   [nbauma109/jd-gui-duo](https://github.com/nbauma109/jd-gui-duo) - A 2-in-1 JAVA decompiler based on JD-CORE v0 and v1 supporting 3rd party decompilers CFR, Procyon, Fernflower, Vineflower & Jadx.
+
+*   [DeEpinGh0st/JDumpSpiderGUI](https://github.com/DeEpinGh0st/JDumpSpiderGUI) - JDumpSpiderGUI 是一个用于 Java 堆转储文件分析的工具，支持命令行和 JavaFX 图形界面两种模式。该工具主要是在原工具上添加了图形化的界面
+
+*   [alanni-tom/Turacos](https://github.com/alanni-tom/Turacos) - Turacos 是一款专业的多数据库安全评估工具，支持 PostgreSQL、MySQL、Redis、MSSQL 等多种数据库的后渗透操作。 为安全研究人员提供系统化、模块化的数据库安全测试能力，助力企业进行安全评估与漏洞验证。
+
+*   [czz1233/GBByPass](https://github.com/czz1233/GBByPass) - 冰蝎 哥斯拉 WebShell bypass
+
+*   [ahisec/geoserver-](https://github.com/ahisec/geoserver-) - geoserver CVE-2024-36401漏洞利用工具
+
+*   [7uup/TsojanScan-Plus](https://github.com/7uup/TsojanScan-Plus) - TsoJanScan Burp Plugins Secondary Development
+
+*   [adeljck/YongYou-Exploit](https://github.com/adeljck/YongYou-Exploit) - YongYou U8C deserialization file upload exploit tool targeting IPFxxFileService and IFileTrans services
+
+*   [AfterSnows/ApricusFindEvil](https://github.com/AfterSnows/ApricusFindEvil) - 检测查杀java内存马
+
+*   [People-11/CVE-2025-10184\_PoC](https://github.com/People-11/CVE-2025-10184_PoC) -
+
+*   [Conan924/PostHikvision](https://github.com/Conan924/PostHikvision) - 哥斯拉Hikvision综合安防后渗透插件，运行中心/web前台/MinIO 配置提取（解密）重置密码,还原密码。
+
+*   [houbb/sensitive-word](https://github.com/houbb/sensitive-word) -  👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
+
+*   [testnet0/testnet-java](https://github.com/testnet0/testnet-java) -
+
+*   [youki992/ShiningZ](https://github.com/youki992/ShiningZ) - "闪紫"（英文名shiningZ）社工字典生成工具，支持ABC自定义排列组合、ABC列字典AI扩展、AI提示词联想字典、自定义AI提示、字典去重、结果导出等
+
+*   [iamlinhui/rpt](https://github.com/iamlinhui/rpt) - 内网穿透&反向代理 (支持TCP上层协议，支持HTTP/HTTPS端口复用)
+
+*   [RuoJi6/xxl-job-FLM](https://github.com/RuoJi6/xxl-job-FLM) - xxl-job内存马
+
+*   [fdu-sec/JDD](https://github.com/fdu-sec/JDD) -
+
+*   [tabby-sec/tabby](https://github.com/tabby-sec/tabby) - A CAT called tabby ( Code Analysis Tool )
+
+*   [bmth666/Yongyou-Unserialize-plus](https://github.com/bmth666/Yongyou-Unserialize-plus) - 用友的一些反序列化链子以及1day，二开了狼组的YongYouNcTool，改了一下逻辑以及poc
+
+*   [F6JO/JsRouteScan](https://github.com/F6JO/JsRouteScan) - Burpsuite - Js Route Scan 正则匹配获取响应中的路由进行被动探测与递归目录探测的burp插件
+
+*   [cwkiller/JDBC-PROXY-Bypass](https://github.com/cwkiller/JDBC-PROXY-Bypass) - 利用代理驱动绕过JDBC Attack检测
+
+*   [bcvgh/daydayEXP](https://github.com/bcvgh/daydayEXP) - 支持自定义Poc文件的图形化漏洞利用工具
+
+*   [Chave0v0/YONYOU-TOOL](https://github.com/Chave0v0/YONYOU-TOOL) - 用友漏洞综合利用工具
+
+*   [xsshim/GzWebsocket](https://github.com/xsshim/GzWebsocket) - 哥斯拉webshell管理工具的插件，用于连接websocket型webshell
+
+*   [Rvn0xsy/DumperAnalyze](https://github.com/Rvn0xsy/DumperAnalyze) - 通过JavaAgent与Javassist技术对JVM加载的类对象进行动态插桩，可以做一些破解、加密验证的绕过等操作
+
+*   [wkeyuan/DWSurvey](https://github.com/wkeyuan/DWSurvey) - Survey System. 最好用的开源问卷调查系统、表单系统。
+
+*   [cncsnet1/jadx-gui-ai](https://github.com/cncsnet1/jadx-gui-ai) - jadx-gui反编译工具二次开发，接入AI赋能。
+
+*   [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) - Plugin for JADX to integrate MCP server
+
+*   [ReversecLabs/drozer-agent](https://github.com/ReversecLabs/drozer-agent) - The Android Agent for the Drozer Security Assessment Framework.
+
+*   [AgonySec/ThinkPHPGUI](https://github.com/AgonySec/ThinkPHPGUI) - 使用JAVAFX写了一个Thinkphp的GUI漏洞检测利用工具
+
+*   [kN6jq/gatherBurp](https://github.com/kN6jq/gatherBurp) - 一款强大的 burp 安全测试插件，集成多种安全测试功能，支持自动化扫描和手动测试。
+
+*   [shack2/javaserializetools](https://github.com/shack2/javaserializetools) - Java反序列化漏洞利用工具V1.0    Java反序列化相关漏洞的检查工具，采用JDK 1.8+NetBeans8.2开发，软件运行必须安装JDK 1.8或者以上版本。   支持：weblogic xml反序列化漏洞 CVE-2017-10271/CNVD-C-2019-48814/CVE-2019-2725检查。
+
+*   [shuanx/BurpFingerPrint](https://github.com/shuanx/BurpFingerPrint) - BurpSuite插件集成Ehole指纹库并进行常见OA弱口令爆破插件
+
+*   [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - HyperOS enhancement module - Make HyperOS Great Again!
+
+*   [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
+
+*   [JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch) - A non-root Xposed framework extending from LSPosed
+
+*   [z2p/sweetPotato](https://github.com/z2p/sweetPotato) - 基于burpsuite的资产分析工具
+
+*   [vaycore/OneScan](https://github.com/vaycore/OneScan) - OneScan 是一款用于递归目录扫描的 BurpSuite 插件
+
+*   [savior-only/CyberMatrix](https://github.com/savior-only/CyberMatrix) - CyberMatrix 是一个基于 AI 的代码安全分析工具，专注于自动化检测和分析代码中的潜在安全漏洞。采用赛博朋克风格的现代化界面，提供直观的安全分析体验。
+
+*   [wxwhhh/Chypass\_pro](https://github.com/wxwhhh/Chypass_pro) - 利用各个大模型，自动化生成绕过WAF的burp插件
+
+*   [yuziiiiiiiiii/SMS\_Bomb\_Fuzzer](https://github.com/yuziiiiiiiiii/SMS_Bomb_Fuzzer) - Burp suite 短信轰炸辅助绕过插件
+
+*   [Whoopsunix/JavaRce](https://github.com/Whoopsunix/JavaRce) - Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios | 实战场景较通用的 Java Rce 相关漏洞的利用方式
+
+*   [ssrsec/JeecgBoot-offline-brute](https://github.com/ssrsec/JeecgBoot-offline-brute) - jeecg-boot密码离线爆破
+
+*   [CodeIntelligenceTesting/jazzer](https://github.com/CodeIntelligenceTesting/jazzer) - Coverage-guided, in-process fuzzing for the JVM
+
+*   [X1r0z/nacos-hessian-rce](https://github.com/X1r0z/nacos-hessian-rce) - PoC of Nacos JRaft Hessian RCE
+
+*   [safe6Sec/MemoryShell](https://github.com/safe6Sec/MemoryShell) - 内存马学习
+
+*   [Erosion2020/JavaSec](https://github.com/Erosion2020/JavaSec) - 零基础Java安全学习笔记
+
+*   [pureqh/xxl-job-attack](https://github.com/pureqh/xxl-job-attack) - xxl-job漏洞综合利用工具
+
+*   [core-lib/xjar](https://github.com/core-lib/xjar) - Spring Boot JAR 安全加密运行工具，支持的原生JAR。
+
+*   [smxiazi/xia\_sql](https://github.com/smxiazi/xia_sql) - xia SQL (瞎注)  burp 插件 ，在每个参数后面填加一个单引号，两个单引号，一个简单的判断注入小插件。
+
+*   [triplexlove/javasocket](https://github.com/triplexlove/javasocket) - java实现反序列化建立socket连接
+
+*   [j3ers3/Hello-Java-Sec](https://github.com/j3ers3/Hello-Java-Sec) - ☕️ Java Security，安全编码和代码审计
+
+*   [XiaomingX/data-cve-poc](https://github.com/XiaomingX/data-cve-poc) - 这个仓库收集了所有在 GitHub 上能找到的 CVE 漏洞利用工具。 This repository collects all CVE exploits found on GitHub.
+
+*   [0x727/JNDIExploit](https://github.com/0x727/JNDIExploit) - 一款用于JNDI注入利用的工具，大量参考/引用了Rogue JNDI项目的代码，支持直接植入内存shell，并集成了常见的bypass 高版本JDK的方式，适用于与自动化工具配合使用。
+
+*   [Liubsyy/JarEditor](https://github.com/Liubsyy/JarEditor) - IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
+
+*   [ReaJason/MemShellParty](https://github.com/ReaJason/MemShellParty) - 一款专注于 Java 主流 Web 中间件的内存马快速生成工具，致力于简化安全研究人员和红队成员的工作流程，提升攻防效率
+
+*   [TheBeastofwar/JenkinsExploit-GUI](https://github.com/TheBeastofwar/JenkinsExploit-GUI) - 一款Jenkins的综合漏洞利用工具
+
+*   [4ra1n/class-obf](https://github.com/4ra1n/class-obf) - 一个 CLASS 文件混淆工具，支持方法字段参数名引用分析和重命名混淆，支持字符串提取/AES加密运行时解密/整型异或混淆/垃圾代码花指令混淆/错误注解崩溃/特殊字符迷惑用户/反编译器对抗/方法和字段的隐藏等，配置简单，容易上手
+
+*   [Phelaine/SinkFinder](https://github.com/Phelaine/SinkFinder) - 闭源系统半自动漏洞挖掘工具，针对 jar/war/zip 进行静态代码分析，输出从source到sink的可达路径。LLM将验证路径可达性，并根据上下文给出该路径可信分数
+
+*   [find-xposed-magisk/LSPatch](https://github.com/find-xposed-magisk/LSPatch) - LSPatch: A non-root Xposed framework extending from LSPosed|LSPatch：一款非Root的Xposed框架，是从LSPosed扩展而来的。| release备份在backup分支
+
+*   [TheKingOfDuck/burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP) - 服务端配置错误情况下用于伪造ip地址进行测试的Burp Suite插件
+
+*   [saoshao/DetSql](https://github.com/saoshao/DetSql) - Burp插件，快速探测可能存在SQL注入的请求并标记，提高测试效率
+
+*   [hsskyboy/NPatch](https://github.com/hsskyboy/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
+*   [mywalkb/LSPosed\_mod](https://github.com/mywalkb/LSPosed_mod) - My changes to LSPosed
+
+*   [LSPosed/LSPatch](https://github.com/LSPosed/LSPatch) - LSPatch: A non-root Xposed framework extending from LSPosed
+
+*   [winezer0/APIFinderPlus](https://github.com/winezer0/APIFinderPlus) - 目标是成为当下最完善的API挖掘工具，实现自动提取响应敏感信息、URI信息，并且对URI进行自动|手动递归检查
+
+*   [xuchengsheng/wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) - 一款基于Java开发的微信数据分析工具。
+
+*   [wh1t3zer/SpringBootVul-GUI](https://github.com/wh1t3zer/SpringBootVul-GUI) - 一个半自动化springboot打点工具，内置目前springboot所有漏洞
+
+*   [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
+
+*   [Ni4n/ShellGenerate](https://github.com/Ni4n/ShellGenerate) - 哥斯拉jsp/jspx免杀webshell生成器
+
+*   [Yong-An-Dang/nuclei-plus](https://github.com/Yong-An-Dang/nuclei-plus) - Functional enhancement based on nuclei.  基于 nuclei 的功能增强。
+
+*   [F6JO/RouteVulScan](https://github.com/F6JO/RouteVulScan) - Burpsuite - Route Vulnerable Scanning 递归式被动检测脆弱路径的burp插件
+
+*   [joaomatosf/JavaDeserH2HC](https://github.com/joaomatosf/JavaDeserH2HC) - Sample codes written for the Hackers to Hackers Conference magazine 2017 (H2HC).
+
+*   [bit4woo/knife](https://github.com/bit4woo/knife) - A burp extension that add some useful function to  Context Menu 添加一些右键菜单让burp用起来更顺畅
+
+*   [K-7H7l/Jeecg\_Tools](https://github.com/K-7H7l/Jeecg_Tools) - 本工具为jeecg框架漏洞利用工具非jeecg-boot！
+
+*   [X1r0z/JNDIMap](https://github.com/X1r0z/JNDIMap) - A powerful JNDI injection exploitation framework that supports RMI, LDAP and LDAPS protocols, including various bypass methods for high-version JDK restrictions
+
+*   [outlaws-bai/Galaxy](https://github.com/outlaws-bai/Galaxy) - 一个想让你测试加密流量像测试明文一样简单高效的 Burp 插件。 A Burp plugin that makes testing encrypted traffic as simple and efficient as testing plaintext.
+
+*   [MInggongK/jeecg-](https://github.com/MInggongK/jeecg-) - jeecg综合漏洞利用工具
+
+*   [smxiazi/xia\_Liao](https://github.com/smxiazi/xia_Liao) - xia Liao（瞎料）burp插件 用于Windows在线进程/杀软识别 与 web渗透注册时，快速生成需要的资料用来填写，资料包含：姓名、手机号、身份证、统一社会信用代码、组织机构代码、银行卡，以及各类web语言的hello world输出和生成弱口令字典等。
+
+*   [shuanx/BurpAPIFinder](https://github.com/shuanx/BurpAPIFinder) - 攻防演练过程中，我们通常会用浏览器访问一些资产，但很多未授权/敏感信息/越权隐匿在已访问接口过html、JS文件等，该插件能让我们发现未授权/敏感信息/越权/登陆接口等。
+
+*   [yhy0/passive-scan-client](https://github.com/yhy0/passive-scan-client) - Burp被动扫描流量转发插件
+
+*   [sma11new/Pyke-Shiro](https://github.com/sma11new/Pyke-Shiro) - 复杂请求下的Shiro反序列化利用工具
+
+*   [suizhibo/MemShellGene](https://github.com/suizhibo/MemShellGene) - 一款Java内存马生成、测试工具，搭配@ax1sX的MemShell食用。
+
+*   [0x727/BypassPro](https://github.com/0x727/BypassPro) - 对Auth/Waf 自动化bypass的burpsuite插件
+
+*   [MInggongK/dahuaExploitGUI](https://github.com/MInggongK/dahuaExploitGUI) - dahua综合漏洞利用工具
+
+*   [whocansee/FilelessAgentMemShell](https://github.com/whocansee/FilelessAgentMemShell) - 无需文件落地Agent内存马生成器
+
+*   [KimJun1010/inspector](https://github.com/KimJun1010/inspector) - IDEA代码审计辅助插件（深信服深蓝实验室天威战队强力驱动）
+
+*   [jar-analyzer/jar-obfuscator](https://github.com/jar-analyzer/jar-obfuscator) - Jar Obfuscator V2 - 一个 JAR 文件保护混淆工具，支持包名/类名/方法名/字段名/参数名引用分析和重命名混淆方式，支持字符串加密/整型异或混淆/垃圾代码花指令混淆/等方式，支持方法和字段的隐藏，支持 SpringBoot 和 war 包，配置简单，文档教程齐全，容易上手
+
+*   [whwlsfb/BurpCrypto](https://github.com/whwlsfb/BurpCrypto) - BurpCrypto is a collection of burpsuite encryption plug-ins, support AES/RSA/DES/ExecJs(execute JS encryption code in burpsuite). 支持多种加密算法或直接执行JS代码的用于爆破前端加密的BurpSuite插件
+
+*   [JasonQS/Anti-recall](https://github.com/JasonQS/Anti-recall) - Android 免root 防撤回神器 !
+
+*   [ax1sX/SpringSecurity](https://github.com/ax1sX/SpringSecurity) - A list for Spring Security
+
+*   [DolphFlynn/jwt-editor](https://github.com/DolphFlynn/jwt-editor) - A Burp Suite extension for creating and editing JSON Web Tokens. This tool supports signing and verification of JWS, encryption and decryption of JWE and automation of several well-known attacks against applications that consume JWT.
+
+*   [pacemrc/VulDebug](https://github.com/pacemrc/VulDebug) - Java漏洞调试分析集合
+
+*   [mrjesen/ysoserial\_su18](https://github.com/mrjesen/ysoserial_su18) - ysoserial for su18
+
+*   [vivo/MoonBox](https://github.com/vivo/MoonBox) - 月光宝盒：无侵入的流量录制与回放平台     A server-side traffic capture and replay platform with noninvasive
+
+*   [Hutt0n0/ActiveMqRCE](https://github.com/Hutt0n0/ActiveMqRCE) - 用java实现构造openwire协议，利用activeMQ < 5.18.3 RCE 回显利用 内存马注入
+
+*   [z-bool/SQLDownload](https://github.com/z-bool/SQLDownload) - 内网大型数据拖库解决方案，隧道不稳定时将内网数据库保存为csv格式文件
+
+*   [sleeyax/burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) - Burp extension to evade TLS fingerprinting. Bypass WAF, spoof any browser.
+
+*   [tovd-go/java-memshell-scan](https://github.com/tovd-go/java-memshell-scan) -
+
+*   [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个 JAR 包 GUI 分析工具，方法调用关系搜索，方法调用链 DFS 算法分析，模拟 JVM 的污点分析验证 DFS 结果，字符串搜索，Java Web 组件入口分析，CFG 程序分析，JVM 栈帧分析，自定义表达式搜索，紧跟 AI 技术发展，支持 MCP 调用，支持 n8n 工作流，文档：https://docs.qq.com/doc/DV3pKbG9GS0pJS0tk
+
+*   [pykiller/API-T00L](https://github.com/pykiller/API-T00L) - 互联网厂商API利用工具。
+
+*   [864381832/x-RdbmsSyncTool](https://github.com/864381832/x-RdbmsSyncTool) - 数据库同步工具(支持mysql、Oracle、sqlserver、PostgreSql、达梦、sqlite、h2、access等数据库)
+
+*   [veo/vagent](https://github.com/veo/vagent) - 多功能 java agent 内存马
+
+*   [pen4uin/java-echo-generator](https://github.com/pen4uin/java-echo-generator) - 一款支持自定义的 Java 回显载荷生成工具｜A customizable Java echo payload generation tool.
+
+*   [dromara/neutrino-proxy](https://github.com/dromara/neutrino-proxy) - 中微子代理（内网穿透）
+
+*   [Y4er/WebLogic-Shiro-shell](https://github.com/Y4er/WebLogic-Shiro-shell) - WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell
+
+*   [CYRUS-STUDIO/ApkToolPlus](https://github.com/CYRUS-STUDIO/ApkToolPlus) - ApkToolPlus 是一个 apk 逆向分析工具（a apk analysis tools）。
+
+*   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+
+*   [Y4Sec-Team/mysql-jdbc-tricks](https://github.com/Y4Sec-Team/mysql-jdbc-tricks) - JDBC Attack Tricks
+
+*   [MUYU212/JNDI-Injection-Memshell](https://github.com/MUYU212/JNDI-Injection-Memshell) - JNDI注入测试工具内存马版本（增加了注入内存马模块）
+
+*   [wgpsec/YongYouNcTool](https://github.com/wgpsec/YongYouNcTool) - 用友NC系列漏洞检测利用工具，支持一键检测、命令执行回显、文件落地、一键打入内存马、文件读取等
+
+*   [metersphere/metersphere](https://github.com/metersphere/metersphere) - 🔥 MeterSphere 是新一代的开源持续测试工具，内置 AI 助手，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
+
+*   [bitterzzZZ/MemoryShellLearn](https://github.com/bitterzzZZ/MemoryShellLearn) - 分享几个直接可用的内存马，记录一下学习过程中看过的文章
+
+*   [c0ny1/java-memshell-scanner](https://github.com/c0ny1/java-memshell-scanner) - 通过jsp脚本扫描java web Filter/Servlet型内存马
+
+*   [LandGrey/copagent](https://github.com/LandGrey/copagent) - java memory web shell extracting tool
+
+*   [4ra1n/shell-analyzer](https://github.com/4ra1n/shell-analyzer) - 通过 JAVA AGENT 查杀内存马，提供简易方便的 GUI 界面，一键反编译目标环境内存马进行分析，支持远程查杀和本地查杀（注意：仅供本地复现分析学习，请勿用于正式和生产环境）
+
+*   [libaibaia/cloudSec](https://github.com/libaibaia/cloudSec) - 云安全利用工具-云平台AK/SK-WEB利用工具，添加AK/SK自动检测资源，无需手动执行，支持云服务器、存储桶、数据库操作
+
+*   [webraybtl/ysoserialbtl](https://github.com/webraybtl/ysoserialbtl) - 基于ysoserial扩展命令执行结果回显，生成冰蝎内存马
+
+*   [f0ng/captcha-killer-modified](https://github.com/f0ng/captcha-killer-modified) - captcha-killer的修改版，支持关键词识别base64编码的图片，添加免费ocr库，用于验证码爆破，适配新版Burpsuite
+
+*   [yuyan-sec/DBeaver-decrypter](https://github.com/yuyan-sec/DBeaver-decrypter) - 解密DBeaver数据库软件保存的密码
+
+*   [su18/JDBC-Attack](https://github.com/su18/JDBC-Attack) - JDBC Connection URL Attack
+
+*   [LTianHang/ShiroUploadTools](https://github.com/LTianHang/ShiroUploadTools) - Shiro文件上传工具
+
+*   [HHa1ey/TKHunter](https://github.com/HHa1ey/TKHunter) - 一个基于JavaFX写的一个Hunter资产测绘平台的图形化工具
+
+*   [whwlsfb/Log4j2Scan](https://github.com/whwlsfb/Log4j2Scan) - Log4j2 RCE Passive Scanner plugin for BurpSuite
+
+*   [c0olw/NacosRce](https://github.com/c0olw/NacosRce) - Nacos JRaft Hessian 反序列化 RCE 加载字节码 注入内存马 不出网利用
+
+*   [qi4L/JYso](https://github.com/qi4L/JYso) -  JNDIExploit or a ysoserial.
+
+*   [4ra1n/mysql-fake-server](https://github.com/4ra1n/mysql-fake-server) - 纯 Java 实现的 MySQL Fake Server | 支持 GUI 版和命令行版 | 支持反序列化和文件读取的利用方式 | 支持常见的 GADGET 和自定义 GADGET 数据 | 根据目标环境自动生成匹配的 PAYLOAD | 支持 PGSQL 和 DERBY 的利用
+
+*   [4ra1n/super-xray](https://github.com/4ra1n/super-xray) - Web漏洞扫描工具XRAY的GUI启动器
+
+*   [jar-analyzer/jar-analyzer-v1-gui](https://github.com/jar-analyzer/jar-analyzer-v1-gui) - 建议使用新版：https://github.com/jar-analyzer/jar-analyzer
+
+*   [jar-analyzer/jar-analyzer-v1-cli](https://github.com/jar-analyzer/jar-analyzer-v1-cli) - 本项目可以把一个或多个Jar包构建成数据库，用户连接数据库后通过SQL语句任意搜索需要的内容，例如类和方法信息，方法调用关系等
+
+*   [cckuailong/JNDI-Injection-Exploit-Plus](https://github.com/cckuailong/JNDI-Injection-Exploit-Plus) - 80+ Gadgets(30 More than ysoserial). JNDI-Injection-Exploit-Plus is a tool for generating workable JNDI links and provide background services by starting RMI server,LDAP server and HTTP server.
+
+*   [savior-only/Spring\_All\_Reachable](https://github.com/savior-only/Spring_All_Reachable) - Spring漏洞综合利用工具
+
+*   [pmiaowu/HostCollision](https://github.com/pmiaowu/HostCollision) - 用于host碰撞而生的小工具,专门检测渗透中需要绑定hosts才能访问的主机或内部系统
+
+*   [ba0gu0/520apkhook](https://github.com/ba0gu0/520apkhook) - 将安卓远控Apk附加进普通的App中，运行新生成的App时，普通App正常运行，远控正常上线。Attach the Android remote control APK to a regular app. When the newly generated app is launched, the regular app operates as normal while the remote control goes online seamlessly.
+
+*   [pen4uin/java-memshell-generator](https://github.com/pen4uin/java-memshell-generator) - 一款支持自定义的 Java 内存马生成工具｜A customizable Java in-memory webshell generation tool.
+
+*   [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp) - Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践
+
+*   [altEr1125/ShiroAttack2](https://github.com/altEr1125/ShiroAttack2) - 一款针对Shiro550漏洞进行快速漏洞利用工具。 对 @SummerSec 大佬的项目https://github.com/SummerSec/ShiroAttack2 进行了一些改进。
+
+*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【AI低代码平台】“低代码+零代码”双模驱动AI智能平台  AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications.  助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键生成，无需手写代码! 显著提升效率节省成本，又不失灵活~
+
+*   [Saorionesan/DBeaver](https://github.com/Saorionesan/DBeaver) - 在原生DBeaver的基础上，支持了DM、Kingbase、瀚高、神通等国产数据库。并且增加了数据库备份还原以及数据迁移等功能
+
+*   [White-hua/Apt\_t00ls](https://github.com/White-hua/Apt_t00ls) - 高危漏洞利用工具
+
+*   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
+
+*   [iSafeBlue/TrackRay](https://github.com/iSafeBlue/TrackRay) - 溯光 (TrackRay) 3 beta⚡渗透测试框架（资产扫描|指纹识别|暴力破解|网页爬虫|端口扫描|漏洞扫描|代码审计|AWVS|NMAP|Metasploit|SQLMap）
+
+*   [LeadroyaL/fastjson-blacklist](https://github.com/LeadroyaL/fastjson-blacklist) -
+
+*   [Mr-xn/RedTeam\_BlueTeam\_HW](https://github.com/Mr-xn/RedTeam_BlueTeam_HW) - 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具
+
+*   [burpheart/CVE-2022-39197-patch](https://github.com/burpheart/CVE-2022-39197-patch) - CVE-2022-39197 漏洞补丁. CVE-2022-39197 Vulnerability Patch.
+
+*   [f0ng/autoDecoder](https://github.com/f0ng/autoDecoder) - Burp插件，根据自定义来达到对数据包的处理（适用于加解密、爆破等），类似mitmproxy，不同点在于经过了burp中转，在自动加解密的基础上，不影响APP、网站加解密正常逻辑等。
+
+*   [bit4woo/Fiora](https://github.com/bit4woo/Fiora) - Fiora：漏洞PoC框架Nuclei的图形版。快捷搜索PoC、一键运行Nuclei。即可作为独立程序运行，也可作为burp插件使用。
+
+*   [pmiaowu/BurpFastJsonScan](https://github.com/pmiaowu/BurpFastJsonScan) - 一款基于BurpSuite的被动式FastJson检测插件
+
+*   [b1ackc4t/Assassin](https://github.com/b1ackc4t/Assassin) - Assassin是一款精简的基于命令行的webshell管理工具，它有着多种payload发送方式和编码方式，以及精简的payload代码，使得它成为隐蔽的暗杀者，难以被很好的防御。
+
+*   [twoyi/twoyi](https://github.com/twoyi/twoyi) - A lightweight Android container on Android
+
+*   [javaweb-sec/javaweb-sec](https://github.com/javaweb-sec/javaweb-sec) -
+
+*   [angryip/ipscan](https://github.com/angryip/ipscan) - Angry IP Scanner - fast and friendly network scanner
+
+*   [tiann/DirtyPipeRoot](https://github.com/tiann/DirtyPipeRoot) - Using DirtyPipe to gain temporary root access for Android devices.
+
+*   [safe6Sec/ShiroAndFastJson](https://github.com/safe6Sec/ShiroAndFastJson) - shiro加fastjson环境
+
+*   [b1ackc4t/MarsCTF](https://github.com/b1ackc4t/MarsCTF) - Vue+Springboot开发的CTF学习平台，提供动态靶机、学习模块、writeup模块等等CTF平台的核心功能。提供docker版本
+
+*   [bit4woo/domain\_hunter\_pro](https://github.com/bit4woo/domain_hunter_pro) - domain\_hunter的高级版本，SRC挖洞、HW打点之必备！自动化资产收集；快速Title获取；外部工具联动；等等
+
+*   [f0ng/poc2jar](https://github.com/f0ng/poc2jar) - Java编写，Python作为辅助依赖的漏洞验证、利用工具，添加了进程查找模块、编码模块、命令模块、常见漏洞利用GUI模块、shiro rememberMe解密模块，加快测试效率
+
+*   [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
+
+*   [java-deobfuscator/deobfuscator](https://github.com/java-deobfuscator/deobfuscator) - The real deal
+
+*   [R17a-17/JavaVulnSummary](https://github.com/R17a-17/JavaVulnSummary) - Java漏洞分析汇合
+
+*   [TonyD0g/JavaHacker](https://github.com/TonyD0g/JavaHacker) - 记录自己学习Java安全的过程,无技术含量 。
+
+*   [Acmesec/Sylas](https://github.com/Acmesec/Sylas) - 新一代子域名主/被动收集工具 - Subdomain automatic/passive collection tool
+
+*   [narumii/Deobfuscator](https://github.com/narumii/Deobfuscator) - Some deobfuscator for java lol
+
+*   [veo/wsMemShell](https://github.com/veo/wsMemShell) - WebSocket 内存马/Webshell，一种新型内存马/WebShell技术
+
+*   [achuna33/MYExploit](https://github.com/achuna33/MYExploit) - OAExploit一款基于产品的一键扫描工具。
+
+*   [Y4tacker/JavaSec](https://github.com/Y4tacker/JavaSec) - a rep for documenting my study, may be from 0 to 0.1
+
+*   [ffffffff0x/BerylEnigma](https://github.com/ffffffff0x/BerylEnigma) - ffffffff0x team toolset for penetration testing, cryptography research, CTF and daily use. | ffffffff0x 团队工具集，用来进行渗透测试，密码学研究，CTF和日常使用。
+
+*   [Threekiii/Awesome-POC](https://github.com/Threekiii/Awesome-POC) - 一个漏洞 PoC 知识库。A knowledge base for vulnerability PoCs(Proof of Concept),  with 1k+ vulnerabilities.
+
+*   [su18/MemoryShell](https://github.com/su18/MemoryShell) - JavaWeb MemoryShell Inject/Scan/Killer/Protect Research & Exploring
+
+*   [f0ng/log4j2burpscanner](https://github.com/f0ng/log4j2burpscanner) - CVE-2021-44228 Log4j2 BurpSuite Scanner,Customize ceye.io api or other apis,including internal networks
+
+*   [lilifengcode/Burpsuite-Plugins-Usage](https://github.com/lilifengcode/Burpsuite-Plugins-Usage) - Burpsuite-Plugins-Usage
+
+*   [Lotus6/ThinkphpGUI](https://github.com/Lotus6/ThinkphpGUI) - Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，getshell。
+
+*   [safe6Sec/ShellManageTool](https://github.com/safe6Sec/ShellManageTool) - 在网传的哥斯拉&冰蝎源码基础上加了一点注释
+
+*   [Weik1/Artillery](https://github.com/Weik1/Artillery) - JAVA 插件化漏洞扫描器，Gui基于javafx。POC 目前集成 Weblogic、Tomcat、Shiro、Spring等。
+
+*   [Bl0omZ/JNDIEXP](https://github.com/Bl0omZ/JNDIEXP) - JNDI在java高版本的利用工具,FUZZ利用链
+
+*   [woodpecker-appstore/springboot-vuldb](https://github.com/woodpecker-appstore/springboot-vuldb) -
+
+*   [BeichenDream/Chunk-Proxy](https://github.com/BeichenDream/Chunk-Proxy) -
+
+*   [jweny/MemShellDemo](https://github.com/jweny/MemShellDemo) - 内存马Demo合集 memshell demo for java / php / python
+
+*   [feihong-cs/memShell](https://github.com/feihong-cs/memShell) - FilterBased/ServletBased in memory shell for Tomcat and some other middlewares
+
+*   [xinyu2428/TDOA\_RCE](https://github.com/xinyu2428/TDOA_RCE) - 通达OA综合利用工具
+
+*   [wh1t3p1g/ysomap](https://github.com/wh1t3p1g/ysomap) - A helpful Java Deserialization exploit framework.
+
+*   [ce-automne/TomcatMemShell](https://github.com/ce-automne/TomcatMemShell) - 拿来即用的Tomcat7/8/9/10版本Listener/Filter/Servlet内存马，支持注入CMD内存马和冰蝎内存马
+
+*   [MountCloud/BehinderClientSource](https://github.com/MountCloud/BehinderClientSource) - ❄️冰蝎客户端源码-V4.0.6🔞
+
+*   [Y4er/ysoserial](https://github.com/Y4er/ysoserial) - ysoserial修改版，着重修改ysoserial.payloads.util.Gadgets.createTemplatesImpl使其可以通过引入自定义class的形式来执行命令、内存马、反序列化回显。
+
+*   [threedr3am/learnjavabug](https://github.com/threedr3am/learnjavabug) - Java安全相关的漏洞和技术demo，原生Java、Fastjson、Jackson、Hessian2、XML反序列化漏洞利用和Spring、Dubbo、Shiro、CAS、Tomcat、RMI、Nexus等框架\中间件\功能的exploits以及Java Security Manager绕过、Dubbo-Hessian2安全加固等等实践代码。
+
+*   [phith0n/JavaThings](https://github.com/phith0n/JavaThings) - Share Things Related to Java - Java安全漫谈笔记相关内容
+
+*   [rsmudge/cortana-scripts](https://github.com/rsmudge/cortana-scripts) - A collection of Cortana scripts that you may use with Armitage and Cobalt Strike 2.x. Cortana Scripts are not compatible with Cobalt Strike 3.x. Cobalt Strike 3.x uses a variant of Cortana called Aggressor Script.
+
+*   [whwlsfb/JDumpSpider](https://github.com/whwlsfb/JDumpSpider) - HeapDump敏感信息提取工具
+
+*   [c0ny1/passive-scan-client](https://github.com/c0ny1/passive-scan-client) - Burp被动扫描流量转发插件
+
+*   [d3vilbug/HackBar](https://github.com/d3vilbug/HackBar) - HackBar plugin for Burpsuite
+
+*   [bit4woo/reCAPTCHA](https://github.com/bit4woo/reCAPTCHA) - reCAPTCHA = REcognize CAPTCHA: A Burp Suite Extender that recognize CAPTCHA and use for intruder payload 自动识别图形验证码并用于burp intruder爆破模块的插件
+
+*   [gh0stkey/CaA](https://github.com/gh0stkey/CaA) - CaA - Collector and Analyzer, Insight into information, exploring with intelligence in a thousand ways.
+
+*   [Firebasky/Java](https://github.com/Firebasky/Java) - 关于学习java安全的一些知识,正在学习中ing,欢迎fork and star
+
+*   [TideSec/Decrypt\_Weblogic\_Password](https://github.com/TideSec/Decrypt_Weblogic_Password) - 搜集了市面上绝大部分weblogic解密方式，整理了7种解密weblogic的方法及响应工具。
+
+*   [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
+
+*   [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
+
+*   [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
+
+*   [yhy0/ExpDemo-JavaFX](https://github.com/yhy0/ExpDemo-JavaFX) - 图形化漏洞利用Demo-JavaFX版
+
+*   [Chora10/Cknife](https://github.com/Chora10/Cknife) - Cknife
+
+*   [SummerSec/ShiroAttack2](https://github.com/SummerSec/ShiroAttack2) - shiro反序列化漏洞综合利用,包含（回显执行命令/注入内存马）修复原版中NoCC的问题 https://github.com/j1anFen/shiro\_attack
+
+*   [Puliczek/CVE-2021-44228-PoC-log4j-bypass-words](https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words) - 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - WAF bypass tricks
+
+*   [bigsizeme/shiro-check](https://github.com/bigsizeme/shiro-check) - Shiro反序列化回显利用、内存shell、检查 Burp插件
+
+*   [0x727/SpringBootExploit](https://github.com/0x727/SpringBootExploit) - 项目是根据LandGrey/SpringBootVulExploit清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛。
+
+*   [LandGrey/SpringBootVulExploit](https://github.com/LandGrey/SpringBootVulExploit) - SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list
+
+*   [wgpsec/fofa\_viewer](https://github.com/wgpsec/fofa_viewer) - A simple FOFA client written in JavaFX.  Made by WgpSec, Maintained by f1ashine.
+
+*   [feihong-cs/Java-Rce-Echo](https://github.com/feihong-cs/Java-Rce-Echo) - Java RCE 回显测试代码
+
+*   [exp1orer/JNDI-Inject-Exploit](https://github.com/exp1orer/JNDI-Inject-Exploit) - 解决FastJson、Jackson、Log4j2、原生JNDI注入漏洞的高版本JDKBypass利用，探测本地可用反序列化gadget达到命令执行、回显命令执行、内存马注入
+
+*   [gh0stkey/HaE](https://github.com/gh0stkey/HaE) - HaE - Highlighter and Extractor, Empower ethical hacker for efficient operations.
+
+*   [welk1n/JNDI-Injection-Exploit](https://github.com/welk1n/JNDI-Injection-Exploit) - JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc）
+
+*   [feihong-cs/ShiroExploit-Deprecated](https://github.com/feihong-cs/ShiroExploit-Deprecated) - Shiro550/Shiro721 一键化利用工具，支持多种回显方式
+
+*   [API-Security/APIKit](https://github.com/API-Security/APIKit) - APIKit：Discovery, Scan and Audit APIs Toolkit All In One.
+
+*   [pmiaowu/BurpShiroPassiveScan](https://github.com/pmiaowu/BurpShiroPassiveScan) - 一款基于BurpSuite的被动式shiro检测插件
+
+*   [charles2gan/GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool) - the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python\&java scripts, device memory extraction, data decryption, and encryption, etc.
+
+*   [SafeGroceryStore/MDUT](https://github.com/SafeGroceryStore/MDUT) - MDUT - Multiple Database Utilization Tools
+
+*   [safe6Sec/ThinkPHPLogScan](https://github.com/safe6Sec/ThinkPHPLogScan) - tp日志泄露扫描工具
+
+*   [depycode/fastjson-local-echo](https://github.com/depycode/fastjson-local-echo) - 基于dbcp的fastjson rce 回显
+
+*   [smxiazi/NEW\_xp\_CAPTCHA](https://github.com/smxiazi/NEW_xp_CAPTCHA) - xp\_CAPTCHA(瞎跑 白嫖版) burp 验证码 识别 burp插件
+
+*   [c0ny1/chunked-coding-converter](https://github.com/c0ny1/chunked-coding-converter) - Burp suite 分块传输辅助插件
+
+*   [1n7erface/PocList](https://github.com/1n7erface/PocList) - Alibaba-Nacos-Unauthorized/ApacheDruid-RCE\_CVE-2021-25646/MS-Exchange-SSRF-CVE-2021-26885/Oracle-WebLogic-CVE-2021-2109\_RCE/RG-CNVD-2021-14536/RJ-SSL-VPN-UltraVires/Redis-Unauthorized-RCE/TDOA-V11.7-GetOnlineCookie/VMware-vCenter-GetAnyFile/yongyou-GRP-U8-XXE/Oracle-WebLogic-CVE-2020-14883/Oracle-WebLogic-CVE-2020-14882/Apache-Solr-GetAnyFile/F5-BIG-IP-CVE-2021-22986/Sonicwall-SSL-VPN-RCE/GitLab-Graphql-CNVD-2021-14193/D-Link-DCS-CVE-2020-25078/WLAN-AP-WEA453e-RCE/360TianQing-Unauthorized/360TianQing-SQLinjection/FanWeiOA-V8-SQLinjection/QiZhiBaoLeiJi-AnyUserLogin/QiAnXin-WangKangFirewall-RCE/金山-V8-终端安全系统/NCCloud-SQLinjection/ShowDoc-RCE
+
+*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
+
+*   [frohoff/ysoserial](https://github.com/frohoff/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
+
+## JavaScript
+
+*   [z1sec/jwtauditor](https://github.com/z1sec/jwtauditor) - jwtauditor 汉化修改版
+
+*   [kuizuo/js-deobfuscator](https://github.com/kuizuo/js-deobfuscator) - 让混淆不再成为逆向分析中的绊脚石。基于 Babel AST 的自动化 JS 反混淆工具，提供在线 Playground、命令行与可编程 API。
+
+*   [24-2021/Proxy24](https://github.com/24-2021/Proxy24) - 一个简单的代理浏览器插件
+
+*   [mrknow001/RSC\_Detector](https://github.com/mrknow001/RSC_Detector) - Supports RSC fingerprinting and exploitation of the React component vulnerability CVE-2025-55182.
+
+*   [wuba/Antenna](https://github.com/wuba/Antenna) - Antenna是58同城安全团队打造的一款辅助安全从业人员验证网络中多种漏洞是否存在以及可利用性的工具。其基于带外应用安全测试(OAST)通过任务的形式，将不同漏洞场景检测能力通过插件的形式进行集合，通过与目标进行out-bind的数据通信方式进行辅助检测。
+
+*   [BeichenDream/GodzillaNodeJsPayload](https://github.com/BeichenDream/GodzillaNodeJsPayload) - GodzillaNodeJsPayload
+
+*   [phpcalm/exceed](https://github.com/phpcalm/exceed) - 一个功能强大的浏览器扩展程序，专门用于检测Web系统中的权限越权漏洞，适用于Web渗透测试。
+
+*   [vam876/FastWLAT](https://github.com/vam876/FastWLAT) - FastWLAT (Fast Web Log Analysis Tool) 是基于 Electron + Vue 3 构建的跨平台高性能 Web 日志分析工具，支持本地内存模式与 Redis 分布式处理，专为海量WEB日志分析场景设计。提供日志解析、威胁规则引擎、可视化仪表盘及树状聚合分析，优化了百万级数据的导入速度与查询性能，助力网络安全人员快速洞察访问流量与安全威胁。支持 Windows/macOS/Linux，开箱即用。
+
+*   [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist) - Check酱：监测网页内容变化，并发送异动到微信。亦支持http status、json和rss监测。配合自架云端，关电脑后也能运行。
+
+*   [1diot9/MyJavaSecStudy](https://github.com/1diot9/MyJavaSecStudy) - 在Java安全学习过程中的笔记和代码
+
+*   [bigsinger/awesomeFrida](https://github.com/bigsinger/awesomeFrida) - frida代码汇总
+
+*   [SickleSec/SnowEyes](https://github.com/SickleSec/SnowEyes) - 一款用于网页敏感信息检测，指纹识别的chrome插件
+
+*   [sirpdboy/luci-app-ddns-go](https://github.com/sirpdboy/luci-app-ddns-go) - luci-app-ddns-go 自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商 阿里云 腾讯云 Dnspod Cloudflare 华为云 Callback 百度云 Porkbun GoDaddy Namecheap NameSilo Dynadot DNSLA 时代互联
+
+*   [tongcheng-security-team/NextScan](https://github.com/tongcheng-security-team/NextScan) - 飞刃是一套完整的企业级黑盒漏洞扫描系统，集成漏洞扫描、漏洞管理、扫描资产、爬虫等服务。 拥有强大的漏洞检测引擎和丰富的插件库，覆盖多种漏洞类型和应用程序框架。
+
+*   [Rabb1tQ/wiki](https://github.com/Rabb1tQ/wiki) - 由于收集了一堆文档，文档数量及附件过多，现有的免费的系统不满足我的需求，所以自己弄个~
+
+*   [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
+
+*   [xh321/LiteLoaderQQNT-Anti-Recall](https://github.com/xh321/LiteLoaderQQNT-Anti-Recall) - LiteLoaderQQNT 插件 - QQNT 简易防撤回
+
+*   [kenny67/AndroidReverseEngineering](https://github.com/kenny67/AndroidReverseEngineering) - 安卓逆向工程 ELFRead、Frida、FridaDump、DexDump、SoDump、Ghidra、Jadx、Xpose...
+
+*   [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
+
+*   [LinBeiPolaris/PolarisScan](https://github.com/LinBeiPolaris/PolarisScan) - 一款Google信息收集插件，包含域名，map，js等文件提取
+
+*   [arounyf/headscale-Admin](https://github.com/arounyf/headscale-Admin) - 支持多用户管理的一款headscale后台控制中心
+
+*   [StrayMeteor3337/WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你
+
+*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
+
+*   [whgojp/JavaSecLab](https://github.com/whgojp/JavaSecLab) - JavaSecLab is a comprehensive Java vulnerability platform｜​ JavaSecLab是一款综合型Java漏洞平台，提供相关漏洞缺陷代码、修复代码、漏洞场景、审计SINK点、安全编码规范，覆盖多种漏洞场景，友好用户交互UI……
+
+*   [lazy-luo/smarGate](https://github.com/lazy-luo/smarGate) - 内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！
+
+*   [mindskip/xzs-mysql](https://github.com/mindskip/xzs-mysql) - 学之思开源考试系统是一款 java + vue 的前后端分离的考试系统。主要优点是开发、部署简单快捷、界面设计友好、代码结构清晰。支持web端和微信小程序，能覆盖到pc机和手机等设备。 支持多种部署方式：集成部署、前后端分离部署、docker部署。
+
+*   [l3yx/Java-RASP-Research-Env](https://github.com/l3yx/Java-RASP-Research-Env) - 之前方便自己研究RASP原理和绕过时顺手写的，用于快速启动和重置RASP环境
+
+*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
+
+*   [metowolf/iplist](https://github.com/metowolf/iplist) - IP CIDRs List / IP 地址列表
+
+*   [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
+
+*   [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
+
+*   [Z-Siqi/Clash-for-Windows\_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
+
+*   [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
+
+*   [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
+
+*   [beishanxueyuan/domain\_scan](https://github.com/beishanxueyuan/domain_scan) -
+
+*   [knownsec/KCon](https://github.com/knownsec/KCon) - KCon is a famous Hacker Con powered by Knownsec Team.
+
+*   [TongchengOpenSource/AppScan](https://github.com/TongchengOpenSource/AppScan) - 安全隐私卫士（AppScan）一款免费的企业级自动化App隐私合规检测工具。
+
+*   [Gerrit0/old-github-feed](https://github.com/Gerrit0/old-github-feed) - Brings back GitHub's old feed
+
+*   [phith0n/vueinfo](https://github.com/phith0n/vueinfo) - Extract website information from Vue
+
+*   [0x727/Space\_view](https://github.com/0x727/Space_view) - Space\_view 是一款Hunter(鹰图平台)或者FOFA平台 资产展示的浏览器油猴插件
+
+*   [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy.
+
+*   [momosecurity/FindSomething](https://github.com/momosecurity/FindSomething) - 基于chrome、firefox插件的被动式信息泄漏检测工具
+
+*   [wjl110/CVE-Master](https://github.com/wjl110/CVE-Master) - 收集本人自接触渗透测试用于漏洞验证的所有热门CVE、POC、CNVD攻击有效载荷+测试工具+FUZZ,一个仓库满足许多攻击测试场景,开箱即用.
+
+*   [1in9e/gosint](https://github.com/1in9e/gosint) - Gosint is a distributed asset information collection and vulnerability scanning platform
+
+*   [b0bac/ApolloScanner](https://github.com/b0bac/ApolloScanner) - 自动化巡航扫描框架（可用于红队打点评估）
+
+*   [hanc00l/nemo\_go](https://github.com/hanc00l/nemo_go) - Nemo是用来进行自动化信息收集的一个简单平台，通过集成常用的信息收集工具和技术，实现对内网及互联网资产信息的自动收集，提高隐患排查和渗透测试的工作效率。
+
+*   [system-cpu/wxappUnpacker](https://github.com/system-cpu/wxappUnpacker) - 基于node反编译小程序 已经配置完成
+
+*   [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
+
+*   [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
+
+*   [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
+
+*   [Ghr07h/Heimdallr](https://github.com/Ghr07h/Heimdallr) - 一款完全被动监听的谷歌插件，用于高危指纹识别、蜜罐特征告警和拦截、机器特征对抗
+
+*   [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥 hooker is a Frida-based reverse engineering toolkit for Android. It offers a user-friendly CLI, universal scripts, auto hook generation, memory roaming to detect activities/services, one-click SOCKS5 proxy setup, Frida JustTrustMe, and BoringSSL unpinning for all apps.
+
+*   [lijiejie/EasyPen](https://github.com/lijiejie/EasyPen) - EasyPen is a GUI program which helps pentesters do target discovery, vulnerability scan and exploitation
+
+*   [yzddmr6/as\_webshell\_venom](https://github.com/yzddmr6/as_webshell_venom) - 免杀webshell无限生成工具蚁剑版
+
+*   [whitescent/KFC-Crazy-Thursday](https://github.com/whitescent/KFC-Crazy-Thursday) - 肯德基疯狂星期四段子收录
+
+*   [aliyun/oss-browser](https://github.com/aliyun/oss-browser) - OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
+
+*   [r00tSe7en/GoogleHackingTool](https://github.com/r00tSe7en/GoogleHackingTool) - 在线Google Hacking 小工具
+
+*   [SiJiDo/H](https://github.com/SiJiDo/H) - H是一款强大的资产收集管理平台
+
+*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+
+*   [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
+
+*   [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager \[GUI client], compatible with Linux, Windows, Mac.
+
+*   [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
+
+*   [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
+
+*   [liuze0109/Royal\_TSX\_Chinese\_Language\_Pack](https://github.com/liuze0109/Royal_TSX_Chinese_Language_Pack) - Royal\_TSX的简体中文汉化包
+
+*   [tsycnh/WeChatExporter](https://github.com/tsycnh/WeChatExporter) - 一个可以快速导出、查看你的微信聊天记录的工具
+
+*   [phith0n/xray-poc-generation](https://github.com/phith0n/xray-poc-generation) - 🧬 辅助生成 XRay YAML POC
+
+*   [Mustard404/Savior](https://github.com/Mustard404/Savior) - 渗透测试报告自动生成工具！
+
+*   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+
+*   [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)
+
+*   [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
+
+*   [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) -  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
+
+*   [guyoung/CaptfEncoder](https://github.com/guyoung/CaptfEncoder) - Captfencoder is opensource a rapid cross platform network security tool suite, providing network security related code conversion, classical cryptography, cryptography, asymmetric encryption, miscellaneous tools, and aggregating all kinds of online tools.
+
+*   [Gu-f/CTFd\_chinese\_CN](https://github.com/Gu-f/CTFd_chinese_CN) - 对CTFd平台各版本的汉化记录。key:中文、汉化、翻译、chinese、CN、CTFd
+
+*   [gh0stkey/avList](https://github.com/gh0stkey/avList) - avList - 杀软进程对应杀软名称
+
+*   [yzddmr6/As-Exploits](https://github.com/yzddmr6/As-Exploits) - 中国蚁剑后渗透框架
+
+*   [AntSwordProject/AwesomeEncoder](https://github.com/AntSwordProject/AwesomeEncoder) - AntSword 自定义编(解)码器分享
+
+## Shell
+
+*   [DrDonk/OC4VM](https://github.com/DrDonk/OC4VM) - OpenCore for VMware
+
+*   [LongQT-sea/macos-iso-builder](https://github.com/LongQT-sea/macos-iso-builder) - Generate bootable macOS installer ISO or DMG images directly from Apple servers via GitHub Actions - no Mac required. Mac OS X 10.7 - macOS 26 Tahoe
+
+*   [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境
+
+*   [testnet0/testnet](https://github.com/testnet0/testnet) - TestNet资产管理系统（资产管理|信息收集|暴露面管理|子域名扫描|C段扫描|端口扫描|漏洞扫描|Hunter|Fofa）
+
+*   [y0ngb1n/dockerized](https://github.com/y0ngb1n/dockerized) - 🐳 Build once, run anywhere ☸️
+
+*   [c0ny1/vulstudy](https://github.com/c0ny1/vulstudy) - 使用docker快速搭建各大漏洞靶场，目前可以一键搭建17个靶场。
+
+*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
+
+*   [hanreev/root-bluestacks-air](https://github.com/hanreev/root-bluestacks-air) - Root BlueStacks Air macOS
+
+*   [enomothem/Whoamifuck](https://github.com/enomothem/Whoamifuck) - 用于Linux应急响应，快速排查异常用户登录情况和入侵信息排查，准确定位溯源时间线，高效辅助还原攻击链。
+
+*   [AdrianDAlessandro/pyenv-suffix](https://github.com/AdrianDAlessandro/pyenv-suffix) - pyenv plugin to allow you to install python versions with user-specified suffixes.
+
+*   [tom-snow/wechat-windows-versions](https://github.com/tom-snow/wechat-windows-versions) - 保存微信历史版本
+
+*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
+
+*   [RROrg/rr](https://github.com/RROrg/rr) - Redpill Recovery (arpl-i18n)
+
+*   [Jewel591/suidcheck](https://github.com/Jewel591/suidcheck) - Linux SUID 提权检测脚本，自动分析具有 s 权限的可执行文件并给出相应的提权利用方法
+
+*   [Mr-xn/subdomain\_shell](https://github.com/Mr-xn/subdomain_shell) - 一键调用subfinder+ksubdomain+httpx 强强联合 从域名发现-->域名验证-->获取域名标题、状态码以及响应大小 最后保存结果,简化重复操作命令
+
+*   [XRSec/CobaltStrike-Docker](https://github.com/XRSec/CobaltStrike-Docker) - Cobalt Strike Wrapper
+
+*   [tangjie1/-Baseline-check](https://github.com/tangjie1/-Baseline-check) - windows和linux基线检查，配套自动化检查脚本。纯手打。
+
+*   [haiibo/OpenWrt](https://github.com/haiibo/OpenWrt) - 基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5C、R5S、香橙派 R1 Plus、树莓派3B、树莓派4B、R66S、R68S、M68S、H28K、H66K、H68K、H88K、H69K、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等
+
+*   [the0demiurge/CharlesScripts](https://github.com/the0demiurge/CharlesScripts) - My awesome scripts for Arch Linux or Ubuntu Gnome latest LTS or MacBook.
+
+*   [yhan219/navicat\_reset\_mac](https://github.com/yhan219/navicat_reset_mac) - navicat mac版无限重置试用期脚本 Navicat Mac Version Unlimited Trial Reset Script
+
+*   [insightglacier/Dictionary-Of-Pentesting](https://github.com/insightglacier/Dictionary-Of-Pentesting) - Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。
+
+*   [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
+
+*   [paulirish/github-email](https://github.com/paulirish/github-email) - Get a GitHub user's email. :sunglasses: Use this responsibly.
+
+*   [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
+
+*   [iamj0ker/bypass-403](https://github.com/iamj0ker/bypass-403) - A simple script just made for self use for bypassing 403
+
+*   [typecho/Dockerfile](https://github.com/typecho/Dockerfile) - Docker Image packaging for Typecho
+
+*   [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
+
+*   [r00t-3xp10it/venom](https://github.com/r00t-3xp10it/venom) - venom - C2 shellcode generator/compiler/handler
+
+*   [snail007/proxy\_admin\_free](https://github.com/snail007/proxy_admin_free) - Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。
+
+*   [neargle/re0-kubernetes-sec-archive](https://github.com/neargle/re0-kubernetes-sec-archive) - :atom: \[WIP] 整理过去我和K8s、容器、虚拟化相关的分享 🧐
+
+*   [TomAPU/poc\_and\_exp](https://github.com/TomAPU/poc_and_exp) - 搜集的或者自己写的poc或者exp
+
+*   [rebootuser/LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
+
+*   [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
+
+*   [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
+
+*   [teamssix/container-escape-check](https://github.com/teamssix/container-escape-check) - docker container escape check || Docker 容器逃逸检测
+
+*   [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
+
+*   [csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China) - 介绍中国各二线以上城市的互联网环境以及生活成本
+
+*   [TheKingOfDuck/ApkAnalyser](https://github.com/TheKingOfDuck/ApkAnalyser) - 一键提取安卓应用中可能存在的敏感信息。
+
+*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+
+*   [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck) - Linux应急处置/信息搜集/漏洞检测工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程/供应链/服务器风险等13类70+项检查
+
+*   [ffffffff0x/f8x](https://github.com/ffffffff0x/f8x) - 红/蓝队环境自动化部署工具 | Red/Blue team environment automation deployment tool
+
+*   [vufa/deepin-wine-qq-arch](https://github.com/vufa/deepin-wine-qq-arch) - Tencent QQ on Deepin Wine5(com.qq.im.deepin) For Archlinux
+
+*   [vufa/deepin-wine-wechat-arch](https://github.com/vufa/deepin-wine-wechat-arch) - Tencent WeChat on Deepin Wine(com.qq.weixin.deepin) For Archlinux
+
+*   [orangbus/Tool](https://github.com/orangbus/Tool) - Manjaro从入门到爱不释手．
+
+*   [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
+
+*   [govolution/avet](https://github.com/govolution/avet) - AntiVirus Evasion Tool
+
+*   [xiaoZ-hc/redtool](https://github.com/xiaoZ-hc/redtool) - 日常积累的一些红队工具及自己写的脚本，更偏向于一些diy的好用的工具，并不是一些比较常用的msf/awvs/xray这种
 
 ## C++
 
@@ -2315,160 +3005,6 @@
 
 *   [Wh0ale/SRC-experience](https://github.com/Wh0ale/SRC-experience) - 工欲善其事，必先利其器
 
-## JavaScript
-
-*   [kuizuo/js-deobfuscator](https://github.com/kuizuo/js-deobfuscator) - 让混淆不再成为逆向分析中的绊脚石。基于 Babel AST 的自动化 JS 反混淆工具，提供在线 Playground、命令行与可编程 API。
-
-*   [24-2021/Proxy24](https://github.com/24-2021/Proxy24) - 一个简单的代理浏览器插件
-
-*   [mrknow001/RSC\_Detector](https://github.com/mrknow001/RSC_Detector) - Supports RSC fingerprinting and exploitation of the React component vulnerability CVE-2025-55182.
-
-*   [wuba/Antenna](https://github.com/wuba/Antenna) - Antenna是58同城安全团队打造的一款辅助安全从业人员验证网络中多种漏洞是否存在以及可利用性的工具。其基于带外应用安全测试(OAST)通过任务的形式，将不同漏洞场景检测能力通过插件的形式进行集合，通过与目标进行out-bind的数据通信方式进行辅助检测。
-
-*   [BeichenDream/GodzillaNodeJsPayload](https://github.com/BeichenDream/GodzillaNodeJsPayload) - GodzillaNodeJsPayload
-
-*   [phpcalm/exceed](https://github.com/phpcalm/exceed) - 一个功能强大的浏览器扩展程序，专门用于检测Web系统中的权限越权漏洞，适用于Web渗透测试。
-
-*   [vam876/FastWLAT](https://github.com/vam876/FastWLAT) - FastWLAT (Fast Web Log Analysis Tool) 是基于 Electron + Vue 3 构建的跨平台高性能 Web 日志分析工具，支持本地内存模式与 Redis 分布式处理，专为海量WEB日志分析场景设计。提供日志解析、威胁规则引擎、可视化仪表盘及树状聚合分析，优化了百万级数据的导入速度与查询性能，助力网络安全人员快速洞察访问流量与安全威胁。支持 Windows/macOS/Linux，开箱即用。
-
-*   [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist) - Check酱：监测网页内容变化，并发送异动到微信。亦支持http status、json和rss监测。配合自架云端，关电脑后也能运行。
-
-*   [1diot9/MyJavaSecStudy](https://github.com/1diot9/MyJavaSecStudy) - 在Java安全学习过程中的笔记和代码
-
-*   [bigsinger/awesomeFrida](https://github.com/bigsinger/awesomeFrida) - frida代码汇总
-
-*   [SickleSec/SnowEyes](https://github.com/SickleSec/SnowEyes) - 一款用于网页敏感信息检测，指纹识别的chrome插件
-
-*   [sirpdboy/luci-app-ddns-go](https://github.com/sirpdboy/luci-app-ddns-go) - luci-app-ddns-go 自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商 阿里云 腾讯云 Dnspod Cloudflare 华为云 Callback 百度云 Porkbun GoDaddy Namecheap NameSilo Dynadot DNSLA 时代互联
-
-*   [tongcheng-security-team/NextScan](https://github.com/tongcheng-security-team/NextScan) - 飞刃是一套完整的企业级黑盒漏洞扫描系统，集成漏洞扫描、漏洞管理、扫描资产、爬虫等服务。 拥有强大的漏洞检测引擎和丰富的插件库，覆盖多种漏洞类型和应用程序框架。
-
-*   [Rabb1tQ/wiki](https://github.com/Rabb1tQ/wiki) - 由于收集了一堆文档，文档数量及附件过多，现有的免费的系统不满足我的需求，所以自己弄个~
-
-*   [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
-
-*   [xh321/LiteLoaderQQNT-Anti-Recall](https://github.com/xh321/LiteLoaderQQNT-Anti-Recall) - LiteLoaderQQNT 插件 - QQNT 简易防撤回
-
-*   [kenny67/AndroidReverseEngineering](https://github.com/kenny67/AndroidReverseEngineering) - 安卓逆向工程 ELFRead、Frida、FridaDump、DexDump、SoDump、Ghidra、Jadx、Xpose...
-
-*   [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
-
-*   [LinBeiPolaris/PolarisScan](https://github.com/LinBeiPolaris/PolarisScan) - 一款Google信息收集插件，包含域名，map，js等文件提取
-
-*   [arounyf/headscale-Admin](https://github.com/arounyf/headscale-Admin) - 支持多用户管理的一款headscale后台控制中心
-
-*   [StrayMeteor3337/WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你
-
-*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
-
-*   [whgojp/JavaSecLab](https://github.com/whgojp/JavaSecLab) - JavaSecLab is a comprehensive Java vulnerability platform｜​ JavaSecLab是一款综合型Java漏洞平台，提供相关漏洞缺陷代码、修复代码、漏洞场景、审计SINK点、安全编码规范，覆盖多种漏洞场景，友好用户交互UI……
-
-*   [lazy-luo/smarGate](https://github.com/lazy-luo/smarGate) - 内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！
-
-*   [mindskip/xzs-mysql](https://github.com/mindskip/xzs-mysql) - 学之思开源考试系统是一款 java + vue 的前后端分离的考试系统。主要优点是开发、部署简单快捷、界面设计友好、代码结构清晰。支持web端和微信小程序，能覆盖到pc机和手机等设备。 支持多种部署方式：集成部署、前后端分离部署、docker部署。
-
-*   [l3yx/Java-RASP-Research-Env](https://github.com/l3yx/Java-RASP-Research-Env) - 之前方便自己研究RASP原理和绕过时顺手写的，用于快速启动和重置RASP环境
-
-*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
-
-*   [metowolf/iplist](https://github.com/metowolf/iplist) - IP CIDRs List / IP 地址列表
-
-*   [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
-
-*   [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
-
-*   [Z-Siqi/Clash-for-Windows\_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
-
-*   [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
-
-*   [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
-
-*   [beishanxueyuan/domain\_scan](https://github.com/beishanxueyuan/domain_scan) -
-
-*   [knownsec/KCon](https://github.com/knownsec/KCon) - KCon is a famous Hacker Con powered by Knownsec Team.
-
-*   [TongchengOpenSource/AppScan](https://github.com/TongchengOpenSource/AppScan) - 安全隐私卫士（AppScan）一款免费的企业级自动化App隐私合规检测工具。
-
-*   [Gerrit0/old-github-feed](https://github.com/Gerrit0/old-github-feed) - Brings back GitHub's old feed
-
-*   [phith0n/vueinfo](https://github.com/phith0n/vueinfo) - Extract website information from Vue
-
-*   [0x727/Space\_view](https://github.com/0x727/Space_view) - Space\_view 是一款Hunter(鹰图平台)或者FOFA平台 资产展示的浏览器油猴插件
-
-*   [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy.
-
-*   [momosecurity/FindSomething](https://github.com/momosecurity/FindSomething) - 基于chrome、firefox插件的被动式信息泄漏检测工具
-
-*   [wjl110/CVE-Master](https://github.com/wjl110/CVE-Master) - 收集本人自接触渗透测试用于漏洞验证的所有热门CVE、POC、CNVD攻击有效载荷+测试工具+FUZZ,一个仓库满足许多攻击测试场景,开箱即用.
-
-*   [1in9e/gosint](https://github.com/1in9e/gosint) - Gosint is a distributed asset information collection and vulnerability scanning platform
-
-*   [b0bac/ApolloScanner](https://github.com/b0bac/ApolloScanner) - 自动化巡航扫描框架（可用于红队打点评估）
-
-*   [hanc00l/nemo\_go](https://github.com/hanc00l/nemo_go) - Nemo是用来进行自动化信息收集的一个简单平台，通过集成常用的信息收集工具和技术，实现对内网及互联网资产信息的自动收集，提高隐患排查和渗透测试的工作效率。
-
-*   [system-cpu/wxappUnpacker](https://github.com/system-cpu/wxappUnpacker) - 基于node反编译小程序 已经配置完成
-
-*   [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
-
-*   [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
-
-*   [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
-
-*   [Ghr07h/Heimdallr](https://github.com/Ghr07h/Heimdallr) - 一款完全被动监听的谷歌插件，用于高危指纹识别、蜜罐特征告警和拦截、机器特征对抗
-
-*   [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥 hooker is a Frida-based reverse engineering toolkit for Android. It offers a user-friendly CLI, universal scripts, auto hook generation, memory roaming to detect activities/services, one-click SOCKS5 proxy setup, Frida JustTrustMe, and BoringSSL unpinning for all apps.
-
-*   [lijiejie/EasyPen](https://github.com/lijiejie/EasyPen) - EasyPen is a GUI program which helps pentesters do target discovery, vulnerability scan and exploitation
-
-*   [yzddmr6/as\_webshell\_venom](https://github.com/yzddmr6/as_webshell_venom) - 免杀webshell无限生成工具蚁剑版
-
-*   [whitescent/KFC-Crazy-Thursday](https://github.com/whitescent/KFC-Crazy-Thursday) - 肯德基疯狂星期四段子收录
-
-*   [aliyun/oss-browser](https://github.com/aliyun/oss-browser) - OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
-
-*   [r00tSe7en/GoogleHackingTool](https://github.com/r00tSe7en/GoogleHackingTool) - 在线Google Hacking 小工具
-
-*   [SiJiDo/H](https://github.com/SiJiDo/H) - H是一款强大的资产收集管理平台
-
-*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-
-*   [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
-
-*   [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager \[GUI client], compatible with Linux, Windows, Mac.
-
-*   [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
-
-*   [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
-
-*   [liuze0109/Royal\_TSX\_Chinese\_Language\_Pack](https://github.com/liuze0109/Royal_TSX_Chinese_Language_Pack) - Royal\_TSX的简体中文汉化包
-
-*   [tsycnh/WeChatExporter](https://github.com/tsycnh/WeChatExporter) - 一个可以快速导出、查看你的微信聊天记录的工具
-
-*   [phith0n/xray-poc-generation](https://github.com/phith0n/xray-poc-generation) - 🧬 辅助生成 XRay YAML POC
-
-*   [Mustard404/Savior](https://github.com/Mustard404/Savior) - 渗透测试报告自动生成工具！
-
-*   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-
-*   [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)
-
-*   [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-
-*   [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) -  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
-
-*   [guyoung/CaptfEncoder](https://github.com/guyoung/CaptfEncoder) - Captfencoder is opensource a rapid cross platform network security tool suite, providing network security related code conversion, classical cryptography, cryptography, asymmetric encryption, miscellaneous tools, and aggregating all kinds of online tools.
-
-*   [Gu-f/CTFd\_chinese\_CN](https://github.com/Gu-f/CTFd_chinese_CN) - 对CTFd平台各版本的汉化记录。key:中文、汉化、翻译、chinese、CN、CTFd
-
-*   [gh0stkey/avList](https://github.com/gh0stkey/avList) - avList - 杀软进程对应杀软名称
-
-*   [yzddmr6/As-Exploits](https://github.com/yzddmr6/As-Exploits) - 中国蚁剑后渗透框架
-
-*   [AntSwordProject/AwesomeEncoder](https://github.com/AntSwordProject/AwesomeEncoder) - AntSword 自定义编(解)码器分享
-
-*   [AntSwordProject/antSword](https://github.com/AntSwordProject/antSword) - 中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.
-
 ## Batchfile
 
 *   [moshowgame/Navicat\_Keygen\_Patch](https://github.com/moshowgame/Navicat_Keygen_Patch) - Navicat Keygen Patch/Navicat Cracker for 17 , warning , its for trial only ,please delete it within 12 hours.
@@ -2501,88 +3037,6 @@
 
 *   [AntSwordProject/AntSword-Labs](https://github.com/AntSwordProject/AntSword-Labs) - Awesome environment for antsword tests
 
-## TypeScript
-
-*   [evi0s/WMPFDebugger](https://github.com/evi0s/WMPFDebugger) - Yet another WeChat miniapp debugger on Windows
-
-*   [classfang/ssh-mcp-server](https://github.com/classfang/ssh-mcp-server) - 基于 SSH 的 MCP 服务器 🧙‍♀️。已被MCP官方收录 🎉。 SSH MCP Server 🧙‍♀️. It has been included in the community MCP repository 🎉.
-
-*   [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
-
-*   [ReaJason/No-One](https://github.com/ReaJason/No-One) - No One（无名）：Next Generation Polyglot Website Manager
-
-*   [yyhuni/xingrin](https://github.com/yyhuni/xingrin) - src资产管理漏洞扫描平台，子域名爆破，端口扫描，站点发现，目录扫描，爬虫，漏洞扫描
-
-*   [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-
-*   [MatrixSeven/file-transfer-go](https://github.com/MatrixSeven/file-transfer-go) - Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。
-
-*   [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
-
-*   [zgsm-ai/costrict](https://github.com/zgsm-ai/costrict) - Costrict - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion.
-
-*   [Cloxl/CursorPool\_Client](https://github.com/Cloxl/CursorPool_Client) - CursorPool客户端，支持windows系统和mac，支持cursor一键换号、重置机器码、禁用Cursor自动更新
-
-*   [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
-
-*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。
-
-*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
-
-*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-
-*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
-
-*   [AIsouler/GKD\_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
-
-*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-
-*   [biggerstar/wedecode](https://github.com/biggerstar/wedecode) - 全自动化，微信小程序 wxapkg 包 源代码还原工具, 线上代码安全审计，支持 Windows, Macos, Linux
-
-*   [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
-
-*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-
-*   [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
-
-*   [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
-
-*   [atian25/yuque-exporter](https://github.com/atian25/yuque-exporter) - export yuque to local markdown
-
-*   [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
-
-*   [BilibiliVideoDownload/BilibiliVideoDownload](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) - Cross-platform download bilibili video desktop software, support windows, macOS, Linux
-
-*   [DVKunion/SeaMoon](https://github.com/DVKunion/SeaMoon) - 月海 (Sea Moon) 是一款 FaaS/BaaS 实现的 Serverless 网络工具
-
-*   [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
-
-*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-
-*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-
-*   [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not
-
-*   [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
-
-*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-
-*   [ceajs/cea](https://github.com/ceajs/cea) - 高校统一身份验证开发框架(已集成 CPDAILY 签到&查寝插件)
-
-*   [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
-
-*   [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
-
-*   [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
-
-*   [pajasevi/UnCSS-Online](https://github.com/pajasevi/UnCSS-Online) - Simply UnCSS your styles online!
-
-*   [yaklang/yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
-
-*   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron 的音乐软件
-
-*   [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
-
 ## CSS
 
 *   [MrWQ/tools](https://github.com/MrWQ/tools) - [个人GitHub pages工具箱](https://mrwq.github.io/tools/)
@@ -2612,456 +3066,6 @@
 *   [esappear/hexo-theme-clover](https://github.com/esappear/hexo-theme-clover) - Clover theme for Hexo.
 
 *   [admin360bug/PHP](https://github.com/admin360bug/PHP) - PHP训练靶场
-
-## Java
-
-*   [JoyChou93/java-sec-code](https://github.com/JoyChou93/java-sec-code) - Java web common vulnerabilities and security code which is base on springboot and spring security
-
-*   [Conan924/AIPentestKit](https://github.com/Conan924/AIPentestKit) - 🚀 AI-Powered Red Team & Pentest Toolkit | 赋能红队与渗透测试的 AI 工具集
-
-*   [KaGty1/CustomMemShellInjector](https://github.com/KaGty1/CustomMemShellInjector) - 哥斯拉Godzilla定制化插件，接收恶意类Base64编码与恶意类类名进行实例化，达到注入任意类型内存马的目的。
-
-*   [cwkiller/ClassLinefix](https://github.com/cwkiller/ClassLinefix) - Java bytecode line number restoration tool
-
-*   [nbauma109/jd-gui-duo](https://github.com/nbauma109/jd-gui-duo) - A 2-in-1 JAVA decompiler based on JD-CORE v0 and v1 supporting 3rd party decompilers CFR, Procyon, Fernflower, Vineflower & Jadx.
-
-*   [DeEpinGh0st/JDumpSpiderGUI](https://github.com/DeEpinGh0st/JDumpSpiderGUI) - JDumpSpiderGUI 是一个用于 Java 堆转储文件分析的工具，支持命令行和 JavaFX 图形界面两种模式。该工具主要是在原工具上添加了图形化的界面
-
-*   [alanni-tom/Turacos](https://github.com/alanni-tom/Turacos) - Turacos 是一款专业的多数据库安全评估工具，支持 PostgreSQL、MySQL、Redis、MSSQL 等多种数据库的后渗透操作。 为安全研究人员提供系统化、模块化的数据库安全测试能力，助力企业进行安全评估与漏洞验证。
-
-*   [czz1233/GBByPass](https://github.com/czz1233/GBByPass) - 冰蝎 哥斯拉 WebShell bypass
-
-*   [ahisec/geoserver-](https://github.com/ahisec/geoserver-) - geoserver CVE-2024-36401漏洞利用工具
-
-*   [7uup/TsojanScan-Plus](https://github.com/7uup/TsojanScan-Plus) - TsoJanScan Burp Plugins Secondary Development
-
-*   [adeljck/YongYou-Exploit](https://github.com/adeljck/YongYou-Exploit) - YongYou U8C deserialization file upload exploit tool targeting IPFxxFileService and IFileTrans services
-
-*   [AfterSnows/ApricusFindEvil](https://github.com/AfterSnows/ApricusFindEvil) - 检测查杀java内存马
-
-*   [People-11/CVE-2025-10184\_PoC](https://github.com/People-11/CVE-2025-10184_PoC) -
-
-*   [Conan924/PostHikvision](https://github.com/Conan924/PostHikvision) - 哥斯拉Hikvision综合安防后渗透插件，运行中心/web前台/MinIO 配置提取（解密）重置密码,还原密码。
-
-*   [houbb/sensitive-word](https://github.com/houbb/sensitive-word) -  👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
-
-*   [testnet0/testnet-java](https://github.com/testnet0/testnet-java) -
-
-*   [youki992/ShiningZ](https://github.com/youki992/ShiningZ) - "闪紫"（英文名shiningZ）社工字典生成工具，支持ABC自定义排列组合、ABC列字典AI扩展、AI提示词联想字典、自定义AI提示、字典去重、结果导出等
-
-*   [iamlinhui/rpt](https://github.com/iamlinhui/rpt) - 内网穿透&反向代理 (支持TCP上层协议，支持HTTP/HTTPS端口复用)
-
-*   [RuoJi6/xxl-job-FLM](https://github.com/RuoJi6/xxl-job-FLM) - xxl-job内存马
-
-*   [fdu-sec/JDD](https://github.com/fdu-sec/JDD) -
-
-*   [tabby-sec/tabby](https://github.com/tabby-sec/tabby) - A CAT called tabby ( Code Analysis Tool )
-
-*   [bmth666/Yongyou-Unserialize-plus](https://github.com/bmth666/Yongyou-Unserialize-plus) - 用友的一些反序列化链子以及1day，二开了狼组的YongYouNcTool，改了一下逻辑以及poc
-
-*   [F6JO/JsRouteScan](https://github.com/F6JO/JsRouteScan) - Burpsuite - Js Route Scan 正则匹配获取响应中的路由进行被动探测与递归目录探测的burp插件
-
-*   [cwkiller/JDBC-PROXY-Bypass](https://github.com/cwkiller/JDBC-PROXY-Bypass) - 利用代理驱动绕过JDBC Attack检测
-
-*   [bcvgh/daydayEXP](https://github.com/bcvgh/daydayEXP) - 支持自定义Poc文件的图形化漏洞利用工具
-
-*   [Chave0v0/YONYOU-TOOL](https://github.com/Chave0v0/YONYOU-TOOL) - 用友漏洞综合利用工具
-
-*   [xsshim/GzWebsocket](https://github.com/xsshim/GzWebsocket) - 哥斯拉webshell管理工具的插件，用于连接websocket型webshell
-
-*   [Rvn0xsy/DumperAnalyze](https://github.com/Rvn0xsy/DumperAnalyze) - 通过JavaAgent与Javassist技术对JVM加载的类对象进行动态插桩，可以做一些破解、加密验证的绕过等操作
-
-*   [wkeyuan/DWSurvey](https://github.com/wkeyuan/DWSurvey) - Survey System. 最好用的开源问卷调查系统、表单系统。
-
-*   [cncsnet1/jadx-gui-ai](https://github.com/cncsnet1/jadx-gui-ai) - jadx-gui反编译工具二次开发，接入AI赋能。
-
-*   [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) - Plugin for JADX to integrate MCP server
-
-*   [ReversecLabs/drozer-agent](https://github.com/ReversecLabs/drozer-agent) - The Android Agent for the Drozer Security Assessment Framework.
-
-*   [AgonySec/ThinkPHPGUI](https://github.com/AgonySec/ThinkPHPGUI) - 使用JAVAFX写了一个Thinkphp的GUI漏洞检测利用工具
-
-*   [kN6jq/gatherBurp](https://github.com/kN6jq/gatherBurp) - 一款强大的 burp 安全测试插件，集成多种安全测试功能，支持自动化扫描和手动测试。
-
-*   [shack2/javaserializetools](https://github.com/shack2/javaserializetools) - Java反序列化漏洞利用工具V1.0    Java反序列化相关漏洞的检查工具，采用JDK 1.8+NetBeans8.2开发，软件运行必须安装JDK 1.8或者以上版本。   支持：weblogic xml反序列化漏洞 CVE-2017-10271/CNVD-C-2019-48814/CVE-2019-2725检查。
-
-*   [shuanx/BurpFingerPrint](https://github.com/shuanx/BurpFingerPrint) - BurpSuite插件集成Ehole指纹库并进行常见OA弱口令爆破插件
-
-*   [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - HyperOS enhancement module - Make HyperOS Great Again!
-
-*   [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
-
-*   [JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch) - A non-root Xposed framework extending from LSPosed
-
-*   [z2p/sweetPotato](https://github.com/z2p/sweetPotato) - 基于burpsuite的资产分析工具
-
-*   [vaycore/OneScan](https://github.com/vaycore/OneScan) - OneScan 是一款用于递归目录扫描的 BurpSuite 插件
-
-*   [savior-only/CyberMatrix](https://github.com/savior-only/CyberMatrix) - CyberMatrix 是一个基于 AI 的代码安全分析工具，专注于自动化检测和分析代码中的潜在安全漏洞。采用赛博朋克风格的现代化界面，提供直观的安全分析体验。
-
-*   [wxwhhh/Chypass\_pro](https://github.com/wxwhhh/Chypass_pro) - 利用各个大模型，自动化生成绕过WAF的burp插件
-
-*   [yuziiiiiiiiii/SMS\_Bomb\_Fuzzer](https://github.com/yuziiiiiiiiii/SMS_Bomb_Fuzzer) - Burp suite 短信轰炸辅助绕过插件
-
-*   [Whoopsunix/JavaRce](https://github.com/Whoopsunix/JavaRce) - Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios | 实战场景较通用的 Java Rce 相关漏洞的利用方式
-
-*   [ssrsec/JeecgBoot-offline-brute](https://github.com/ssrsec/JeecgBoot-offline-brute) - jeecg-boot密码离线爆破
-
-*   [CodeIntelligenceTesting/jazzer](https://github.com/CodeIntelligenceTesting/jazzer) - Coverage-guided, in-process fuzzing for the JVM
-
-*   [X1r0z/nacos-hessian-rce](https://github.com/X1r0z/nacos-hessian-rce) - PoC of Nacos JRaft Hessian RCE
-
-*   [safe6Sec/MemoryShell](https://github.com/safe6Sec/MemoryShell) - 内存马学习
-
-*   [Erosion2020/JavaSec](https://github.com/Erosion2020/JavaSec) - 零基础Java安全学习笔记
-
-*   [pureqh/xxl-job-attack](https://github.com/pureqh/xxl-job-attack) - xxl-job漏洞综合利用工具
-
-*   [core-lib/xjar](https://github.com/core-lib/xjar) - Spring Boot JAR 安全加密运行工具，支持的原生JAR。
-
-*   [smxiazi/xia\_sql](https://github.com/smxiazi/xia_sql) - xia SQL (瞎注)  burp 插件 ，在每个参数后面填加一个单引号，两个单引号，一个简单的判断注入小插件。
-
-*   [triplexlove/javasocket](https://github.com/triplexlove/javasocket) - java实现反序列化建立socket连接
-
-*   [j3ers3/Hello-Java-Sec](https://github.com/j3ers3/Hello-Java-Sec) - ☕️ Java Security，安全编码和代码审计
-
-*   [XiaomingX/data-cve-poc](https://github.com/XiaomingX/data-cve-poc) - 这个仓库收集了所有在 GitHub 上能找到的 CVE 漏洞利用工具。 This repository collects all CVE exploits found on GitHub.
-
-*   [0x727/JNDIExploit](https://github.com/0x727/JNDIExploit) - 一款用于JNDI注入利用的工具，大量参考/引用了Rogue JNDI项目的代码，支持直接植入内存shell，并集成了常见的bypass 高版本JDK的方式，适用于与自动化工具配合使用。
-
-*   [Liubsyy/JarEditor](https://github.com/Liubsyy/JarEditor) - IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
-
-*   [ReaJason/MemShellParty](https://github.com/ReaJason/MemShellParty) - 一款专注于 Java 主流 Web 中间件的内存马快速生成工具，致力于简化安全研究人员和红队成员的工作流程，提升攻防效率
-
-*   [TheBeastofwar/JenkinsExploit-GUI](https://github.com/TheBeastofwar/JenkinsExploit-GUI) - 一款Jenkins的综合漏洞利用工具
-
-*   [4ra1n/class-obf](https://github.com/4ra1n/class-obf) - 一个 CLASS 文件混淆工具，支持方法字段参数名引用分析和重命名混淆，支持字符串提取/AES加密运行时解密/整型异或混淆/垃圾代码花指令混淆/错误注解崩溃/特殊字符迷惑用户/反编译器对抗/方法和字段的隐藏等，配置简单，容易上手
-
-*   [Phelaine/SinkFinder](https://github.com/Phelaine/SinkFinder) - 闭源系统半自动漏洞挖掘工具，针对 jar/war/zip 进行静态代码分析，输出从source到sink的可达路径。LLM将验证路径可达性，并根据上下文给出该路径可信分数
-
-*   [find-xposed-magisk/LSPatch](https://github.com/find-xposed-magisk/LSPatch) - LSPatch: A non-root Xposed framework extending from LSPosed|LSPatch：一款非Root的Xposed框架，是从LSPosed扩展而来的。| release备份在backup分支
-
-*   [TheKingOfDuck/burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP) - 服务端配置错误情况下用于伪造ip地址进行测试的Burp Suite插件
-
-*   [saoshao/DetSql](https://github.com/saoshao/DetSql) - Burp插件，快速探测可能存在SQL注入的请求并标记，提高测试效率
-
-*   [hsskyboy/NPatch](https://github.com/hsskyboy/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
-
-*   [mywalkb/LSPosed\_mod](https://github.com/mywalkb/LSPosed_mod) - My changes to LSPosed
-
-*   [LSPosed/LSPatch](https://github.com/LSPosed/LSPatch) - LSPatch: A non-root Xposed framework extending from LSPosed
-
-*   [winezer0/APIFinderPlus](https://github.com/winezer0/APIFinderPlus) - 目标是成为当下最完善的API挖掘工具，实现自动提取响应敏感信息、URI信息，并且对URI进行自动|手动递归检查
-
-*   [xuchengsheng/wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) - 一款基于Java开发的微信数据分析工具。
-
-*   [wh1t3zer/SpringBootVul-GUI](https://github.com/wh1t3zer/SpringBootVul-GUI) - 一个半自动化springboot打点工具，内置目前springboot所有漏洞
-
-*   [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
-
-*   [Ni4n/ShellGenerate](https://github.com/Ni4n/ShellGenerate) - 哥斯拉jsp/jspx免杀webshell生成器
-
-*   [Yong-An-Dang/nuclei-plus](https://github.com/Yong-An-Dang/nuclei-plus) - Functional enhancement based on nuclei.  基于 nuclei 的功能增强。
-
-*   [F6JO/RouteVulScan](https://github.com/F6JO/RouteVulScan) - Burpsuite - Route Vulnerable Scanning 递归式被动检测脆弱路径的burp插件
-
-*   [joaomatosf/JavaDeserH2HC](https://github.com/joaomatosf/JavaDeserH2HC) - Sample codes written for the Hackers to Hackers Conference magazine 2017 (H2HC).
-
-*   [bit4woo/knife](https://github.com/bit4woo/knife) - A burp extension that add some useful function to  Context Menu 添加一些右键菜单让burp用起来更顺畅
-
-*   [K-7H7l/Jeecg\_Tools](https://github.com/K-7H7l/Jeecg_Tools) - 本工具为jeecg框架漏洞利用工具非jeecg-boot！
-
-*   [X1r0z/JNDIMap](https://github.com/X1r0z/JNDIMap) - A powerful JNDI injection exploitation framework that supports RMI, LDAP and LDAPS protocols, including various bypass methods for high-version JDK restrictions
-
-*   [outlaws-bai/Galaxy](https://github.com/outlaws-bai/Galaxy) - 一个想让你测试加密流量像测试明文一样简单高效的 Burp 插件。 A Burp plugin that makes testing encrypted traffic as simple and efficient as testing plaintext.
-
-*   [MInggongK/jeecg-](https://github.com/MInggongK/jeecg-) - jeecg综合漏洞利用工具
-
-*   [smxiazi/xia\_Liao](https://github.com/smxiazi/xia_Liao) - xia Liao（瞎料）burp插件 用于Windows在线进程/杀软识别 与 web渗透注册时，快速生成需要的资料用来填写，资料包含：姓名、手机号、身份证、统一社会信用代码、组织机构代码、银行卡，以及各类web语言的hello world输出和生成弱口令字典等。
-
-*   [shuanx/BurpAPIFinder](https://github.com/shuanx/BurpAPIFinder) - 攻防演练过程中，我们通常会用浏览器访问一些资产，但很多未授权/敏感信息/越权隐匿在已访问接口过html、JS文件等，该插件能让我们发现未授权/敏感信息/越权/登陆接口等。
-
-*   [yhy0/passive-scan-client](https://github.com/yhy0/passive-scan-client) - Burp被动扫描流量转发插件
-
-*   [sma11new/Pyke-Shiro](https://github.com/sma11new/Pyke-Shiro) - 复杂请求下的Shiro反序列化利用工具
-
-*   [suizhibo/MemShellGene](https://github.com/suizhibo/MemShellGene) - 一款Java内存马生成、测试工具，搭配@ax1sX的MemShell食用。
-
-*   [0x727/BypassPro](https://github.com/0x727/BypassPro) - 对Auth/Waf 自动化bypass的burpsuite插件
-
-*   [MInggongK/dahuaExploitGUI](https://github.com/MInggongK/dahuaExploitGUI) - dahua综合漏洞利用工具
-
-*   [whocansee/FilelessAgentMemShell](https://github.com/whocansee/FilelessAgentMemShell) - 无需文件落地Agent内存马生成器
-
-*   [KimJun1010/inspector](https://github.com/KimJun1010/inspector) - IDEA代码审计辅助插件（深信服深蓝实验室天威战队强力驱动）
-
-*   [jar-analyzer/jar-obfuscator](https://github.com/jar-analyzer/jar-obfuscator) - Jar Obfuscator V2 - 一个 JAR 文件保护混淆工具，支持包名/类名/方法名/字段名/参数名引用分析和重命名混淆方式，支持字符串加密/整型异或混淆/垃圾代码花指令混淆/等方式，支持方法和字段的隐藏，支持 SpringBoot 和 war 包，配置简单，文档教程齐全，容易上手
-
-*   [whwlsfb/BurpCrypto](https://github.com/whwlsfb/BurpCrypto) - BurpCrypto is a collection of burpsuite encryption plug-ins, support AES/RSA/DES/ExecJs(execute JS encryption code in burpsuite). 支持多种加密算法或直接执行JS代码的用于爆破前端加密的BurpSuite插件
-
-*   [JasonQS/Anti-recall](https://github.com/JasonQS/Anti-recall) - Android 免root 防撤回神器 !
-
-*   [ax1sX/SpringSecurity](https://github.com/ax1sX/SpringSecurity) - A list for Spring Security
-
-*   [DolphFlynn/jwt-editor](https://github.com/DolphFlynn/jwt-editor) - A Burp Suite extension for creating and editing JSON Web Tokens. This tool supports signing and verification of JWS, encryption and decryption of JWE and automation of several well-known attacks against applications that consume JWT.
-
-*   [pacemrc/VulDebug](https://github.com/pacemrc/VulDebug) - Java漏洞调试分析集合
-
-*   [mrjesen/ysoserial\_su18](https://github.com/mrjesen/ysoserial_su18) - ysoserial for su18
-
-*   [vivo/MoonBox](https://github.com/vivo/MoonBox) - 月光宝盒：无侵入的流量录制与回放平台     A server-side traffic capture and replay platform with noninvasive
-
-*   [Hutt0n0/ActiveMqRCE](https://github.com/Hutt0n0/ActiveMqRCE) - 用java实现构造openwire协议，利用activeMQ < 5.18.3 RCE 回显利用 内存马注入
-
-*   [z-bool/SQLDownload](https://github.com/z-bool/SQLDownload) - 内网大型数据拖库解决方案，隧道不稳定时将内网数据库保存为csv格式文件
-
-*   [sleeyax/burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) - Burp extension to evade TLS fingerprinting. Bypass WAF, spoof any browser.
-
-*   [tovd-go/java-memshell-scan](https://github.com/tovd-go/java-memshell-scan) -
-
-*   [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个 JAR 包 GUI 分析工具，方法调用关系搜索，方法调用链 DFS 算法分析，模拟 JVM 的污点分析验证 DFS 结果，字符串搜索，Java Web 组件入口分析，CFG 程序分析，JVM 栈帧分析，自定义表达式搜索，紧跟 AI 技术发展，支持 MCP 调用，支持 n8n 工作流，文档：https://docs.qq.com/doc/DV3pKbG9GS0pJS0tk
-
-*   [pykiller/API-T00L](https://github.com/pykiller/API-T00L) - 互联网厂商API利用工具。
-
-*   [864381832/x-RdbmsSyncTool](https://github.com/864381832/x-RdbmsSyncTool) - 数据库同步工具(支持mysql、Oracle、sqlserver、PostgreSql、达梦、sqlite、h2、access等数据库)
-
-*   [veo/vagent](https://github.com/veo/vagent) - 多功能 java agent 内存马
-
-*   [pen4uin/java-echo-generator](https://github.com/pen4uin/java-echo-generator) - 一款支持自定义的 Java 回显载荷生成工具｜A customizable Java echo payload generation tool.
-
-*   [dromara/neutrino-proxy](https://github.com/dromara/neutrino-proxy) - 中微子代理（内网穿透）
-
-*   [Y4er/WebLogic-Shiro-shell](https://github.com/Y4er/WebLogic-Shiro-shell) - WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell
-
-*   [CYRUS-STUDIO/ApkToolPlus](https://github.com/CYRUS-STUDIO/ApkToolPlus) - ApkToolPlus 是一个 apk 逆向分析工具（a apk analysis tools）。
-
-*   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-
-*   [Y4Sec-Team/mysql-jdbc-tricks](https://github.com/Y4Sec-Team/mysql-jdbc-tricks) - JDBC Attack Tricks
-
-*   [MUYU212/JNDI-Injection-Memshell](https://github.com/MUYU212/JNDI-Injection-Memshell) - JNDI注入测试工具内存马版本（增加了注入内存马模块）
-
-*   [wgpsec/YongYouNcTool](https://github.com/wgpsec/YongYouNcTool) - 用友NC系列漏洞检测利用工具，支持一键检测、命令执行回显、文件落地、一键打入内存马、文件读取等
-
-*   [metersphere/metersphere](https://github.com/metersphere/metersphere) - 🔥 MeterSphere 是新一代的开源持续测试工具，内置 AI 助手，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
-
-*   [bitterzzZZ/MemoryShellLearn](https://github.com/bitterzzZZ/MemoryShellLearn) - 分享几个直接可用的内存马，记录一下学习过程中看过的文章
-
-*   [c0ny1/java-memshell-scanner](https://github.com/c0ny1/java-memshell-scanner) - 通过jsp脚本扫描java web Filter/Servlet型内存马
-
-*   [LandGrey/copagent](https://github.com/LandGrey/copagent) - java memory web shell extracting tool
-
-*   [4ra1n/shell-analyzer](https://github.com/4ra1n/shell-analyzer) - 通过 JAVA AGENT 查杀内存马，提供简易方便的 GUI 界面，一键反编译目标环境内存马进行分析，支持远程查杀和本地查杀（注意：仅供本地复现分析学习，请勿用于正式和生产环境）
-
-*   [libaibaia/cloudSec](https://github.com/libaibaia/cloudSec) - 云安全利用工具-云平台AK/SK-WEB利用工具，添加AK/SK自动检测资源，无需手动执行，支持云服务器、存储桶、数据库操作
-
-*   [webraybtl/ysoserialbtl](https://github.com/webraybtl/ysoserialbtl) - 基于ysoserial扩展命令执行结果回显，生成冰蝎内存马
-
-*   [f0ng/captcha-killer-modified](https://github.com/f0ng/captcha-killer-modified) - captcha-killer的修改版，支持关键词识别base64编码的图片，添加免费ocr库，用于验证码爆破，适配新版Burpsuite
-
-*   [yuyan-sec/DBeaver-decrypter](https://github.com/yuyan-sec/DBeaver-decrypter) - 解密DBeaver数据库软件保存的密码
-
-*   [su18/JDBC-Attack](https://github.com/su18/JDBC-Attack) - JDBC Connection URL Attack
-
-*   [LTianHang/ShiroUploadTools](https://github.com/LTianHang/ShiroUploadTools) - Shiro文件上传工具
-
-*   [HHa1ey/TKHunter](https://github.com/HHa1ey/TKHunter) - 一个基于JavaFX写的一个Hunter资产测绘平台的图形化工具
-
-*   [whwlsfb/Log4j2Scan](https://github.com/whwlsfb/Log4j2Scan) - Log4j2 RCE Passive Scanner plugin for BurpSuite
-
-*   [c0olw/NacosRce](https://github.com/c0olw/NacosRce) - Nacos JRaft Hessian 反序列化 RCE 加载字节码 注入内存马 不出网利用
-
-*   [qi4L/JYso](https://github.com/qi4L/JYso) -  JNDIExploit or a ysoserial.
-
-*   [4ra1n/mysql-fake-server](https://github.com/4ra1n/mysql-fake-server) - 纯 Java 实现的 MySQL Fake Server | 支持 GUI 版和命令行版 | 支持反序列化和文件读取的利用方式 | 支持常见的 GADGET 和自定义 GADGET 数据 | 根据目标环境自动生成匹配的 PAYLOAD | 支持 PGSQL 和 DERBY 的利用
-
-*   [4ra1n/super-xray](https://github.com/4ra1n/super-xray) - Web漏洞扫描工具XRAY的GUI启动器
-
-*   [jar-analyzer/jar-analyzer-v1-gui](https://github.com/jar-analyzer/jar-analyzer-v1-gui) - 建议使用新版：https://github.com/jar-analyzer/jar-analyzer
-
-*   [jar-analyzer/jar-analyzer-v1-cli](https://github.com/jar-analyzer/jar-analyzer-v1-cli) - 本项目可以把一个或多个Jar包构建成数据库，用户连接数据库后通过SQL语句任意搜索需要的内容，例如类和方法信息，方法调用关系等
-
-*   [cckuailong/JNDI-Injection-Exploit-Plus](https://github.com/cckuailong/JNDI-Injection-Exploit-Plus) - 80+ Gadgets(30 More than ysoserial). JNDI-Injection-Exploit-Plus is a tool for generating workable JNDI links and provide background services by starting RMI server,LDAP server and HTTP server.
-
-*   [savior-only/Spring\_All\_Reachable](https://github.com/savior-only/Spring_All_Reachable) - Spring漏洞综合利用工具
-
-*   [pmiaowu/HostCollision](https://github.com/pmiaowu/HostCollision) - 用于host碰撞而生的小工具,专门检测渗透中需要绑定hosts才能访问的主机或内部系统
-
-*   [ba0gu0/520apkhook](https://github.com/ba0gu0/520apkhook) - 将安卓远控Apk附加进普通的App中，运行新生成的App时，普通App正常运行，远控正常上线。Attach the Android remote control APK to a regular app. When the newly generated app is launched, the regular app operates as normal while the remote control goes online seamlessly.
-
-*   [pen4uin/java-memshell-generator](https://github.com/pen4uin/java-memshell-generator) - 一款支持自定义的 Java 内存马生成工具｜A customizable Java in-memory webshell generation tool.
-
-*   [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp) - Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践
-
-*   [altEr1125/ShiroAttack2](https://github.com/altEr1125/ShiroAttack2) - 一款针对Shiro550漏洞进行快速漏洞利用工具。 对 @SummerSec 大佬的项目https://github.com/SummerSec/ShiroAttack2 进行了一些改进。
-
-*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【AI低代码平台】“低代码+零代码”双模驱动AI智能平台  AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications.  助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键生成，无需手写代码! 显著提升效率节省成本，又不失灵活~
-
-*   [Saorionesan/DBeaver](https://github.com/Saorionesan/DBeaver) - 在原生DBeaver的基础上，支持了DM、Kingbase、瀚高、神通等国产数据库。并且增加了数据库备份还原以及数据迁移等功能
-
-*   [White-hua/Apt\_t00ls](https://github.com/White-hua/Apt_t00ls) - 高危漏洞利用工具
-
-*   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
-
-*   [iSafeBlue/TrackRay](https://github.com/iSafeBlue/TrackRay) - 溯光 (TrackRay) 3 beta⚡渗透测试框架（资产扫描|指纹识别|暴力破解|网页爬虫|端口扫描|漏洞扫描|代码审计|AWVS|NMAP|Metasploit|SQLMap）
-
-*   [LeadroyaL/fastjson-blacklist](https://github.com/LeadroyaL/fastjson-blacklist) -
-
-*   [Mr-xn/RedTeam\_BlueTeam\_HW](https://github.com/Mr-xn/RedTeam_BlueTeam_HW) - 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具
-
-*   [burpheart/CVE-2022-39197-patch](https://github.com/burpheart/CVE-2022-39197-patch) - CVE-2022-39197 漏洞补丁. CVE-2022-39197 Vulnerability Patch.
-
-*   [f0ng/autoDecoder](https://github.com/f0ng/autoDecoder) - Burp插件，根据自定义来达到对数据包的处理（适用于加解密、爆破等），类似mitmproxy，不同点在于经过了burp中转，在自动加解密的基础上，不影响APP、网站加解密正常逻辑等。
-
-*   [bit4woo/Fiora](https://github.com/bit4woo/Fiora) - Fiora：漏洞PoC框架Nuclei的图形版。快捷搜索PoC、一键运行Nuclei。即可作为独立程序运行，也可作为burp插件使用。
-
-*   [pmiaowu/BurpFastJsonScan](https://github.com/pmiaowu/BurpFastJsonScan) - 一款基于BurpSuite的被动式FastJson检测插件
-
-*   [b1ackc4t/Assassin](https://github.com/b1ackc4t/Assassin) - Assassin是一款精简的基于命令行的webshell管理工具，它有着多种payload发送方式和编码方式，以及精简的payload代码，使得它成为隐蔽的暗杀者，难以被很好的防御。
-
-*   [twoyi/twoyi](https://github.com/twoyi/twoyi) - A lightweight Android container on Android
-
-*   [javaweb-sec/javaweb-sec](https://github.com/javaweb-sec/javaweb-sec) -
-
-*   [angryip/ipscan](https://github.com/angryip/ipscan) - Angry IP Scanner - fast and friendly network scanner
-
-*   [tiann/DirtyPipeRoot](https://github.com/tiann/DirtyPipeRoot) - Using DirtyPipe to gain temporary root access for Android devices.
-
-*   [safe6Sec/ShiroAndFastJson](https://github.com/safe6Sec/ShiroAndFastJson) - shiro加fastjson环境
-
-*   [b1ackc4t/MarsCTF](https://github.com/b1ackc4t/MarsCTF) - Vue+Springboot开发的CTF学习平台，提供动态靶机、学习模块、writeup模块等等CTF平台的核心功能。提供docker版本
-
-*   [bit4woo/domain\_hunter\_pro](https://github.com/bit4woo/domain_hunter_pro) - domain\_hunter的高级版本，SRC挖洞、HW打点之必备！自动化资产收集；快速Title获取；外部工具联动；等等
-
-*   [f0ng/poc2jar](https://github.com/f0ng/poc2jar) - Java编写，Python作为辅助依赖的漏洞验证、利用工具，添加了进程查找模块、编码模块、命令模块、常见漏洞利用GUI模块、shiro rememberMe解密模块，加快测试效率
-
-*   [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
-
-*   [java-deobfuscator/deobfuscator](https://github.com/java-deobfuscator/deobfuscator) - The real deal
-
-*   [R17a-17/JavaVulnSummary](https://github.com/R17a-17/JavaVulnSummary) - Java漏洞分析汇合
-
-*   [TonyD0g/JavaHacker](https://github.com/TonyD0g/JavaHacker) - 记录自己学习Java安全的过程,无技术含量 。
-
-*   [Acmesec/Sylas](https://github.com/Acmesec/Sylas) - 新一代子域名主/被动收集工具 - Subdomain automatic/passive collection tool
-
-*   [narumii/Deobfuscator](https://github.com/narumii/Deobfuscator) - Some deobfuscator for java lol
-
-*   [veo/wsMemShell](https://github.com/veo/wsMemShell) - WebSocket 内存马/Webshell，一种新型内存马/WebShell技术
-
-*   [achuna33/MYExploit](https://github.com/achuna33/MYExploit) - OAExploit一款基于产品的一键扫描工具。
-
-*   [Y4tacker/JavaSec](https://github.com/Y4tacker/JavaSec) - a rep for documenting my study, may be from 0 to 0.1
-
-*   [ffffffff0x/BerylEnigma](https://github.com/ffffffff0x/BerylEnigma) - ffffffff0x team toolset for penetration testing, cryptography research, CTF and daily use. | ffffffff0x 团队工具集，用来进行渗透测试，密码学研究，CTF和日常使用。
-
-*   [Threekiii/Awesome-POC](https://github.com/Threekiii/Awesome-POC) - 一个漏洞 PoC 知识库。A knowledge base for vulnerability PoCs(Proof of Concept),  with 1k+ vulnerabilities.
-
-*   [su18/MemoryShell](https://github.com/su18/MemoryShell) - JavaWeb MemoryShell Inject/Scan/Killer/Protect Research & Exploring
-
-*   [f0ng/log4j2burpscanner](https://github.com/f0ng/log4j2burpscanner) - CVE-2021-44228 Log4j2 BurpSuite Scanner,Customize ceye.io api or other apis,including internal networks
-
-*   [lilifengcode/Burpsuite-Plugins-Usage](https://github.com/lilifengcode/Burpsuite-Plugins-Usage) - Burpsuite-Plugins-Usage
-
-*   [Lotus6/ThinkphpGUI](https://github.com/Lotus6/ThinkphpGUI) - Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，getshell。
-
-*   [safe6Sec/ShellManageTool](https://github.com/safe6Sec/ShellManageTool) - 在网传的哥斯拉&冰蝎源码基础上加了一点注释
-
-*   [Weik1/Artillery](https://github.com/Weik1/Artillery) - JAVA 插件化漏洞扫描器，Gui基于javafx。POC 目前集成 Weblogic、Tomcat、Shiro、Spring等。
-
-*   [Bl0omZ/JNDIEXP](https://github.com/Bl0omZ/JNDIEXP) - JNDI在java高版本的利用工具,FUZZ利用链
-
-*   [woodpecker-appstore/springboot-vuldb](https://github.com/woodpecker-appstore/springboot-vuldb) -
-
-*   [BeichenDream/Chunk-Proxy](https://github.com/BeichenDream/Chunk-Proxy) -
-
-*   [jweny/MemShellDemo](https://github.com/jweny/MemShellDemo) - 内存马Demo合集 memshell demo for java / php / python
-
-*   [feihong-cs/memShell](https://github.com/feihong-cs/memShell) - FilterBased/ServletBased in memory shell for Tomcat and some other middlewares
-
-*   [xinyu2428/TDOA\_RCE](https://github.com/xinyu2428/TDOA_RCE) - 通达OA综合利用工具
-
-*   [wh1t3p1g/ysomap](https://github.com/wh1t3p1g/ysomap) - A helpful Java Deserialization exploit framework.
-
-*   [ce-automne/TomcatMemShell](https://github.com/ce-automne/TomcatMemShell) - 拿来即用的Tomcat7/8/9/10版本Listener/Filter/Servlet内存马，支持注入CMD内存马和冰蝎内存马
-
-*   [MountCloud/BehinderClientSource](https://github.com/MountCloud/BehinderClientSource) - ❄️冰蝎客户端源码-V4.0.6🔞
-
-*   [Y4er/ysoserial](https://github.com/Y4er/ysoserial) - ysoserial修改版，着重修改ysoserial.payloads.util.Gadgets.createTemplatesImpl使其可以通过引入自定义class的形式来执行命令、内存马、反序列化回显。
-
-*   [threedr3am/learnjavabug](https://github.com/threedr3am/learnjavabug) - Java安全相关的漏洞和技术demo，原生Java、Fastjson、Jackson、Hessian2、XML反序列化漏洞利用和Spring、Dubbo、Shiro、CAS、Tomcat、RMI、Nexus等框架\中间件\功能的exploits以及Java Security Manager绕过、Dubbo-Hessian2安全加固等等实践代码。
-
-*   [phith0n/JavaThings](https://github.com/phith0n/JavaThings) - Share Things Related to Java - Java安全漫谈笔记相关内容
-
-*   [rsmudge/cortana-scripts](https://github.com/rsmudge/cortana-scripts) - A collection of Cortana scripts that you may use with Armitage and Cobalt Strike 2.x. Cortana Scripts are not compatible with Cobalt Strike 3.x. Cobalt Strike 3.x uses a variant of Cortana called Aggressor Script.
-
-*   [whwlsfb/JDumpSpider](https://github.com/whwlsfb/JDumpSpider) - HeapDump敏感信息提取工具
-
-*   [c0ny1/passive-scan-client](https://github.com/c0ny1/passive-scan-client) - Burp被动扫描流量转发插件
-
-*   [d3vilbug/HackBar](https://github.com/d3vilbug/HackBar) - HackBar plugin for Burpsuite
-
-*   [bit4woo/reCAPTCHA](https://github.com/bit4woo/reCAPTCHA) - reCAPTCHA = REcognize CAPTCHA: A Burp Suite Extender that recognize CAPTCHA and use for intruder payload 自动识别图形验证码并用于burp intruder爆破模块的插件
-
-*   [gh0stkey/CaA](https://github.com/gh0stkey/CaA) - CaA - Collector and Analyzer, Insight into information, exploring with intelligence in a thousand ways.
-
-*   [Firebasky/Java](https://github.com/Firebasky/Java) - 关于学习java安全的一些知识,正在学习中ing,欢迎fork and star
-
-*   [TideSec/Decrypt\_Weblogic\_Password](https://github.com/TideSec/Decrypt_Weblogic_Password) - 搜集了市面上绝大部分weblogic解密方式，整理了7种解密weblogic的方法及响应工具。
-
-*   [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
-
-*   [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
-
-*   [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
-
-*   [yhy0/ExpDemo-JavaFX](https://github.com/yhy0/ExpDemo-JavaFX) - 图形化漏洞利用Demo-JavaFX版
-
-*   [Chora10/Cknife](https://github.com/Chora10/Cknife) - Cknife
-
-*   [SummerSec/ShiroAttack2](https://github.com/SummerSec/ShiroAttack2) - shiro反序列化漏洞综合利用,包含（回显执行命令/注入内存马）修复原版中NoCC的问题 https://github.com/j1anFen/shiro\_attack
-
-*   [Puliczek/CVE-2021-44228-PoC-log4j-bypass-words](https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words) - 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - WAF bypass tricks
-
-*   [bigsizeme/shiro-check](https://github.com/bigsizeme/shiro-check) - Shiro反序列化回显利用、内存shell、检查 Burp插件
-
-*   [0x727/SpringBootExploit](https://github.com/0x727/SpringBootExploit) - 项目是根据LandGrey/SpringBootVulExploit清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛。
-
-*   [LandGrey/SpringBootVulExploit](https://github.com/LandGrey/SpringBootVulExploit) - SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list
-
-*   [wgpsec/fofa\_viewer](https://github.com/wgpsec/fofa_viewer) - A simple FOFA client written in JavaFX.  Made by WgpSec, Maintained by f1ashine.
-
-*   [feihong-cs/Java-Rce-Echo](https://github.com/feihong-cs/Java-Rce-Echo) - Java RCE 回显测试代码
-
-*   [exp1orer/JNDI-Inject-Exploit](https://github.com/exp1orer/JNDI-Inject-Exploit) - 解决FastJson、Jackson、Log4j2、原生JNDI注入漏洞的高版本JDKBypass利用，探测本地可用反序列化gadget达到命令执行、回显命令执行、内存马注入
-
-*   [gh0stkey/HaE](https://github.com/gh0stkey/HaE) - HaE - Highlighter and Extractor, Empower ethical hacker for efficient operations.
-
-*   [welk1n/JNDI-Injection-Exploit](https://github.com/welk1n/JNDI-Injection-Exploit) - JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc）
-
-*   [feihong-cs/ShiroExploit-Deprecated](https://github.com/feihong-cs/ShiroExploit-Deprecated) - Shiro550/Shiro721 一键化利用工具，支持多种回显方式
-
-*   [API-Security/APIKit](https://github.com/API-Security/APIKit) - APIKit：Discovery, Scan and Audit APIs Toolkit All In One.
-
-*   [pmiaowu/BurpShiroPassiveScan](https://github.com/pmiaowu/BurpShiroPassiveScan) - 一款基于BurpSuite的被动式shiro检测插件
-
-*   [charles2gan/GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool) - the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python\&java scripts, device memory extraction, data decryption, and encryption, etc.
-
-*   [SafeGroceryStore/MDUT](https://github.com/SafeGroceryStore/MDUT) - MDUT - Multiple Database Utilization Tools
-
-*   [safe6Sec/ThinkPHPLogScan](https://github.com/safe6Sec/ThinkPHPLogScan) - tp日志泄露扫描工具
-
-*   [depycode/fastjson-local-echo](https://github.com/depycode/fastjson-local-echo) - 基于dbcp的fastjson rce 回显
-
-*   [smxiazi/NEW\_xp\_CAPTCHA](https://github.com/smxiazi/NEW_xp_CAPTCHA) - xp\_CAPTCHA(瞎跑 白嫖版) burp 验证码 识别 burp插件
-
-*   [c0ny1/chunked-coding-converter](https://github.com/c0ny1/chunked-coding-converter) - Burp suite 分块传输辅助插件
-
-*   [1n7erface/PocList](https://github.com/1n7erface/PocList) - Alibaba-Nacos-Unauthorized/ApacheDruid-RCE\_CVE-2021-25646/MS-Exchange-SSRF-CVE-2021-26885/Oracle-WebLogic-CVE-2021-2109\_RCE/RG-CNVD-2021-14536/RJ-SSL-VPN-UltraVires/Redis-Unauthorized-RCE/TDOA-V11.7-GetOnlineCookie/VMware-vCenter-GetAnyFile/yongyou-GRP-U8-XXE/Oracle-WebLogic-CVE-2020-14883/Oracle-WebLogic-CVE-2020-14882/Apache-Solr-GetAnyFile/F5-BIG-IP-CVE-2021-22986/Sonicwall-SSL-VPN-RCE/GitLab-Graphql-CNVD-2021-14193/D-Link-DCS-CVE-2020-25078/WLAN-AP-WEA453e-RCE/360TianQing-Unauthorized/360TianQing-SQLinjection/FanWeiOA-V8-SQLinjection/QiZhiBaoLeiJi-AnyUserLogin/QiAnXin-WangKangFirewall-RCE/金山-V8-终端安全系统/NCCloud-SQLinjection/ShowDoc-RCE
-
-*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
-
-*   [frohoff/ysoserial](https://github.com/frohoff/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
 
 ## ASP.NET
 
@@ -3198,8 +3202,6 @@
 *   [mai1zhi2/ShellCodeFramework](https://github.com/mai1zhi2/ShellCodeFramework) - 绕3环的shellcode免杀框架
 
 *   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-
-*   [Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub) - :palm\_tree:Linux、macOS、Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (提权漏洞合集)
 
 ## Rust
 
@@ -3408,8 +3410,6 @@
 *   [lintstar/LSTAR](https://github.com/lintstar/LSTAR) - LSTAR - CobaltStrike 综合后渗透插件
 
 *   [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
-
-*   [tide-emergency/yingji](https://github.com/tide-emergency/yingji) - 应急相关内容积累
 
 ## C\#
 
