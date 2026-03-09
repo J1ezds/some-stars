@@ -1541,7 +1541,7 @@
 
 *   [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 
-*   [yyhuni/xingrin](https://github.com/yyhuni/xingrin) - src资产管理漏洞扫描平台，子域名爆破，端口扫描，站点发现，目录扫描，爬虫，漏洞扫描
+*   [yyhuni/xingrin](https://github.com/yyhuni/xingrin) - Open-source attack surface management and authorized security automation platform for asset discovery, service probing, scan orchestration, and security result management.
 
 *   [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 
@@ -1749,7 +1749,7 @@
 
 *   [saoshao/DetSql](https://github.com/saoshao/DetSql) - Burp插件，快速探测可能存在SQL注入的请求并标记，提高测试效率
 
-*   [hsskyboy/NPatch](https://github.com/hsskyboy/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+*   [HSSkyBoy/NPatch](https://github.com/HSSkyBoy/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
 *   [mywalkb/LSPosed\_mod](https://github.com/mywalkb/LSPosed_mod) - My changes to LSPosed
 
@@ -2913,7 +2913,7 @@
 
 ## HTML
 
-*   [LuoyeAutumn/FinalShell-Active](https://github.com/LuoyeAutumn/FinalShell-Active) - FinalShell 4.6.5 全版本离线激活码生成工具  WebUI | 哈希值解密 | 支持高级版&专业版
+*   [LuoyeAutumn/FinalShell-Active](https://github.com/LuoyeAutumn/FinalShell-Active) - FinalShell 4.6.5 全版本离线激活码生成工具  WebUI  |  哈希值解密  |  支持高级版&专业版
 
 *   [25H/MayeLite](https://github.com/25H/MayeLite) - Maye Lite 一个更轻更简洁的快速启动工具
 
