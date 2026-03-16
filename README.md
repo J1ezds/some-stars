@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Zig](#zig)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Python](#python)
@@ -62,6 +63,10 @@
 *   [Stylus](#stylus)
 *   [Perl](#perl)
 *   [AutoIt](#autoit)
+
+## Zig
+
+*   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 ## miscellaneous
 
@@ -818,8 +823,6 @@
 *   [vam876/FastWLAT](https://github.com/vam876/FastWLAT) - FastWLAT (Fast Web Log Analysis Tool) 是基于 Electron + Vue 3 构建的跨平台高性能 Web 日志分析工具，支持本地内存模式与 Redis 分布式处理，专为海量WEB日志分析场景设计。提供日志解析、威胁规则引擎、可视化仪表盘及树状聚合分析，优化了百万级数据的导入速度与查询性能，助力网络安全人员快速洞察访问流量与安全威胁。支持 Windows/macOS/Linux，开箱即用。
 
 *   [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist) - Check酱：监测网页内容变化，并发送异动到微信。亦支持http status、json和rss监测。配合自架云端，关电脑后也能运行。
-
-*   [1diot9/MyJavaSecStudy](https://github.com/1diot9/MyJavaSecStudy) - 在Java安全学习过程中的笔记和代码
 
 *   [bigsinger/awesomeFrida](https://github.com/bigsinger/awesomeFrida) - frida代码汇总
 
@@ -1797,6 +1800,8 @@
 
 *   [Conan924/PostHikvision](https://github.com/Conan924/PostHikvision) - 哥斯拉Hikvision综合安防后渗透插件，运行中心/web前台/MinIO 配置提取（解密）重置密码,还原密码。
 
+*   [1diot9/MyJavaSecStudy](https://github.com/1diot9/MyJavaSecStudy) - 在Java安全学习过程中的笔记和代码
+
 *   [houbb/sensitive-word](https://github.com/houbb/sensitive-word) -  👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
 
 *   [testnet0/testnet-java](https://github.com/testnet0/testnet-java) -
@@ -2215,8 +2220,6 @@
 
 *   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 
-*   [frohoff/ysoserial](https://github.com/frohoff/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
-
 ## Shell
 
 *   [DrDonk/OC4VM](https://github.com/DrDonk/OC4VM) - OpenCore for VMware
@@ -2611,7 +2614,7 @@
 
 *   [JKme/cube](https://github.com/JKme/cube) - 内网渗透测试工具，弱密码爆破、信息收集和漏洞扫描
 
-*   [EvilBytecode/GoDefender](https://github.com/EvilBytecode/GoDefender) - Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package. Windows ONLY.
+*   [KiExitDispatcher/GoDefender](https://github.com/KiExitDispatcher/GoDefender) - Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package. Windows ONLY.
 
 *   [adeljck/HikInfoGet](https://github.com/adeljck/HikInfoGet) - 海康威视iSecure后渗透
 
