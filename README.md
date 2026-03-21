@@ -1490,6 +1490,8 @@
 
 *   [Gu-f/CTFd\_chinese\_CN](https://github.com/Gu-f/CTFd_chinese_CN) - 对CTFd平台各版本的汉化记录。key:中文、汉化、翻译、chinese、CN、CTFd
 
+*   [0dayCTF/reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) - Hosted Reverse Shell generator with a ton of functionality. -- (Great for CTFs)
+
 *   [gh0stkey/avList](https://github.com/gh0stkey/avList) - avList - 杀软进程对应杀软名称
 
 *   [yzddmr6/As-Exploits](https://github.com/yzddmr6/As-Exploits) - 中国蚁剑后渗透框架
@@ -2510,7 +2512,7 @@
 
 *   [altEr1125/ShiroAttack2](https://github.com/altEr1125/ShiroAttack2) - 一款针对Shiro550漏洞进行快速漏洞利用工具。 对 @SummerSec 大佬的项目https://github.com/SummerSec/ShiroAttack2 进行了一些改进。
 
-*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - JeecgBoot 是一款 AI 驱动的低代码开发平台，提供"零代码"与"代码生成"双模式——零代码模式一句话搭建系统，代码生成模式自动输出前后端代码与建表 SQL，生成即可运行。平台内置 AI 聊天助手、AI大模型、知识库、AI流程编排、MCP 与插件体系，兼容主流大模型，支持一句话生成流程图、设计表单、聊天式业务操作，解决 Java 项目 80% 重复工作，高效且不失灵活。
+*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 一款 AI 驱动的低代码平台，提供"零代码"与"代码生成"双模式——零代码模式一句话搭建系统，代码生成模式自动输出前后端代码与建表 SQL，生成即可运行。平台内置 AI 聊天助手、AI大模型、知识库、AI流程编排、MCP 与插件体系，兼容主流大模型，支持一句话生成流程图、设计表单、聊天式业务操作，解决 Java 项目 80% 重复工作，高效且不失灵活。
 
 *   [Saorionesan/DBeaver](https://github.com/Saorionesan/DBeaver) - 在原生DBeaver的基础上，支持了DM、Kingbase、瀚高、神通等国产数据库。并且增加了数据库备份还原以及数据迁移等功能
 
@@ -3001,8 +3003,6 @@
 *   [giantbranch/pwn-env-init](https://github.com/giantbranch/pwn-env-init) - CTF PWN 做题环境一键搭建脚本
 
 *   [cckuailong/vulbase](https://github.com/cckuailong/vulbase) - 各大漏洞文库合集
-
-*   [0dayCTF/reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) - Hosted Reverse Shell generator with a ton of functionality. -- (Great for CTFs)
 
 *   [gh0stkey/Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box) - Web Fuzzing Box - Web 模糊测试字典与一些Payloads
 
