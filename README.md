@@ -404,7 +404,7 @@
 
 *   [Acmesec/Sylas](https://github.com/Acmesec/Sylas) - 新一代子域名主/被动收集工具 - Subdomain automatic/passive collection tool
 
-*   [narumii/Deobfuscator](https://github.com/narumii/Deobfuscator) - Some deobfuscator for java lol
+*   [Diobf/Deobfuscator](https://github.com/Diobf/Deobfuscator) - Some deobfuscator for java lol
 
 *   [veo/wsMemShell](https://github.com/veo/wsMemShell) - WebSocket 内存马/Webshell，一种新型内存马/WebShell技术
 
