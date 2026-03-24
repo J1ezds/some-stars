@@ -2676,6 +2676,8 @@
 
 *   [sensepost/reGeorg](https://github.com/sensepost/reGeorg) - The successor to reDuh, pwn a bastion webserver and create SOCKS proxies through the DMZ. Pivot and pwn.
 
+*   [broken5/WebAliveScan](https://github.com/broken5/WebAliveScan) - 对目标域名进行快速的存活扫描、简单的指纹识别、目录扫描
+
 ## Shell
 
 *   [DrDonk/OC4VM](https://github.com/DrDonk/OC4VM) - OpenCore for VMware
@@ -3275,8 +3277,6 @@
 *   [Southseast/Zend\_Decode](https://github.com/Southseast/Zend_Decode) - 一个缝合的Zend批量解密脚本。
 
 *   [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
-
-*   [pk-fr/yakpro-po](https://github.com/pk-fr/yakpro-po) - YAK Pro - Php Obfuscator
 
 *   [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 
