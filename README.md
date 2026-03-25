@@ -302,7 +302,7 @@
 
 *   [wgpsec/YongYouNcTool](https://github.com/wgpsec/YongYouNcTool) - 用友NC系列漏洞检测利用工具，支持一键检测、命令执行回显、文件落地、一键打入内存马、文件读取等
 
-*   [metersphere/metersphere](https://github.com/metersphere/metersphere) - 🔥 MeterSphere 是新一代的开源持续测试工具，内置 AI 助手，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
+*   [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 是新一代的开源持续测试工具，内置 AI 助手，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
 
 *   [bitterzzZZ/MemoryShellLearn](https://github.com/bitterzzZZ/MemoryShellLearn) - 分享几个直接可用的内存马，记录一下学习过程中看过的文章
 
@@ -1080,7 +1080,7 @@
 
 *   [kiraio-moe/macOS-on-VMWare](https://github.com/kiraio-moe/macOS-on-VMWare) - A guide for installing macOS on VMWare
 
-*   [11firefly11/ApiHunter](https://github.com/11firefly11/ApiHunter) - api接口测试工具,包括swagger文档,一键自动跑接口
+*   [11firefly11/ApiHunter](https://github.com/11firefly11/ApiHunter) - api接口测试工具,包括swagger文档，asp接口文档,wsdl接口,wadl接口,一键自动跑接口
 
 *   [Thatgfsj/wangwenwrite-skill](https://github.com/Thatgfsj/wangwenwrite-skill) - wangwenwrite-skill：2024-2026年男频系统流网文全流程创作助手，覆盖选题研判、系统设定、大纲撰写、章节创作、润色优化、发布适配全环节，贴合行业爆款趋势，支持情绪值/躺平变强等新型系统，规避AI味儿，助力新手入门、资深作者突破瓶颈，适配起点/番茄/飞卢等主流平台。
 
