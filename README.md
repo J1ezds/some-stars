@@ -330,7 +330,7 @@
 
 *   [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - HyperOS enhancement module - Make HyperOS Great Again!
 
-*   [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
+*   [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - Modern Xposed Framework
 
 *   [JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch) - A non-root Xposed framework extending from LSPosed
 
