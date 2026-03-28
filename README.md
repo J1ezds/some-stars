@@ -100,6 +100,8 @@
 
 *   [lintstar/LSTAR](https://github.com/lintstar/LSTAR) - LSTAR - CobaltStrike 综合后渗透插件
 
+*   [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
+
 ## C\#
 
 *   [RcoIl/CSharp-Tools](https://github.com/RcoIl/CSharp-Tools) - .NET C# Tools
@@ -248,7 +250,7 @@
 
 ## Java
 
-*   [IIIIIllllIIIIIlllll/LlamacppServer](https://github.com/IIIIIllllIIIIIlllll/LlamacppServer) - llamacpp的整合包，自用于AI MAX+ 395机器，但是Linux+Windows实际通用。如有问题可以私信B站：防爆键盘
+*   [IIIIIllllIIIIIlllll/LlamacppServer](https://github.com/IIIIIllllIIIIIlllll/LlamacppServer) - llamacpp的整合包，自用于AI MAX+ 395机器，但是其它设备实际通用。如有问题可以提ISSUE，回复不一定及时；也可以加QQ群：829631748
 
 *   [Sugobet/API\_Sword](https://github.com/Sugobet/API_Sword) - NSFOCUS API\_Sword：A Burp Suite extension, Automatically recursively collect API endpoints from any response
 
@@ -1319,8 +1321,6 @@
 *   [wooluo/nuclei-templates-2025hw](https://github.com/wooluo/nuclei-templates-2025hw) - 自动生成nuclei 2025HW poc
 
 *   [birdhan/SecurityProduct](https://github.com/birdhan/SecurityProduct) - 开源安全产品源码，IDS、IPS、WAF、蜜罐等
-
-*   [yuanyuanxiang/TechBlog](https://github.com/yuanyuanxiang/TechBlog) - My Tech Blog: Sharing my programming experience, the knowledge I've learned, and my insights into technology!
 
 *   [shuai19980/Gh0st2023](https://github.com/shuai19980/Gh0st2023) - 重写免杀版Gh0st远控、大灰狼远控免杀，目前可免杀360、火绒、腾讯电脑管家等主流杀软。
 
@@ -2854,6 +2854,10 @@
 
 *   [L-codes/Neo-reGeorg](https://github.com/L-codes/Neo-reGeorg) - Neo-reGeorg is a project that seeks to aggressively refactor reGeorg
 
+*   [sensepost/reGeorg](https://github.com/sensepost/reGeorg) - The successor to reDuh, pwn a bastion webserver and create SOCKS proxies through the DMZ. Pivot and pwn.
+
+*   [broken5/WebAliveScan](https://github.com/broken5/WebAliveScan) - 对目标域名进行快速的存活扫描、简单的指纹识别、目录扫描
+
 ## Shell
 
 *   [DrDonk/OC4VM](https://github.com/DrDonk/OC4VM) - OpenCore for VMware
@@ -2965,8 +2969,6 @@
 *   [FTech6/pycdc-CN-with-build](https://github.com/FTech6/pycdc-CN-with-build) - 基于 C++ 的 Python 字节码反汇编/反编译器
 
 *   [Mephostophiles/PengCode](https://github.com/Mephostophiles/PengCode) - EXE转ShellCode工具
-
-*   [yuanyuanxiang/SimpleRemoter](https://github.com/yuanyuanxiang/SimpleRemoter) - A remote control program based on Gh0st: 实现了终端管理、进程管理、窗口管理、远程桌面、文件管理、语音管理、视频管理、服务管理、注册表管理等功能，优化全部代码及整理排版，修复内存泄漏缺陷，程序运行稳定。项目代码仅限于学习和交流用途。
 
 *   [0xCuSO4/DHLYK](https://github.com/0xCuSO4/DHLYK) - 大灰狼远控木马 V9.5 源码
 
@@ -3266,8 +3268,6 @@
 
 *   [Logkiss/Rat-winos4.0-gh0st](https://github.com/Logkiss/Rat-winos4.0-gh0st) - 免杀远控木马源码整理开源(银狐 winos 大灰狼  gh0st)  Rat
 
-*   [yuanyuanxiang/BGW\_RAT](https://github.com/yuanyuanxiang/BGW_RAT) - BGW RAT：一款功能全面的远程控制程序，即大灰狼9.5，现已支持VS2019编译。项目代码仅限于学习和交流用途。
-
 *   [veo/vbackdoor](https://github.com/veo/vbackdoor) - Hide process,port,self under Linux using the ld\_preload
 
 *   [LaPhilosophie/hello-rootkit](https://github.com/LaPhilosophie/hello-rootkit) - 一个基于LKM的Linux内核级rootkit的实现，包含模块隐藏、提权、文件隐藏、进程隐藏、端口隐藏功能
@@ -3432,7 +3432,7 @@
 
 *   [vi3t1/qq-tim-elevation](https://github.com/vi3t1/qq-tim-elevation) - CVE-2023-34312
 
-*   [AV1080p/Solana-Sniper-Bot](https://github.com/AV1080p/Solana-Sniper-Bot) - solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot https://t.me/av1080trading
+*   [AV1080p/Solana-Sniper-Bot](https://github.com/AV1080p/Solana-Sniper-Bot) - solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot https://t.me/av1080profit
 
 *   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
