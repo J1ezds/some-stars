@@ -2896,7 +2896,7 @@
 
 *   [XRSec/CobaltStrike-Docker](https://github.com/XRSec/CobaltStrike-Docker) - Cobalt Strike Wrapper
 
-*   [tangjie1/-Baseline-check](https://github.com/tangjie1/-Baseline-check) - windows和linux基线检查，配套自动化检查脚本。纯手打。
+*   [tangjie1/-Baseline-check](https://github.com/tangjie1/-Baseline-check) - 唐门·心法   windows和linux基线检查，配套自动化检查脚本。
 
 *   [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
 
