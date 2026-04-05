@@ -970,7 +970,7 @@
 
 *   [Axianke/arl\_scan](https://github.com/Axianke/arl_scan) - arl灯塔自动化扫描工具
 
-*   [taisuii/rusda](https://github.com/taisuii/rusda) - 对frida 16.2.1的patch
+*   [taisuii/rusda](https://github.com/taisuii/rusda) - 对frida 的patch，产物可直接下载Release
 
 *   [sajjadium/ctf-archives](https://github.com/sajjadium/ctf-archives) -  CTF Archives: Collection of CTF Challenges.
 
@@ -3058,7 +3058,7 @@
 
 *   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 
-*   [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) - 新一代SKRoot，完美隐藏root功能，挑战全网root检测手段，实现真正的SELinux 0%触碰、无挂载，通用性强，通杀所有内核，不需要内核源码，直接patch内核，兼容安卓APP直接JNI调用，稳定不闪退。
+*   [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) - 新一代 SKRoot，完美隐藏Root功能，无视全网检测手段，实现SELinux零触碰、无挂载！ 通杀所有内核，免源码直接 Patch 原厂内核，完美保留官方内核所有特性。
 
 *   [mohuihui/DingTalk\_Assistant](https://github.com/mohuihui/DingTalk_Assistant) - 钉钉助手，主要功能包括：聊天消息防撤回、程序多开、屏蔽频繁升级等。
 
