@@ -844,7 +844,7 @@
 
 *   [youki992/ShiningZ](https://github.com/youki992/ShiningZ) - "闪紫"（英文名shiningZ）社工字典生成工具，支持ABC自定义排列组合、ABC列字典AI扩展、AI提示词联想字典、自定义AI提示、字典去重、结果导出等
 
-*   [iamlinhui/rpt](https://github.com/iamlinhui/rpt) - 内网穿透&反向代理 (支持TCP上层协议，支持HTTP/HTTPS端口复用)
+*   [iamlinhui/rpt](https://github.com/iamlinhui/rpt) - 内网穿透&反向代理 (支持TCP/UDP上层协议，支持HTTP/HTTPS端口复用)
 
 *   [RuoJi6/xxl-job-FLM](https://github.com/RuoJi6/xxl-job-FLM) - xxl-job内存马
 
@@ -1682,7 +1682,7 @@
 
 *   [SourByte05/Vulnerability-Wiki-PoC](https://github.com/SourByte05/Vulnerability-Wiki-PoC) - 🚀 2024-至今 1Day 漏洞 PoC 深度研究与复现归档。涵盖 OA、ERP、安防、数通、大模型及容器等 高价值资产漏洞，实战导向，助力安全研究与合规检测。
 
-*   [asaotomo/ZipCracker](https://github.com/asaotomo/ZipCracker) - ZipCracker是Hx0战队出品的一款功能强大的Zip密码破解工具。它集成了字典攻击、掩码攻击和CRC32碰撞等多种破解模式，并能自动修复伪加密文件。凭借其高性能与多功能的特点，ZipCracker已成为CTF比赛中的一把利器。（ZipCracker by Hx0 team is a tool for cracking passwords on Zip files, great for CTF competitions.）
+*   [asaotomo/ZipCracker](https://github.com/asaotomo/ZipCracker) - ZipCracker是Hx0战队出品的一款功能强大的Zip密码破解工具。它集成了字典攻击、掩码攻击、短明文 CRC32 枚举恢复、已知明文攻击等多种破解模式，并能自动修复伪加密文件。凭借其高性能与多功能的特点，ZipCracker已成为CTF比赛中的一把利器。（ZipCracker by Hx0 team is a tool for cracking passwords on Zip files, great for CTF competitions.）
 
 *   [feiniao112/windows-log-analyzer](https://github.com/feiniao112/windows-log-analyzer) - Window日志分析工具
 
@@ -2110,7 +2110,7 @@
 
 *   [JerryLinLinLin/Huorong-ATP-Rules](https://github.com/JerryLinLinLin/Huorong-ATP-Rules) - 一款火绒增强HIPS自定义规则
 
-*   [firerpa/lamda](https://github.com/firerpa/lamda) -  The most powerful Android RPA agent framework, next generation of mobile automation robots.
+*   [firerpa/lamda](https://github.com/firerpa/lamda) -  The most powerful Android RPA agent framework, next generation mobile automation.
 
 *   [its-arun/CVE-2022-39197](https://github.com/its-arun/CVE-2022-39197) - CobaltStrike <= 4.7.1 RCE
 
