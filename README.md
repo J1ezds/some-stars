@@ -1330,7 +1330,7 @@
 
 *   [cwkiller/ClassLinefix](https://github.com/cwkiller/ClassLinefix) - Java bytecode line number restoration tool
 
-*   [nbauma109/jd-gui-duo](https://github.com/nbauma109/jd-gui-duo) - A 2-in-1 JAVA decompiler based on JD-CORE v0 and v1 supporting 3rd party decompilers CFR, Procyon, Fernflower, Vineflower & Jadx.
+*   [nbauma109/jd-gui-duo](https://github.com/nbauma109/jd-gui-duo) - A multi-decompiler standalone desktop GUI supporting JD-Core V0 & V1, CFR, Procyon, Fernflower, Vineflower & Jadx
 
 *   [DeEpinGh0st/JDumpSpiderGUI](https://github.com/DeEpinGh0st/JDumpSpiderGUI) - JDumpSpiderGUI 是一个用于 Java 堆转储文件分析的工具，支持命令行和 JavaFX 图形界面两种模式。该工具主要是在原工具上添加了图形化的界面
 
@@ -2098,7 +2098,7 @@
 
 *   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。
 
-*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
+*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - An AI prompt optimizer for writing better prompts and getting better AI results.
 
 *   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
