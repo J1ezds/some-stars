@@ -136,7 +136,7 @@
 
 *   [dogadmin/ProcIR](https://github.com/dogadmin/ProcIR) -
 
-*   [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
+*   [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude model through API
 
 *   [DrDonk/unlocker](https://github.com/DrDonk/unlocker) - VMware macOS utilities
 
@@ -1316,7 +1316,7 @@
 
 *   [0ofo/Deswing](https://github.com/0ofo/Deswing) - 图形化Java反序列化利用工具，集成Ysoserial
 
-*   [IIIIIllllIIIIIlllll/llama.cpp-hub](https://github.com/IIIIIllllIIIIIlllll/llama.cpp-hub) - llamacpp的整合包，自用于AI MAX+ 395机器，但是其它设备实际通用。如有问题可以提ISSUE，回复不一定及时；也可以加QQ群：829631748
+*   [IIIIIllllIIIIIlllll/llama.cpp-hub](https://github.com/IIIIIllllIIIIIlllll/llama.cpp-hub) - 自用的llama.cpp集成小工具，自用于AI MAX+ 395机器和双3090服务器。如有问题可以提ISSUE，回复不一定及时；也可以加QQ群：829631748，入群问题的答案是：防爆键盘
 
 *   [Sugobet/API\_Sword](https://github.com/Sugobet/API_Sword) - NSFOCUS API\_Sword：A Burp Suite extension, Automatically recursively collect API endpoints from any response
 
@@ -3298,7 +3298,7 @@
 
 *   [Aabyss-Team/Antivirus-Scan](https://github.com/Aabyss-Team/Antivirus-Scan) - What AV? 一款轻量级的杀软在线识别的项目，持续更新ing
 
-*   [wux1an/wxapkg](https://github.com/wux1an/wxapkg) - 微信小程序反编译 GUI 工具，.wxapkg 文件扫描 + 解密 + 解包工具
+*   [wux1an/wxapkg](https://github.com/wux1an/wxapkg) - 跨平台微信小程序反编译 GUI 工具，.wxapkg 文件扫描 + 解密 + 解包工具
 
 *   [jiaocoll/BeeScan-web](https://github.com/jiaocoll/BeeScan-web) - 网络空间资产探测、网络测绘、Go语言、分布式、扫描、资产探测、资产测绘、红队、SRC | Cyberspace Asset Detection, Network Mapping, Go Language, Distributed, Scanning, Asset Detection, Asset Mapping, Red Team, SRC
 
