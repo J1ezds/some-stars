@@ -8,14 +8,15 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Rust](#rust)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
-*   [C#](#c)
-*   [C++](#c-1)
+*   [C#](#c-1)
+*   [C++](#c-2)
 *   [TypeScript](#typescript)
 *   [PowerShell](#powershell)
 *   [Zig](#zig)
@@ -25,7 +26,6 @@
 *   [Dockerfile](#dockerfile)
 *   [CSS](#css)
 *   [ASP.NET](#aspnet)
-*   [C](#c-2)
 *   [PHP](#php)
 *   [Hack](#hack)
 *   [Vue](#vue)
@@ -63,6 +63,128 @@
 *   [Stylus](#stylus)
 *   [Perl](#perl)
 *   [AutoIt](#autoit)
+
+## C
+
+*   [Xre0uS/MultiDump](https://github.com/Xre0uS/MultiDump) - MultiDump is a post-exploitation tool for dumping and extracting LSASS memory discreetly.
+
+*   [hackerschoice/gsocket](https://github.com/hackerschoice/gsocket) - Connect like there is no firewall. Securely.
+
+*   [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
+
+*   [CDipper/Beacon](https://github.com/CDipper/Beacon) - 使用C简单重构Beacon，适配CobaltStrike客户端
+
+*   [ybdt/evasion-hub](https://github.com/ybdt/evasion-hub) - AV/EDR Evasion
+
+*   [Logkiss/Rat-winos4.0-gh0st](https://github.com/Logkiss/Rat-winos4.0-gh0st) - 免杀远控木马源码整理开源(银狐 winos 大灰狼  gh0st)  Rat
+
+*   [veo/vbackdoor](https://github.com/veo/vbackdoor) - Hide process,port,self under Linux using the ld\_preload
+
+*   [LaPhilosophie/hello-rootkit](https://github.com/LaPhilosophie/hello-rootkit) - 一个基于LKM的Linux内核级rootkit的实现，包含模块隐藏、提权、文件隐藏、进程隐藏、端口隐藏功能
+
+*   [paokuwansui/Antivirus\_killer](https://github.com/paokuwansui/Antivirus_killer) - 免杀主流防病毒软件
+
+*   [Adaptix-Framework/Extension-Kit](https://github.com/Adaptix-Framework/Extension-Kit) - AdaptixFramework Extension Kit
+
+*   [evilashz/PigScheduleTask](https://github.com/evilashz/PigScheduleTask) - 添加计划任务方法集合
+
+*   [xaitax/Chrome-App-Bound-Encryption-Decryption](https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption) - Bypass Chromium's App-Bound Encryption via Direct Syscall-based Reflective Process Hollowing. Extract cookies, passwords, payment methods & tokens from Chrome, Edge, Brave & Avast - fileless, user-mode,   no admin required.
+
+*   [Meckazin/ChromeKatz](https://github.com/Meckazin/ChromeKatz) - Dump cookies and credentials directly from Chrome/Edge process memory
+
+*   [topotam/PetitPotam](https://github.com/topotam/PetitPotam) - PoC tool to coerce Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw or other functions.
+
+*   [MzHmO/Exploit-Street](https://github.com/MzHmO/Exploit-Street) - Complete list of LPE exploits for Windows (starting from 2023)
+
+*   [baigae/HeavenlyBypassAV](https://github.com/baigae/HeavenlyBypassAV) - HeavenlyBypassAV免杀工具
+
+*   [c0de90e7/GhostWriting](https://github.com/c0de90e7/GhostWriting) - GhostWriting Injection Technique.
+
+*   [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
+
+*   [P001water/yuze](https://github.com/P001water/yuze) - A socksv5 proxy tool Written by CLang. 一款纯C实现的轻量内网穿透工具，支持正向，反向socks5代理隧道的搭建，支持跨平台使用。
+
+*   [netero1010/EDRSilencer](https://github.com/netero1010/EDRSilencer) - A tool uses Windows Filtering Platform (WFP) to block Endpoint Detection and Response (EDR) agents from reporting security events to the server.
+
+*   [veo/nginx\_shell](https://github.com/veo/nginx_shell) - nginx WebShell/内存马，更优雅的nignx backdoor
+
+*   [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
+
+*   [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
+
+*   [Al1ex/LinuxEelvation](https://github.com/Al1ex/LinuxEelvation) - Linux Eelvation(持续更新)
+
+*   [hfiref0x/UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
+
+*   [csujedihy/proximac](https://github.com/csujedihy/proximac) - An open-source alternative to proxifier
+
+*   [boku7/BokuLoader](https://github.com/boku7/BokuLoader) - A proof-of-concept Cobalt Strike Reflective Loader which aims to recreate, integrate, and enhance Cobalt Strike's evasion features!
+
+*   [rampageX/firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) - Automatically exported from code.google.com/p/firmware-mod-kit
+
+*   [wangfly-me/LoaderFly](https://github.com/wangfly-me/LoaderFly) - 助力每一位RT队员，快速生成免杀木马
+
+*   [mertdas/PrivKit](https://github.com/mertdas/PrivKit) - PrivKit is a simple beacon object file that detects privilege escalation vulnerabilities caused by misconfigurations on Windows OS.
+
+*   [Cracked5pider/Stardust](https://github.com/Cracked5pider/Stardust) - A modern 32/64-bit position independent implant template
+
+*   [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
+
+*   [lrh2000/StackRot](https://github.com/lrh2000/StackRot) - CVE-2023-3269: Linux kernel privilege escalation vulnerability
+
+*   [yangyangwithgnu/bypass\_disablefunc\_via\_LD\_PRELOAD](https://github.com/yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD) - bypass disable\_functions via LD\_PRELOA  (no need /usr/sbin/sendmail)
+
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
+*   [huaigu4ng/SysWhispers3WinHttp](https://github.com/huaigu4ng/SysWhispers3WinHttp) - Syscall免杀
+
+*   [brendan-rius/c-jwt-cracker](https://github.com/brendan-rius/c-jwt-cracker) - JWT brute force cracker written in C
+
+*   [antonioCoco/RoguePotato](https://github.com/antonioCoco/RoguePotato) - Another Windows Local Privilege Escalation from Service Account to System
+
+*   [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN\_Stable.
+
+*   [Coldzer0/ReverseSock5Proxy](https://github.com/Coldzer0/ReverseSock5Proxy) - A tiny Reverse Sock5 Proxy written in C :V
+
+*   [cgbsmy/TrayS](https://github.com/cgbsmy/TrayS) - TrayStyle
+
+*   [FreeRDP/Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK+ Remmina Remote Desktop Client
+
+*   [EstamelGG/CVE-2021-4034-NoGCC](https://github.com/EstamelGG/CVE-2021-4034-NoGCC) - CVE-2021-4034简单优化，以应对没有安装gcc和make的目标环境
+
+*   [msm8916-mainline/linux](https://github.com/msm8916-mainline/linux) - Linux mainline kernel fork for various Qualcomm MSM8909/MSM8916/MSM8939 devices
+
+*   [LDrakura/Remote\_ShellcodeLoader](https://github.com/LDrakura/Remote_ShellcodeLoader) - 远程shellcode加载&权限维持+小功能
+
+*   [Al1ex/WindowsElevation](https://github.com/Al1ex/WindowsElevation) - Windows Elevation(持续更新)
+
+*   [phith0n/arbitrary-php-extension](https://github.com/phith0n/arbitrary-php-extension) - 这是一个实验性的PHP扩展，加载这个扩展后，每次请求将可以执行一段自己的PHP代码。
+
+*   [wonderkun/go-packer](https://github.com/wonderkun/go-packer) - golang打包二进制进行免杀
+
+*   [helloexp/0day](https://github.com/helloexp/0day) - 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新
+
+*   [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
+
+*   [timwhitez/Cobalt-Strike-Aggressor-Scripts](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts) - Cobalt Strike Aggressor 插件包
+
+*   [firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One) - CTF竞赛权威指南
+
+*   [mirror/busybox](https://github.com/mirror/busybox) - BusyBox mirror
+
+*   [gloxec/CrossC2](https://github.com/gloxec/CrossC2) - generate CobaltStrike's cross-platform payload
+
+*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
+
+*   [newsoft/adduser](https://github.com/newsoft/adduser) - Programmatically create an administrative user under Windows
+
+*   [n0b0dyCN/redis-rogue-server](https://github.com/n0b0dyCN/redis-rogue-server) - Redis(<=5.0.5) RCE
+
+*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
+
+*   [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
+
+*   [lengjibo/FourEye](https://github.com/lengjibo/FourEye) - AV Evasion Tool For Red Team Ops
 
 ## JavaScript
 
@@ -1286,7 +1408,7 @@
 
 *   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 
-*   [WangYihang/Platypus](https://github.com/WangYihang/Platypus) - :hammer: A modern multiple reverse shell sessions manager written in go
+*   [WangYihang/Platypus](https://github.com/WangYihang/Platypus) - :hammer: A modern host manager
 
 *   [Qianlitp/crawlergo](https://github.com/Qianlitp/crawlergo) - A powerful browser crawler for web vulnerability scanners
 
@@ -2790,8 +2912,6 @@
 
 *   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 
-*   [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon大型内网渗透扫描器，PowerShell、Cobalt Strike插件、内存加载、无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。网络资产探测32种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SSH\HTTP\HTTPS\Exchange\mssql\FTP\RDP)或方法快速获取目标网络存活主机IP、计算机名、工作组、共享资源、网卡地址、操作系统版本、网站、子域名、中间件、开放服务、路由器、交换机、数据库、打印机等，大量高危漏洞检测模块MS17010、Zimbra、Exchange
-
 ## C++
 
 *   [kobilutil/api-ms-win-core-path-HACK](https://github.com/kobilutil/api-ms-win-core-path-HACK) - Custom implementation of some of the functions in api-ms-win-core-path-l1-1-0.dll for Windows 7
@@ -3323,126 +3443,6 @@
 *   [0x7556/wolfshell](https://github.com/0x7556/wolfshell) - 金刚狼：首款支持AI渗透的WebShell MCP，首款支持多层内网级联的ASPX、ASHX高级WebShell管理工具，AES加密通信，无需代理，内存加载渗透工具，无文件落地隐蔽渗透目标，动态代码执行，ShellCode加载(Metasploit/Cobalt Strike)，反弹Shell，Socks代理，内存马
 
 *   [sectest2024/leakinfo\_finder](https://github.com/sectest2024/leakinfo_finder) -
-
-## C
-
-*   [hackerschoice/gsocket](https://github.com/hackerschoice/gsocket) - Connect like there is no firewall. Securely.
-
-*   [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
-
-*   [CDipper/Beacon](https://github.com/CDipper/Beacon) - 使用C简单重构Beacon，适配CobaltStrike客户端
-
-*   [ybdt/evasion-hub](https://github.com/ybdt/evasion-hub) - AV/EDR Evasion
-
-*   [Logkiss/Rat-winos4.0-gh0st](https://github.com/Logkiss/Rat-winos4.0-gh0st) - 免杀远控木马源码整理开源(银狐 winos 大灰狼  gh0st)  Rat
-
-*   [veo/vbackdoor](https://github.com/veo/vbackdoor) - Hide process,port,self under Linux using the ld\_preload
-
-*   [LaPhilosophie/hello-rootkit](https://github.com/LaPhilosophie/hello-rootkit) - 一个基于LKM的Linux内核级rootkit的实现，包含模块隐藏、提权、文件隐藏、进程隐藏、端口隐藏功能
-
-*   [paokuwansui/Antivirus\_killer](https://github.com/paokuwansui/Antivirus_killer) - 免杀主流防病毒软件
-
-*   [Adaptix-Framework/Extension-Kit](https://github.com/Adaptix-Framework/Extension-Kit) - AdaptixFramework Extension Kit
-
-*   [evilashz/PigScheduleTask](https://github.com/evilashz/PigScheduleTask) - 添加计划任务方法集合
-
-*   [xaitax/Chrome-App-Bound-Encryption-Decryption](https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption) - Bypass Chromium's App-Bound Encryption via Direct Syscall-based Reflective Process Hollowing. Extract cookies, passwords, payment methods & tokens from Chrome, Edge, Brave & Avast - fileless, user-mode,   no admin required.
-
-*   [Meckazin/ChromeKatz](https://github.com/Meckazin/ChromeKatz) - Dump cookies and credentials directly from Chrome/Edge process memory
-
-*   [topotam/PetitPotam](https://github.com/topotam/PetitPotam) - PoC tool to coerce Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw or other functions.
-
-*   [MzHmO/Exploit-Street](https://github.com/MzHmO/Exploit-Street) - Complete list of LPE exploits for Windows (starting from 2023)
-
-*   [baigae/HeavenlyBypassAV](https://github.com/baigae/HeavenlyBypassAV) - HeavenlyBypassAV免杀工具
-
-*   [c0de90e7/GhostWriting](https://github.com/c0de90e7/GhostWriting) - GhostWriting Injection Technique.
-
-*   [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
-
-*   [P001water/yuze](https://github.com/P001water/yuze) - A socksv5 proxy tool Written by CLang. 一款纯C实现的轻量内网穿透工具，支持正向，反向socks5代理隧道的搭建，支持跨平台使用。
-
-*   [netero1010/EDRSilencer](https://github.com/netero1010/EDRSilencer) - A tool uses Windows Filtering Platform (WFP) to block Endpoint Detection and Response (EDR) agents from reporting security events to the server.
-
-*   [veo/nginx\_shell](https://github.com/veo/nginx_shell) - nginx WebShell/内存马，更优雅的nignx backdoor
-
-*   [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
-
-*   [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
-
-*   [Al1ex/LinuxEelvation](https://github.com/Al1ex/LinuxEelvation) - Linux Eelvation(持续更新)
-
-*   [hfiref0x/UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
-
-*   [csujedihy/proximac](https://github.com/csujedihy/proximac) - An open-source alternative to proxifier
-
-*   [boku7/BokuLoader](https://github.com/boku7/BokuLoader) - A proof-of-concept Cobalt Strike Reflective Loader which aims to recreate, integrate, and enhance Cobalt Strike's evasion features!
-
-*   [rampageX/firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) - Automatically exported from code.google.com/p/firmware-mod-kit
-
-*   [wangfly-me/LoaderFly](https://github.com/wangfly-me/LoaderFly) - 助力每一位RT队员，快速生成免杀木马
-
-*   [mertdas/PrivKit](https://github.com/mertdas/PrivKit) - PrivKit is a simple beacon object file that detects privilege escalation vulnerabilities caused by misconfigurations on Windows OS.
-
-*   [Cracked5pider/Stardust](https://github.com/Cracked5pider/Stardust) - A modern 32/64-bit position independent implant template
-
-*   [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
-
-*   [lrh2000/StackRot](https://github.com/lrh2000/StackRot) - CVE-2023-3269: Linux kernel privilege escalation vulnerability
-
-*   [yangyangwithgnu/bypass\_disablefunc\_via\_LD\_PRELOAD](https://github.com/yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD) - bypass disable\_functions via LD\_PRELOA  (no need /usr/sbin/sendmail)
-
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-
-*   [huaigu4ng/SysWhispers3WinHttp](https://github.com/huaigu4ng/SysWhispers3WinHttp) - Syscall免杀
-
-*   [brendan-rius/c-jwt-cracker](https://github.com/brendan-rius/c-jwt-cracker) - JWT brute force cracker written in C
-
-*   [antonioCoco/RoguePotato](https://github.com/antonioCoco/RoguePotato) - Another Windows Local Privilege Escalation from Service Account to System
-
-*   [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN\_Stable.
-
-*   [Coldzer0/ReverseSock5Proxy](https://github.com/Coldzer0/ReverseSock5Proxy) - A tiny Reverse Sock5 Proxy written in C :V
-
-*   [cgbsmy/TrayS](https://github.com/cgbsmy/TrayS) - TrayStyle
-
-*   [FreeRDP/Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK+ Remmina Remote Desktop Client
-
-*   [EstamelGG/CVE-2021-4034-NoGCC](https://github.com/EstamelGG/CVE-2021-4034-NoGCC) - CVE-2021-4034简单优化，以应对没有安装gcc和make的目标环境
-
-*   [msm8916-mainline/linux](https://github.com/msm8916-mainline/linux) - Linux mainline kernel fork for various Qualcomm MSM8909/MSM8916/MSM8939 devices
-
-*   [LDrakura/Remote\_ShellcodeLoader](https://github.com/LDrakura/Remote_ShellcodeLoader) - 远程shellcode加载&权限维持+小功能
-
-*   [Al1ex/WindowsElevation](https://github.com/Al1ex/WindowsElevation) - Windows Elevation(持续更新)
-
-*   [phith0n/arbitrary-php-extension](https://github.com/phith0n/arbitrary-php-extension) - 这是一个实验性的PHP扩展，加载这个扩展后，每次请求将可以执行一段自己的PHP代码。
-
-*   [wonderkun/go-packer](https://github.com/wonderkun/go-packer) - golang打包二进制进行免杀
-
-*   [helloexp/0day](https://github.com/helloexp/0day) - 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新
-
-*   [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
-
-*   [timwhitez/Cobalt-Strike-Aggressor-Scripts](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts) - Cobalt Strike Aggressor 插件包
-
-*   [firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One) - CTF竞赛权威指南
-
-*   [mirror/busybox](https://github.com/mirror/busybox) - BusyBox mirror
-
-*   [gloxec/CrossC2](https://github.com/gloxec/CrossC2) - generate CobaltStrike's cross-platform payload
-
-*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-
-*   [newsoft/adduser](https://github.com/newsoft/adduser) - Programmatically create an administrative user under Windows
-
-*   [n0b0dyCN/redis-rogue-server](https://github.com/n0b0dyCN/redis-rogue-server) - Redis(<=5.0.5) RCE
-
-*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
-
-*   [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
-
-*   [lengjibo/FourEye](https://github.com/lengjibo/FourEye) - AV Evasion Tool For Red Team Ops
 
 ## PHP
 
