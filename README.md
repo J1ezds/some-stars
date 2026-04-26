@@ -188,7 +188,7 @@
 
 ## JavaScript
 
-*   [QLHazyCoder/codex-oauth-automation-extension](https://github.com/QLHazyCoder/codex-oauth-automation-extension) - Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复
+*   [QLHazyCoder/codex-oauth-automation-extension](https://github.com/QLHazyCoder/codex-oauth-automation-extension) - Chrome扩展：支持OpenAI OAuth注册(自动开通plus账号)、验证码获取、CPA/sub/cpdex2api回调验证与自动恢复
 
 *   [qist/tvbox](https://github.com/qist/tvbox) - OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
 
@@ -753,8 +753,6 @@
 *   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
 *   [lemonlove7/dirsearch\_bypass403](https://github.com/lemonlove7/dirsearch_bypass403) - 目录扫描+JS文件中提取URL和子域+403状态绕过+指纹识别
-
-*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 
 *   [net4people/bbs](https://github.com/net4people/bbs) - Forum for discussing Internet censorship circumvention
 
@@ -2013,6 +2011,8 @@
 *   [woodpecker-framework/woodpecker-framework-release](https://github.com/woodpecker-framework/woodpecker-framework-release) - 高危漏洞精准检测与深度利用框架
 
 *   [ExpLangcn/NucleiTP](https://github.com/ExpLangcn/NucleiTP) - 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC！
+
+*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 
 *   [euphrat1ca/Security-List](https://github.com/euphrat1ca/Security-List) - If you have any good suggestions or comments during the search process, please feedback some index experience in issues. Thank you for your participation.查阅过程中，如果有什么好的意见或建议，请在Issues反馈，感谢您的参与。
 
