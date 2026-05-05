@@ -96,7 +96,7 @@
 
 ## Python
 
-*   [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431) -
+*   [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431) - Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code
 
 *   [Spade-sec/First](https://github.com/Spade-sec/First) - WMPFDebugger 二开微信小程序多功能集成工具
 
