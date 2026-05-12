@@ -312,7 +312,7 @@
 
 *   [xcanwin/CVE-2024-4577-PHP-RCE](https://github.com/xcanwin/CVE-2024-4577-PHP-RCE) - \[漏洞复现] 全球首款利用PHP默认环境（XAMPP）的CVE-2024-4577 PHP-CGI RCE 漏洞 EXP。
 
-*   [kohlersbtuh15/accesskey\_tools](https://github.com/kohlersbtuh15/accesskey_tools) - 阿里云aliyun/腾讯云tencentcloud/华为云huaweicloud/aws等各种云厂商的accesskey运维安全工具，accesskey利用工具，包括但不限于创建ecs、ecs查询和命令执行、oss查询和批量下载等各种功能,aws accesskey rce;remote command execute
+*   [kohlersbtuh15/accesskey\_tools](https://github.com/kohlersbtuh15/accesskey_tools) - 阿里云aliyun/腾讯云tencentcloud/亚马逊云aws等各种云厂商的accesskey运维安全工具，accesskey利用工具，包括但不限于创建ecs、ecs查询和命令执行、安全组修改、公钥写入、oss查询和批量下载等各种功能,aws accesskey rce;remote command execute
 
 *   [eeeeeeeeee-code/e0e1-wx](https://github.com/eeeeeeeeee-code/e0e1-wx) - 微信小程序辅助渗透-自动化
 
@@ -1902,6 +1902,8 @@
 
 *   [CVEProject/cvelist](https://github.com/CVEProject/cvelist) - Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023
 
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+
 *   [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
 
 *   [alphaSeclab/awesome-rat](https://github.com/alphaSeclab/awesome-rat) - RAT And C\&C Resources. 250+ Open Source Projects, 1200+ RAT/C\&C blog/video.
@@ -2256,7 +2258,7 @@
 
 ## C
 
-*   [aixed/WeChat-Hook](https://github.com/aixed/WeChat-Hook) - 微信 收发消息功能/ PC微信4.1.9.23接口 微信Hook 微信机器人 微信Hook源码 PC微信协议 PC微信协议算法
+*   [aixed/WeChat-Hook](https://github.com/aixed/WeChat-Hook) - 微信 收发消息功能/ PC微信4.1.9.30接口 微信Hook 微信机器人 微信Hook源码 PC微信协议 PC微信协议算法
 
 *   [Xre0uS/MultiDump](https://github.com/Xre0uS/MultiDump) - MultiDump is a post-exploitation tool for dumping and extracting LSASS memory discreetly.
 
@@ -2968,8 +2970,6 @@
 
 *   [Mustard404/Savior](https://github.com/Mustard404/Savior) - 渗透测试报告自动生成工具！
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-
 *   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 
 *   [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)
@@ -2990,7 +2990,7 @@
 
 ## Rust
 
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 
 *   [yellatiamo/CupcakeC2](https://github.com/yellatiamo/CupcakeC2) - 这是一款现代、高性能的跨平台 C2 架构系统。采用 Rust 编写受控端，Go 编写服务端，以及 Vue 3 极致轻量化 UI。深度融合 MCP 协议，开启 AI 自动化攻防新篇章。
 
