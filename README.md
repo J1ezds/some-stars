@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Python](#python)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
@@ -22,7 +23,6 @@
 *   [C#](#c-2)
 *   [PowerShell](#powershell)
 *   [Zig](#zig)
-*   [Shell](#shell)
 *   [HTML](#html)
 *   [Batchfile](#batchfile)
 *   [Dockerfile](#dockerfile)
@@ -63,6 +63,102 @@
 *   [Stylus](#stylus)
 *   [Perl](#perl)
 *   [AutoIt](#autoit)
+
+## Shell
+
+*   [kanshurichard/enableAppleAI](https://github.com/kanshurichard/enableAppleAI) - Enable Apple Intelligence on Macs sold in Mainland China with SIP enabled, for version between  MacOS 15.4.1+ and 26.5 beta3
+
+*   [DrDonk/OC4VM](https://github.com/DrDonk/OC4VM) - OpenCore for VMware
+
+*   [LongQT-sea/macos-iso-builder](https://github.com/LongQT-sea/macos-iso-builder) - Generate bootable macOS installer ISO or DMG images directly from Apple servers via GitHub Actions - no Mac required. Mac OS X 10.7 - macOS 26 Tahoe
+
+*   [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境
+
+*   [testnet0/testnet](https://github.com/testnet0/testnet) - TestNet资产管理系统（资产管理|信息收集|暴露面管理|子域名扫描|C段扫描|端口扫描|漏洞扫描|Hunter|Fofa）
+
+*   [y0ngb1n/dockerized](https://github.com/y0ngb1n/dockerized) - 🐳 Build once, run anywhere ☸️
+
+*   [c0ny1/vulstudy](https://github.com/c0ny1/vulstudy) - 使用docker快速搭建各大漏洞靶场，目前可以一键搭建17个靶场。
+
+*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
+
+*   [hanreev/root-bluestacks-air](https://github.com/hanreev/root-bluestacks-air) - Root BlueStacks Air macOS
+
+*   [enomothem/Whoamifuck](https://github.com/enomothem/Whoamifuck) - 用于Linux应急响应，快速排查异常用户登录情况和入侵信息排查，准确定位溯源时间线，高效辅助还原攻击链。
+
+*   [AdrianDAlessandro/pyenv-suffix](https://github.com/AdrianDAlessandro/pyenv-suffix) - pyenv plugin to allow you to install python versions with user-specified suffixes.
+
+*   [tom-snow/wechat-windows-versions](https://github.com/tom-snow/wechat-windows-versions) - 保存微信历史版本
+
+*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
+
+*   [RROrg/rr](https://github.com/RROrg/rr) - Redpill Recovery (arpl-i18n)
+
+*   [Jewel591/suidcheck](https://github.com/Jewel591/suidcheck) - Linux SUID 提权检测脚本，自动分析具有 s 权限的可执行文件并给出相应的提权利用方法
+
+*   [Mr-xn/subdomain\_shell](https://github.com/Mr-xn/subdomain_shell) - 一键调用subfinder+ksubdomain+httpx 强强联合 从域名发现-->域名验证-->获取域名标题、状态码以及响应大小 最后保存结果,简化重复操作命令
+
+*   [XRSec/CobaltStrike-Docker](https://github.com/XRSec/CobaltStrike-Docker) - Cobalt Strike Wrapper
+
+*   [tangjie1/-Baseline-check](https://github.com/tangjie1/-Baseline-check) - 唐门·心法   windows和linux基线检查，配套自动化检查脚本。
+
+*   [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
+
+*   [haiibo/OpenWrt](https://github.com/haiibo/OpenWrt) - 基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5C、R5S、香橙派 R1 Plus、树莓派3B、树莓派4B、R66S、R68S、M68S、H28K、H66K、H68K、H88K、H69K、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等
+
+*   [the0demiurge/CharlesScripts](https://github.com/the0demiurge/CharlesScripts) - My awesome scripts for Arch Linux or Ubuntu Gnome latest LTS or MacBook.
+
+*   [yhan219/navicat\_reset\_mac](https://github.com/yhan219/navicat_reset_mac) - navicat mac版无限重置试用期脚本 Navicat Mac Version Unlimited Trial Reset Script
+
+*   [insightglacier/Dictionary-Of-Pentesting](https://github.com/insightglacier/Dictionary-Of-Pentesting) - Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。
+
+*   [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
+
+*   [paulirish/github-email](https://github.com/paulirish/github-email) - Get a GitHub user's email. :sunglasses: Use this responsibly.
+
+*   [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
+
+*   [iamj0ker/bypass-403](https://github.com/iamj0ker/bypass-403) - A simple script just made for self use for bypassing 403
+
+*   [typecho/Dockerfile](https://github.com/typecho/Dockerfile) - Docker Image packaging for Typecho
+
+*   [nextcloud/docker](https://github.com/nextcloud/docker) - A community maintained docker micro-image for deploying Nextcloud on container platforms
+
+*   [r00t-3xp10it/venom](https://github.com/r00t-3xp10it/venom) - venom - C2 shellcode generator/compiler/handler
+
+*   [snail007/proxy\_admin\_free](https://github.com/snail007/proxy_admin_free) - Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。
+
+*   [neargle/re0-kubernetes-sec-archive](https://github.com/neargle/re0-kubernetes-sec-archive) - :atom: \[WIP] 整理过去我和K8s、容器、虚拟化相关的分享 🧐
+
+*   [TomAPU/poc\_and\_exp](https://github.com/TomAPU/poc_and_exp) - 搜集的或者自己写的poc或者exp
+
+*   [rebootuser/LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
+
+*   [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
+
+*   [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
+
+*   [teamssix/container-escape-check](https://github.com/teamssix/container-escape-check) - docker container escape check || Docker 容器逃逸检测
+
+*   [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
+
+*   [csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China) - 介绍中国各二线以上城市的互联网环境以及生活成本
+
+*   [TheKingOfDuck/ApkAnalyser](https://github.com/TheKingOfDuck/ApkAnalyser) - 一键提取安卓应用中可能存在的敏感信息。
+
+*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+
+*   [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck) - Linux应急处置/信息搜集/漏洞检测工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程/供应链/服务器风险等13类70+项检查
+
+*   [ffffffff0x/f8x](https://github.com/ffffffff0x/f8x) - 红/蓝队环境自动化部署工具 | Red/Blue team environment automation deployment tool
+
+*   [vufa/deepin-wine-qq-arch](https://github.com/vufa/deepin-wine-qq-arch) - Tencent QQ on Deepin Wine5(com.qq.im.deepin) For Archlinux
+
+*   [vufa/deepin-wine-wechat-arch](https://github.com/vufa/deepin-wine-wechat-arch) - Tencent WeChat on Deepin Wine(com.qq.weixin.deepin) For Archlinux
+
+*   [orangbus/Tool](https://github.com/orangbus/Tool) - Manjaro从入门到爱不释手．
+
+*   [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
 
 ## Python
 
@@ -776,8 +872,6 @@
 
 *   [Hypdncy/NessusToReport](https://github.com/Hypdncy/NessusToReport) - Nessus扫描报告自动化生成工具
 
-*   [threatexpress/cs2modrewrite](https://github.com/threatexpress/cs2modrewrite) - Convert Cobalt Strike profiles to modrewrite scripts
-
 ## Go
 
 *   [cdk-team/CDK](https://github.com/cdk-team/CDK) - 📦  Make security testing of K8s, Docker, and Containerd easier.
@@ -1319,6 +1413,8 @@
 *   [wooluo/nuclei-templates-2025hw](https://github.com/wooluo/nuclei-templates-2025hw) - 自动生成nuclei 2025HW poc
 
 *   [birdhan/SecurityProduct](https://github.com/birdhan/SecurityProduct) - 开源安全产品源码，IDS、IPS、WAF、蜜罐等
+
+*   [yuanyuanxiang/TechBlog](https://github.com/yuanyuanxiang/TechBlog) - My Tech Blog: Sharing my programming experience, the knowledge I've learned, and my insights into technology!
 
 *   [shuai19980/Gh0st2023](https://github.com/shuai19980/Gh0st2023) - 重写免杀版Gh0st远控、大灰狼远控免杀，目前可免杀360、火绒、腾讯电脑管家等主流杀软。
 
@@ -1958,8 +2054,6 @@
 
 *   [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
 
-*   [foryujian/yjdirscan](https://github.com/foryujian/yjdirscan) - 御剑目录扫描专业版，简单实用的命令行网站目录扫描工具，支持爬虫、fuzz、自定义字典、字典变量、UA修改、假404自动过滤、扫描控速等功能。
-
 ## Kotlin
 
 *   [noellegazelle6/kail\_location](https://github.com/noellegazelle6/kail_location) - 路线模拟，位置模拟，导航模拟，步频模拟，虚拟定位，nfc模拟
@@ -2128,6 +2222,8 @@
 
 *   [Mephostophiles/PengCode](https://github.com/Mephostophiles/PengCode) - EXE转ShellCode工具
 
+*   [yuanyuanxiang/SimpleRemoter](https://github.com/yuanyuanxiang/SimpleRemoter) - A remote control program based on Gh0st: 实现了终端管理、进程管理、窗口管理、远程桌面、文件管理、语音管理、视频管理、服务管理、注册表管理等功能，优化全部代码及整理排版，修复内存泄漏缺陷，程序运行稳定。项目代码仅限于学习和交流用途。
+
 *   [0xCuSO4/DHLYK](https://github.com/0xCuSO4/DHLYK) - 大灰狼远控木马 V9.5 源码
 
 *   [T4y1oR/RingQ](https://github.com/T4y1oR/RingQ) - 一款后渗透免杀工具，助力每一位像我这样的脚本小子快速实现免杀，支持bypass AV/EDR 360 火绒 Windows Defender Shellcode Loader
@@ -2271,6 +2367,8 @@
 *   [ybdt/evasion-hub](https://github.com/ybdt/evasion-hub) - AV/EDR Evasion
 
 *   [Logkiss/Rat-winos4.0-gh0st](https://github.com/Logkiss/Rat-winos4.0-gh0st) - 免杀远控木马源码整理开源(银狐 winos 大灰狼  gh0st)  Rat
+
+*   [yuanyuanxiang/BGW\_RAT](https://github.com/yuanyuanxiang/BGW_RAT) - BGW RAT：一款功能全面的远程控制程序，即大灰狼9.5，现已支持VS2019编译。项目代码仅限于学习和交流用途。
 
 *   [veo/vbackdoor](https://github.com/veo/vbackdoor) - Hide process,port,self under Linux using the ld\_preload
 
@@ -3244,100 +3342,6 @@
 
 *   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
-## Shell
-
-*   [DrDonk/OC4VM](https://github.com/DrDonk/OC4VM) - OpenCore for VMware
-
-*   [LongQT-sea/macos-iso-builder](https://github.com/LongQT-sea/macos-iso-builder) - Generate bootable macOS installer ISO or DMG images directly from Apple servers via GitHub Actions - no Mac required. Mac OS X 10.7 - macOS 26 Tahoe
-
-*   [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境
-
-*   [testnet0/testnet](https://github.com/testnet0/testnet) - TestNet资产管理系统（资产管理|信息收集|暴露面管理|子域名扫描|C段扫描|端口扫描|漏洞扫描|Hunter|Fofa）
-
-*   [y0ngb1n/dockerized](https://github.com/y0ngb1n/dockerized) - 🐳 Build once, run anywhere ☸️
-
-*   [c0ny1/vulstudy](https://github.com/c0ny1/vulstudy) - 使用docker快速搭建各大漏洞靶场，目前可以一键搭建17个靶场。
-
-*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
-
-*   [hanreev/root-bluestacks-air](https://github.com/hanreev/root-bluestacks-air) - Root BlueStacks Air macOS
-
-*   [enomothem/Whoamifuck](https://github.com/enomothem/Whoamifuck) - 用于Linux应急响应，快速排查异常用户登录情况和入侵信息排查，准确定位溯源时间线，高效辅助还原攻击链。
-
-*   [AdrianDAlessandro/pyenv-suffix](https://github.com/AdrianDAlessandro/pyenv-suffix) - pyenv plugin to allow you to install python versions with user-specified suffixes.
-
-*   [tom-snow/wechat-windows-versions](https://github.com/tom-snow/wechat-windows-versions) - 保存微信历史版本
-
-*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
-
-*   [RROrg/rr](https://github.com/RROrg/rr) - Redpill Recovery (arpl-i18n)
-
-*   [Jewel591/suidcheck](https://github.com/Jewel591/suidcheck) - Linux SUID 提权检测脚本，自动分析具有 s 权限的可执行文件并给出相应的提权利用方法
-
-*   [Mr-xn/subdomain\_shell](https://github.com/Mr-xn/subdomain_shell) - 一键调用subfinder+ksubdomain+httpx 强强联合 从域名发现-->域名验证-->获取域名标题、状态码以及响应大小 最后保存结果,简化重复操作命令
-
-*   [XRSec/CobaltStrike-Docker](https://github.com/XRSec/CobaltStrike-Docker) - Cobalt Strike Wrapper
-
-*   [tangjie1/-Baseline-check](https://github.com/tangjie1/-Baseline-check) - 唐门·心法   windows和linux基线检查，配套自动化检查脚本。
-
-*   [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
-
-*   [haiibo/OpenWrt](https://github.com/haiibo/OpenWrt) - 基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5C、R5S、香橙派 R1 Plus、树莓派3B、树莓派4B、R66S、R68S、M68S、H28K、H66K、H68K、H88K、H69K、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等
-
-*   [the0demiurge/CharlesScripts](https://github.com/the0demiurge/CharlesScripts) - My awesome scripts for Arch Linux or Ubuntu Gnome latest LTS or MacBook.
-
-*   [yhan219/navicat\_reset\_mac](https://github.com/yhan219/navicat_reset_mac) - navicat mac版无限重置试用期脚本 Navicat Mac Version Unlimited Trial Reset Script
-
-*   [insightglacier/Dictionary-Of-Pentesting](https://github.com/insightglacier/Dictionary-Of-Pentesting) - Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。
-
-*   [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
-
-*   [paulirish/github-email](https://github.com/paulirish/github-email) - Get a GitHub user's email. :sunglasses: Use this responsibly.
-
-*   [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
-
-*   [iamj0ker/bypass-403](https://github.com/iamj0ker/bypass-403) - A simple script just made for self use for bypassing 403
-
-*   [typecho/Dockerfile](https://github.com/typecho/Dockerfile) - Docker Image packaging for Typecho
-
-*   [nextcloud/docker](https://github.com/nextcloud/docker) - A community maintained docker micro-image for deploying Nextcloud on container platforms
-
-*   [r00t-3xp10it/venom](https://github.com/r00t-3xp10it/venom) - venom - C2 shellcode generator/compiler/handler
-
-*   [snail007/proxy\_admin\_free](https://github.com/snail007/proxy_admin_free) - Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。
-
-*   [neargle/re0-kubernetes-sec-archive](https://github.com/neargle/re0-kubernetes-sec-archive) - :atom: \[WIP] 整理过去我和K8s、容器、虚拟化相关的分享 🧐
-
-*   [TomAPU/poc\_and\_exp](https://github.com/TomAPU/poc_and_exp) - 搜集的或者自己写的poc或者exp
-
-*   [rebootuser/LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
-
-*   [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
-
-*   [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
-
-*   [teamssix/container-escape-check](https://github.com/teamssix/container-escape-check) - docker container escape check || Docker 容器逃逸检测
-
-*   [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
-
-*   [csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China) - 介绍中国各二线以上城市的互联网环境以及生活成本
-
-*   [TheKingOfDuck/ApkAnalyser](https://github.com/TheKingOfDuck/ApkAnalyser) - 一键提取安卓应用中可能存在的敏感信息。
-
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-
-*   [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck) - Linux应急处置/信息搜集/漏洞检测工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程/供应链/服务器风险等13类70+项检查
-
-*   [ffffffff0x/f8x](https://github.com/ffffffff0x/f8x) - 红/蓝队环境自动化部署工具 | Red/Blue team environment automation deployment tool
-
-*   [vufa/deepin-wine-qq-arch](https://github.com/vufa/deepin-wine-qq-arch) - Tencent QQ on Deepin Wine5(com.qq.im.deepin) For Archlinux
-
-*   [vufa/deepin-wine-wechat-arch](https://github.com/vufa/deepin-wine-wechat-arch) - Tencent WeChat on Deepin Wine(com.qq.weixin.deepin) For Archlinux
-
-*   [orangbus/Tool](https://github.com/orangbus/Tool) - Manjaro从入门到爱不释手．
-
-*   [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
-
 ## HTML
 
 *   [LuoyeAutumn/FinalShell-Active](https://github.com/LuoyeAutumn/FinalShell-Active) - FinalShell 4.6.5 全版本离线激活码生成工具  WebUI  |  哈希值解密  |  支持高级版&专业版
@@ -3574,8 +3578,6 @@
 
 *   [hanc00l/wooyun\_public](https://github.com/hanc00l/wooyun_public) - This repo is archived. Thanks for wooyun!  乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops
 
-*   [tennc/webshell](https://github.com/tennc/webshell) - This is a webshell open source project
-
 ## Hack
 
 *   [ProbiusOfficial/RCE-labs](https://github.com/ProbiusOfficial/RCE-labs) - 【Hello-CTF labs】一个想帮你收集所有RCE技巧的靶场。
@@ -3737,8 +3739,6 @@
 ## XSLT
 
 *   [LOLBAS-Project/LOLBAS](https://github.com/LOLBAS-Project/LOLBAS) - Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)
-
-*   [TideSec/BypassAntiVirus](https://github.com/TideSec/BypassAntiVirus) - 远控免杀系列文章及配套工具，汇总测试了互联网上的几十种免杀工具、113种白名单免杀方式、8种代码编译免杀、若干免杀实战技术，并对免杀效果进行了一一测试，为远控的免杀和杀软对抗免杀提供参考。
 
 ## Lua
 
